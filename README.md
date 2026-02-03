@@ -5,7 +5,7 @@
 <p>O objetivo do projeto foi aplicar os conceitos que tinha aprendido na imersão Alura. Descobrindo:</p>
 <ul>
   <li>Como Limpar os dados</li>
-  <li>Como manipular os dados</li>l
+  <li>Como manipular os dados</li>
   <li>Bibliotecas Python usadas</li>
   <li>Como criar gráficos intuitivos</li>
 </ul>

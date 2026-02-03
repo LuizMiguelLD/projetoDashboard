@@ -1,0 +1,2601 @@
+id,data_visita,idade,genero,tipo_inscricao,tipo_treino,tempo_treino_minutos,calorias_queimadas,horario_check_in,status_presenca,periodo_check_in
+1,2024-10-11,64,Outro,Anual,HIIT,28,171,20:04:00,Ausente,Noite
+2,2024-06-01,65,Feminino,Trimestral,Treino de força,72,650,19:17:00,Ausente,Noite
+3,2024-06-13,45,Masculino,Trimestral,Cardio,70,633,07:24:00,Ausente,Manhã
+4,2024-02-05,35,Feminino,Mensal,CrossFit,64,362,07:18:00,Ausente,Manhã
+5,2024-07-13,26,Feminino,Trimestral,Yoga,31,262,11:22:00,Ausente,Manhã
+6,2024-09-11,45,Outro,Trimestral,Cardio,63,518,20:08:00,Presente,Noite
+7,2024-02-22,30,Outro,Trimestral,CrossFit,50,404,18:17:00,Ausente,Noite
+8,2024-05-04,38,Masculino,Anual,Yoga,99,959,21:59:00,Ausente,Noite
+9,2024-02-10,61,Feminino,Mensal,CrossFit,36,289,09:39:00,Presente,Manhã
+10,2024-08-14,36,Outro,Trimestral,Treino de força,94,643,11:29:00,Ausente,Manhã
+11,2024-10-11,60,Feminino,Mensal,Treino de força,110,738,22:43:00,Presente,Noite
+12,2024-12-25,26,Feminino,Mensal,HIIT,86,547,08:17:00,Ausente,Manhã
+13,2024-06-28,48,Feminino,Trimestral,HIIT,44,389,19:08:00,Ausente,Noite
+14,2024-12-01,54,Outro,Anual,Yoga,99,644,14:45:00,Ausente,Tarde
+15,2024-07-08,40,Outro,Trimestral,CrossFit,99,643,20:18:00,Presente,Noite
+16,2024-10-05,38,Outro,Mensal,HIIT,106,976,13:15:00,Ausente,Tarde
+17,2024-12-01,28,Outro,Mensal,Yoga,34,244,09:13:00,Presente,Manhã
+18,2024-06-27,35,Outro,Anual,CrossFit,25,211,18:38:00,Presente,Noite
+19,2024-10-31,32,Feminino,Anual,CrossFit,55,402,09:06:00,Presente,Manhã
+20,2024-07-31,32,Feminino,Mensal,CrossFit,48,330,10:35:00,Presente,Manhã
+21,2024-01-02,51,Outro,Mensal,Cardio,68,526,16:58:00,Ausente,Tarde
+22,2024-07-28,53,Feminino,Anual,HIIT,41,248,14:24:00,Ausente,Tarde
+23,2024-05-06,30,Masculino,Trimestral,HIIT,98,577,20:49:00,Ausente,Noite
+24,2024-07-31,20,Masculino,Mensal,CrossFit,104,589,21:37:00,Presente,Noite
+25,2024-12-07,63,Masculino,Anual,Yoga,54,288,12:09:00,Presente,Tarde
+26,2024-09-23,21,Feminino,Anual,Yoga,40,358,14:09:00,Ausente,Tarde
+27,2024-06-12,52,Masculino,Mensal,CrossFit,77,620,14:48:00,Ausente,Tarde
+28,2024-05-02,49,Outro,Anual,HIIT,37,187,19:56:00,Ausente,Noite
+29,2024-02-07,39,Outro,Trimestral,Treino de força,120,991,21:23:00,Presente,Noite
+30,2024-12-02,57,Feminino,Anual,CrossFit,96,621,13:16:00,Ausente,Tarde
+31,2024-03-10,18,Masculino,Mensal,Cardio,52,455,09:43:00,Presente,Manhã
+32,2024-12-19,19,Masculino,Mensal,CrossFit,59,374,19:23:00,Presente,Noite
+33,2024-03-21,27,Feminino,Anual,Treino de força,23,127,22:44:00,Presente,Noite
+34,2024-03-17,51,Masculino,Trimestral,CrossFit,36,208,20:18:00,Presente,Noite
+35,2024-12-25,50,Feminino,Mensal,CrossFit,59,584,17:28:00,Presente,Tarde
+36,2024-03-14,48,Masculino,Mensal,Cardio,20,159,07:50:00,Ausente,Manhã
+37,2024-08-24,49,Feminino,Anual,Treino de força,81,756,11:16:00,Ausente,Manhã
+38,2024-03-26,47,Feminino,Anual,CrossFit,107,779,15:14:00,Presente,Tarde
+39,2024-05-21,61,Feminino,Mensal,Treino de força,94,737,08:57:00,Presente,Manhã
+40,2024-05-25,26,Outro,Mensal,Yoga,100,562,05:16:00,Presente,Manhã
+41,2024-04-27,50,Outro,Trimestral,HIIT,51,428,15:05:00,Presente,Tarde
+42,2024-10-01,26,Masculino,Anual,HIIT,94,859,07:04:00,Presente,Manhã
+43,2024-11-26,45,Feminino,Mensal,HIIT,61,412,08:43:00,Ausente,Manhã
+44,2024-03-22,19,Masculino,Mensal,Cardio,81,570,20:36:00,Ausente,Noite
+45,2024-08-14,39,Feminino,Mensal,Yoga,26,208,14:20:00,Ausente,Tarde
+46,2024-07-01,33,Masculino,Mensal,CrossFit,56,336,21:50:00,Ausente,Noite
+47,2024-12-07,40,Outro,Trimestral,Yoga,92,524,19:24:00,Ausente,Noite
+48,2024-10-18,32,Feminino,Mensal,Cardio,63,546,18:26:00,Ausente,Noite
+49,2024-07-02,42,Masculino,Mensal,CrossFit,103,755,16:47:00,Presente,Tarde
+50,2024-12-04,42,Outro,Trimestral,Treino de força,99,746,16:19:00,Ausente,Tarde
+51,2024-08-11,27,Masculino,Mensal,Yoga,60,337,09:43:00,Presente,Manhã
+52,2024-11-22,42,Masculino,Anual,CrossFit,42,346,05:27:00,Presente,Manhã
+53,2024-01-01,47,Masculino,Trimestral,CrossFit,55,286,13:54:00,Ausente,Tarde
+54,2024-12-02,23,Feminino,Mensal,CrossFit,115,1086,21:11:00,Ausente,Noite
+55,2024-05-07,18,Masculino,Anual,Cardio,53,483,15:03:00,Ausente,Tarde
+56,2024-03-02,22,Outro,Trimestral,Cardio,44,423,18:47:00,Presente,Noite
+57,2024-06-12,37,Masculino,Mensal,Cardio,37,242,11:54:00,Presente,Manhã
+58,2024-11-12,39,Outro,Anual,Yoga,76,596,09:48:00,Ausente,Manhã
+59,2024-06-14,59,Feminino,Mensal,HIIT,47,460,17:00:00,Ausente,Tarde
+60,2024-03-08,65,Outro,Anual,HIIT,57,318,19:47:00,Presente,Noite
+61,2024-01-19,54,Feminino,Anual,Yoga,120,751,20:44:00,Presente,Noite
+62,2024-04-08,52,Outro,Mensal,Treino de força,113,878,09:42:00,Presente,Manhã
+63,2024-10-10,43,Feminino,Trimestral,Treino de força,22,142,22:58:00,Ausente,Noite
+64,2024-09-04,55,Masculino,Trimestral,HIIT,33,248,05:51:00,Ausente,Manhã
+65,2024-11-09,33,Outro,Trimestral,HIIT,37,251,10:56:00,Presente,Manhã
+66,2024-11-29,29,Masculino,Trimestral,Cardio,83,683,22:12:00,Ausente,Noite
+67,2024-07-17,47,Feminino,Mensal,Cardio,25,172,05:44:00,Presente,Manhã
+68,2024-01-16,31,Outro,Trimestral,Yoga,42,243,10:34:00,Presente,Manhã
+69,2024-06-12,34,Masculino,Trimestral,Cardio,54,515,20:05:00,Ausente,Noite
+70,2024-01-18,61,Masculino,Mensal,CrossFit,32,304,07:12:00,Ausente,Manhã
+71,2024-06-23,22,Feminino,Anual,Treino de força,92,715,07:12:00,Ausente,Manhã
+72,2024-12-26,30,Masculino,Anual,Cardio,49,378,11:52:00,Ausente,Manhã
+73,2024-08-29,30,Feminino,Mensal,HIIT,26,233,17:42:00,Presente,Tarde
+74,2024-04-01,34,Masculino,Trimestral,HIIT,58,561,19:50:00,Presente,Noite
+75,2024-02-11,33,Feminino,Mensal,CrossFit,53,340,05:22:00,Ausente,Manhã
+76,2024-11-22,45,Masculino,Trimestral,Treino de força,54,522,05:01:00,Ausente,Manhã
+77,2024-02-20,27,Outro,Mensal,HIIT,84,476,22:34:00,Presente,Noite
+78,2024-10-17,27,Feminino,Anual,Cardio,80,549,21:01:00,Ausente,Noite
+79,2024-05-10,63,Outro,Trimestral,Treino de força,45,265,21:09:00,Presente,Noite
+80,2024-08-23,59,Outro,Anual,CrossFit,89,502,21:53:00,Presente,Noite
+81,2024-12-17,60,Masculino,Trimestral,Yoga,98,630,21:54:00,Presente,Noite
+82,2024-06-03,23,Outro,Trimestral,Treino de força,43,228,06:52:00,Ausente,Manhã
+83,2024-10-17,44,Masculino,Trimestral,CrossFit,20,148,08:30:00,Ausente,Manhã
+84,2024-05-26,38,Outro,Trimestral,Treino de força,108,605,22:52:00,Ausente,Noite
+85,2024-01-23,25,Feminino,Anual,Yoga,40,364,13:59:00,Presente,Tarde
+86,2024-02-10,33,Feminino,Trimestral,Cardio,104,997,07:43:00,Presente,Manhã
+87,2024-03-04,52,Feminino,Mensal,CrossFit,115,1098,16:18:00,Ausente,Tarde
+88,2024-12-14,19,Masculino,Anual,HIIT,104,713,06:35:00,Ausente,Manhã
+89,2024-05-19,53,Masculino,Trimestral,HIIT,37,194,15:22:00,Presente,Tarde
+90,2024-05-24,18,Masculino,Trimestral,Cardio,41,342,10:41:00,Ausente,Manhã
+91,2024-04-04,48,Masculino,Trimestral,Yoga,71,672,13:50:00,Ausente,Tarde
+92,2024-07-29,20,Outro,Mensal,CrossFit,26,148,09:25:00,Presente,Manhã
+93,2024-04-15,32,Feminino,Anual,Yoga,64,562,22:15:00,Presente,Noite
+94,2024-08-09,47,Masculino,Mensal,HIIT,114,937,22:33:00,Ausente,Noite
+95,2024-11-05,41,Masculino,Trimestral,CrossFit,110,865,16:19:00,Ausente,Tarde
+96,2024-02-10,58,Outro,Anual,Treino de força,101,778,10:39:00,Ausente,Manhã
+97,2024-08-30,59,Feminino,Mensal,Yoga,110,585,22:57:00,Presente,Noite
+98,2024-11-17,58,Outro,Mensal,Treino de força,98,721,12:34:00,Presente,Tarde
+99,2024-01-21,33,Feminino,Anual,Yoga,49,465,10:14:00,Ausente,Manhã
+100,2024-10-22,42,Feminino,Trimestral,CrossFit,69,369,18:31:00,Presente,Noite
+101,2024-03-12,51,Masculino,Anual,HIIT,108,856,09:04:00,Ausente,Manhã
+102,2024-02-27,36,Masculino,Anual,CrossFit,48,459,07:03:00,Ausente,Manhã
+103,2024-03-10,20,Feminino,Anual,Yoga,89,714,06:34:00,Presente,Manhã
+104,2024-09-04,64,Masculino,Mensal,CrossFit,86,796,07:55:00,Presente,Manhã
+105,2024-06-13,22,Outro,Mensal,Treino de força,64,590,19:39:00,Ausente,Noite
+106,2024-10-14,37,Feminino,Anual,Treino de força,108,961,15:30:00,Presente,Tarde
+107,2024-03-04,30,Outro,Anual,HIIT,80,596,09:01:00,Ausente,Manhã
+108,2024-10-05,64,Outro,Trimestral,Cardio,73,623,10:45:00,Presente,Manhã
+109,2024-10-30,31,Feminino,Anual,Cardio,28,236,10:08:00,Ausente,Manhã
+110,2024-05-08,48,Outro,Trimestral,CrossFit,25,138,14:03:00,Presente,Tarde
+111,2024-07-13,18,Masculino,Trimestral,HIIT,62,429,18:40:00,Ausente,Noite
+112,2024-10-24,30,Feminino,Mensal,HIIT,65,555,19:39:00,Presente,Noite
+113,2024-10-23,37,Outro,Trimestral,HIIT,120,842,20:17:00,Presente,Noite
+114,2024-12-31,42,Masculino,Trimestral,Yoga,88,761,05:32:00,Ausente,Manhã
+115,2024-06-09,27,Outro,Anual,HIIT,27,203,12:15:00,Presente,Tarde
+116,2024-06-30,47,Outro,Trimestral,CrossFit,42,393,20:17:00,Ausente,Noite
+117,2024-08-28,49,Outro,Trimestral,Cardio,31,193,09:26:00,Ausente,Manhã
+118,2024-12-25,64,Outro,Trimestral,Yoga,89,668,16:33:00,Presente,Tarde
+119,2024-02-06,59,Feminino,Anual,HIIT,39,277,05:25:00,Ausente,Manhã
+120,2024-05-05,47,Masculino,Mensal,Treino de força,69,591,09:23:00,Ausente,Manhã
+121,2024-04-11,64,Masculino,Anual,Yoga,32,262,08:10:00,Presente,Manhã
+122,2024-11-19,19,Feminino,Mensal,Cardio,120,1072,20:51:00,Ausente,Noite
+123,2024-06-19,32,Masculino,Trimestral,CrossFit,50,498,05:42:00,Ausente,Manhã
+124,2024-12-31,23,Masculino,Anual,CrossFit,83,748,16:54:00,Presente,Tarde
+125,2024-12-28,30,Outro,Trimestral,HIIT,86,774,21:09:00,Presente,Noite
+126,2024-10-17,54,Masculino,Anual,Yoga,37,194,19:14:00,Ausente,Noite
+127,2024-01-05,62,Masculino,Anual,Treino de força,87,788,11:13:00,Ausente,Manhã
+128,2024-09-14,18,Outro,Mensal,Yoga,28,266,14:38:00,Ausente,Tarde
+129,2024-12-20,18,Masculino,Anual,Treino de força,53,415,15:30:00,Presente,Tarde
+130,2024-08-04,61,Outro,Trimestral,Cardio,103,756,05:33:00,Presente,Manhã
+131,2024-01-16,37,Feminino,Anual,CrossFit,104,873,17:13:00,Ausente,Tarde
+132,2024-04-15,18,Masculino,Trimestral,Cardio,88,828,06:25:00,Ausente,Manhã
+133,2024-09-12,52,Masculino,Trimestral,HIIT,84,534,17:02:00,Presente,Tarde
+134,2024-08-04,37,Outro,Anual,Cardio,65,327,05:11:00,Ausente,Manhã
+135,2024-03-16,59,Outro,Mensal,Cardio,44,341,16:15:00,Ausente,Tarde
+136,2024-02-27,65,Masculino,Trimestral,Treino de força,113,934,14:09:00,Ausente,Tarde
+137,2024-03-18,50,Outro,Mensal,Cardio,117,878,06:06:00,Presente,Manhã
+138,2024-07-05,38,Outro,Trimestral,Treino de força,98,578,07:43:00,Presente,Manhã
+139,2024-11-03,34,Masculino,Anual,Cardio,42,214,20:37:00,Presente,Noite
+140,2024-02-04,51,Feminino,Anual,Yoga,63,466,10:46:00,Presente,Manhã
+141,2024-12-13,56,Feminino,Anual,Cardio,67,440,13:38:00,Presente,Tarde
+142,2024-03-25,38,Feminino,Anual,HIIT,82,816,09:38:00,Ausente,Manhã
+143,2024-04-20,20,Outro,Anual,Treino de força,80,403,07:40:00,Ausente,Manhã
+144,2024-01-28,32,Feminino,Mensal,Yoga,48,476,10:24:00,Ausente,Manhã
+145,2024-07-11,52,Outro,Anual,Treino de força,27,155,16:55:00,Ausente,Tarde
+146,2024-01-11,20,Outro,Mensal,Cardio,56,405,08:19:00,Presente,Manhã
+147,2024-10-24,38,Feminino,Trimestral,Cardio,106,808,17:12:00,Presente,Tarde
+148,2024-08-17,48,Masculino,Mensal,Yoga,109,793,06:26:00,Presente,Manhã
+149,2024-05-25,18,Masculino,Mensal,Treino de força,83,823,13:11:00,Ausente,Tarde
+150,2024-09-11,64,Outro,Trimestral,CrossFit,91,537,06:24:00,Presente,Manhã
+151,2024-01-13,29,Outro,Anual,Yoga,31,268,15:57:00,Ausente,Tarde
+152,2024-02-10,41,Outro,Trimestral,Treino de força,83,819,05:38:00,Presente,Manhã
+153,2024-10-17,19,Outro,Trimestral,CrossFit,65,472,17:58:00,Ausente,Tarde
+154,2024-01-08,27,Masculino,Trimestral,CrossFit,66,469,10:50:00,Presente,Manhã
+155,2024-06-16,20,Masculino,Anual,CrossFit,52,488,13:11:00,Ausente,Tarde
+156,2024-06-12,37,Outro,Anual,CrossFit,54,487,10:20:00,Presente,Manhã
+157,2024-10-10,57,Outro,Mensal,Treino de força,63,341,06:46:00,Ausente,Manhã
+158,2024-05-24,65,Outro,Mensal,Treino de força,74,667,20:48:00,Ausente,Noite
+159,2024-03-14,49,Feminino,Mensal,HIIT,59,367,20:38:00,Presente,Noite
+160,2024-08-29,49,Outro,Mensal,HIIT,56,512,16:22:00,Ausente,Tarde
+161,2024-10-04,26,Feminino,Anual,Treino de força,100,984,13:25:00,Ausente,Tarde
+162,2024-05-09,61,Masculino,Mensal,CrossFit,80,553,17:39:00,Presente,Tarde
+163,2024-02-05,57,Masculino,Anual,Yoga,111,1000,17:12:00,Ausente,Tarde
+164,2024-04-01,23,Feminino,Trimestral,Cardio,113,645,15:36:00,Ausente,Tarde
+165,2024-02-24,45,Outro,Trimestral,CrossFit,59,299,08:57:00,Ausente,Manhã
+166,2024-02-27,25,Outro,Trimestral,Cardio,81,572,16:00:00,Presente,Tarde
+167,2024-03-17,50,Feminino,Mensal,Cardio,47,278,18:58:00,Presente,Noite
+168,2024-12-29,47,Masculino,Anual,HIIT,40,227,14:39:00,Presente,Tarde
+169,2024-03-19,33,Outro,Mensal,CrossFit,39,299,15:27:00,Presente,Tarde
+170,2024-11-01,19,Masculino,Mensal,CrossFit,77,402,13:29:00,Ausente,Tarde
+171,2024-03-15,49,Masculino,Trimestral,HIIT,92,809,12:17:00,Ausente,Tarde
+172,2024-12-06,45,Masculino,Trimestral,Cardio,76,647,11:50:00,Ausente,Manhã
+173,2024-06-01,38,Masculino,Anual,CrossFit,28,200,07:15:00,Ausente,Manhã
+174,2024-03-18,22,Outro,Mensal,HIIT,109,965,11:53:00,Presente,Manhã
+175,2024-12-12,38,Outro,Anual,Treino de força,82,560,14:27:00,Presente,Tarde
+176,2024-07-03,61,Outro,Anual,HIIT,31,246,05:42:00,Ausente,Manhã
+177,2024-12-06,25,Feminino,Trimestral,Treino de força,107,821,16:27:00,Presente,Tarde
+178,2024-01-25,41,Outro,Anual,CrossFit,47,395,22:22:00,Ausente,Noite
+179,2024-09-03,61,Outro,Mensal,Cardio,57,408,21:12:00,Presente,Noite
+180,2024-07-06,38,Outro,Trimestral,Treino de força,48,348,18:39:00,Presente,Noite
+181,2024-12-21,54,Outro,Trimestral,CrossFit,69,487,19:23:00,Presente,Noite
+182,2024-03-17,58,Feminino,Anual,Cardio,97,862,09:21:00,Presente,Manhã
+183,2024-05-26,63,Masculino,Mensal,Yoga,55,525,07:18:00,Ausente,Manhã
+184,2024-02-06,45,Masculino,Anual,Cardio,118,775,17:42:00,Ausente,Tarde
+185,2024-10-30,30,Outro,Trimestral,Yoga,72,608,20:50:00,Presente,Noite
+186,2024-06-05,34,Masculino,Mensal,Yoga,94,690,06:17:00,Ausente,Manhã
+187,2024-02-24,51,Outro,Trimestral,HIIT,108,611,17:40:00,Ausente,Tarde
+188,2024-03-05,59,Feminino,Mensal,HIIT,71,641,13:46:00,Ausente,Tarde
+189,2024-04-14,53,Feminino,Trimestral,Treino de força,98,900,12:30:00,Ausente,Tarde
+190,2024-12-04,60,Feminino,Mensal,Treino de força,109,780,11:36:00,Ausente,Manhã
+191,2024-03-18,40,Feminino,Trimestral,Cardio,20,113,11:29:00,Ausente,Manhã
+192,2024-11-18,62,Feminino,Mensal,Yoga,31,247,13:27:00,Presente,Tarde
+193,2024-01-04,52,Masculino,Anual,HIIT,73,456,18:31:00,Ausente,Noite
+194,2024-08-17,55,Outro,Trimestral,Cardio,105,931,12:24:00,Presente,Tarde
+195,2024-01-09,30,Masculino,Anual,Cardio,25,212,14:50:00,Presente,Tarde
+196,2024-01-31,41,Outro,Anual,CrossFit,102,944,08:55:00,Ausente,Manhã
+197,2024-04-16,39,Feminino,Trimestral,Yoga,78,666,12:57:00,Ausente,Tarde
+198,2024-11-15,31,Masculino,Trimestral,HIIT,33,206,10:45:00,Presente,Manhã
+199,2024-01-02,61,Outro,Mensal,HIIT,106,706,22:05:00,Presente,Noite
+200,2024-09-10,48,Outro,Trimestral,HIIT,68,565,21:24:00,Ausente,Noite
+201,2024-01-05,46,Feminino,Trimestral,Treino de força,27,246,06:22:00,Ausente,Manhã
+202,2024-10-15,49,Masculino,Anual,Cardio,72,591,11:22:00,Ausente,Manhã
+203,2024-03-14,39,Outro,Mensal,CrossFit,52,486,10:01:00,Ausente,Manhã
+204,2024-07-12,24,Masculino,Mensal,Cardio,51,275,11:41:00,Ausente,Manhã
+205,2024-04-14,43,Masculino,Anual,Treino de força,36,301,14:28:00,Presente,Tarde
+206,2024-02-22,56,Feminino,Anual,CrossFit,74,398,19:03:00,Presente,Noite
+207,2024-06-28,57,Masculino,Anual,Cardio,64,474,10:09:00,Presente,Manhã
+208,2024-05-31,54,Feminino,Mensal,Treino de força,62,613,10:30:00,Presente,Manhã
+209,2024-08-21,25,Masculino,Trimestral,Cardio,106,766,19:32:00,Ausente,Noite
+210,2024-02-25,49,Masculino,Anual,Cardio,120,614,15:58:00,Ausente,Tarde
+211,2024-01-12,52,Outro,Trimestral,Yoga,101,548,15:07:00,Presente,Tarde
+212,2024-08-25,50,Feminino,Trimestral,HIIT,69,655,14:23:00,Ausente,Tarde
+213,2024-09-22,50,Feminino,Trimestral,CrossFit,34,266,09:27:00,Presente,Manhã
+214,2024-11-25,64,Feminino,Mensal,Treino de força,98,769,17:20:00,Ausente,Tarde
+215,2024-11-30,38,Feminino,Anual,Cardio,111,1025,21:15:00,Presente,Noite
+216,2024-04-07,27,Masculino,Mensal,Cardio,70,540,14:34:00,Ausente,Tarde
+217,2024-08-26,41,Outro,Anual,Yoga,83,741,17:44:00,Ausente,Tarde
+218,2024-11-07,52,Masculino,Anual,Treino de força,92,852,17:03:00,Presente,Tarde
+219,2024-12-21,62,Outro,Mensal,CrossFit,58,368,17:22:00,Ausente,Tarde
+220,2024-10-21,28,Masculino,Anual,HIIT,26,169,15:20:00,Presente,Tarde
+221,2024-05-20,58,Feminino,Anual,Treino de força,59,466,09:17:00,Presente,Manhã
+222,2024-02-09,53,Feminino,Anual,Treino de força,89,593,22:39:00,Presente,Noite
+223,2024-12-23,52,Outro,Mensal,HIIT,78,608,14:51:00,Presente,Tarde
+224,2024-07-09,58,Feminino,Mensal,HIIT,23,227,22:05:00,Presente,Noite
+225,2024-03-19,27,Masculino,Mensal,Yoga,116,816,22:37:00,Presente,Noite
+226,2024-05-12,64,Masculino,Mensal,CrossFit,44,234,16:01:00,Ausente,Tarde
+227,2024-05-09,24,Masculino,Trimestral,Treino de força,53,489,07:04:00,Presente,Manhã
+228,2024-03-04,43,Masculino,Mensal,CrossFit,29,205,07:21:00,Presente,Manhã
+229,2024-05-03,40,Outro,Anual,Yoga,47,235,16:19:00,Ausente,Tarde
+230,2024-05-14,41,Outro,Trimestral,Cardio,85,512,07:31:00,Ausente,Manhã
+231,2024-09-04,56,Outro,Mensal,CrossFit,64,561,17:26:00,Ausente,Tarde
+232,2024-05-13,25,Feminino,Anual,HIIT,45,404,12:57:00,Ausente,Tarde
+233,2024-08-07,53,Masculino,Trimestral,HIIT,30,223,12:27:00,Ausente,Tarde
+234,2024-12-02,18,Outro,Anual,Cardio,42,248,11:51:00,Presente,Manhã
+235,2024-11-30,20,Feminino,Trimestral,Treino de força,78,619,11:09:00,Presente,Manhã
+236,2024-12-22,36,Feminino,Trimestral,Yoga,87,725,20:26:00,Ausente,Noite
+237,2024-05-26,50,Feminino,Anual,Yoga,117,959,11:35:00,Presente,Manhã
+238,2024-01-16,62,Masculino,Mensal,Cardio,69,600,15:31:00,Ausente,Tarde
+239,2024-01-07,36,Outro,Anual,Cardio,94,735,15:39:00,Presente,Tarde
+240,2024-02-23,30,Outro,Anual,CrossFit,48,437,10:40:00,Ausente,Manhã
+241,2024-04-03,33,Masculino,Anual,Yoga,101,714,11:18:00,Presente,Manhã
+242,2024-07-25,55,Outro,Mensal,Treino de força,105,867,05:35:00,Ausente,Manhã
+243,2024-10-12,29,Outro,Anual,Treino de força,112,654,16:57:00,Presente,Tarde
+244,2024-01-24,64,Outro,Anual,Treino de força,102,549,05:57:00,Ausente,Manhã
+245,2024-01-16,44,Outro,Anual,Treino de força,63,452,11:49:00,Ausente,Manhã
+246,2024-01-27,18,Masculino,Anual,HIIT,36,328,05:12:00,Presente,Manhã
+247,2024-11-29,47,Masculino,Trimestral,Treino de força,109,1040,19:58:00,Ausente,Noite
+248,2024-04-14,43,Masculino,Mensal,CrossFit,27,204,18:27:00,Presente,Noite
+249,2024-09-22,22,Masculino,Anual,Yoga,65,428,12:41:00,Ausente,Tarde
+250,2024-02-06,50,Outro,Mensal,CrossFit,58,505,22:17:00,Ausente,Noite
+251,2024-02-04,41,Outro,Mensal,HIIT,68,465,21:12:00,Presente,Noite
+252,2024-04-11,60,Outro,Mensal,Yoga,77,446,19:33:00,Ausente,Noite
+253,2024-04-05,29,Masculino,Anual,Treino de força,52,431,14:57:00,Presente,Tarde
+254,2024-06-26,19,Masculino,Anual,Treino de força,40,362,10:13:00,Ausente,Manhã
+255,2024-06-25,45,Outro,Anual,Cardio,84,476,06:12:00,Ausente,Manhã
+256,2024-12-19,53,Masculino,Mensal,Cardio,112,733,06:38:00,Presente,Manhã
+257,2024-02-20,35,Masculino,Anual,Yoga,108,785,12:31:00,Presente,Tarde
+258,2024-12-02,40,Masculino,Trimestral,CrossFit,92,782,08:39:00,Presente,Manhã
+259,2024-04-08,49,Feminino,Trimestral,Cardio,87,622,18:24:00,Presente,Noite
+260,2024-12-23,24,Feminino,Anual,Treino de força,80,512,21:10:00,Ausente,Noite
+261,2024-02-08,45,Outro,Trimestral,Cardio,56,491,06:08:00,Ausente,Manhã
+262,2024-02-18,39,Feminino,Anual,CrossFit,31,171,15:47:00,Ausente,Tarde
+263,2024-01-15,48,Feminino,Trimestral,Yoga,44,396,14:12:00,Ausente,Tarde
+264,2024-08-30,55,Masculino,Mensal,Yoga,35,320,12:05:00,Presente,Tarde
+265,2024-07-09,62,Feminino,Anual,Treino de força,75,639,17:48:00,Presente,Tarde
+266,2024-08-02,64,Outro,Mensal,Yoga,26,192,18:21:00,Presente,Noite
+267,2024-10-09,26,Outro,Anual,Treino de força,78,500,15:38:00,Ausente,Tarde
+268,2024-06-26,33,Feminino,Mensal,CrossFit,31,164,22:28:00,Ausente,Noite
+269,2024-03-25,49,Masculino,Trimestral,Treino de força,70,378,13:14:00,Presente,Tarde
+270,2024-07-13,59,Feminino,Anual,HIIT,32,272,13:18:00,Ausente,Tarde
+271,2024-08-06,63,Masculino,Trimestral,Yoga,120,1058,12:00:00,Ausente,Tarde
+272,2024-11-19,23,Feminino,Trimestral,Treino de força,35,210,21:41:00,Ausente,Noite
+273,2024-12-05,65,Outro,Anual,HIIT,36,279,11:56:00,Ausente,Manhã
+274,2024-04-18,18,Outro,Trimestral,Cardio,85,499,12:55:00,Ausente,Tarde
+275,2024-03-05,53,Feminino,Anual,HIIT,61,415,13:41:00,Ausente,Tarde
+276,2024-07-26,26,Feminino,Mensal,Cardio,53,429,20:38:00,Presente,Noite
+277,2024-02-04,25,Feminino,Trimestral,HIIT,106,640,22:52:00,Presente,Noite
+278,2024-04-19,38,Feminino,Trimestral,Cardio,114,1087,08:38:00,Ausente,Manhã
+279,2024-11-08,21,Feminino,Anual,HIIT,44,302,16:00:00,Ausente,Tarde
+280,2024-09-25,58,Masculino,Mensal,Yoga,34,201,12:40:00,Presente,Tarde
+281,2024-08-16,35,Feminino,Trimestral,HIIT,88,618,19:08:00,Presente,Noite
+282,2024-08-29,27,Outro,Anual,Cardio,32,310,13:27:00,Presente,Tarde
+283,2024-09-09,24,Feminino,Mensal,Cardio,50,366,14:26:00,Ausente,Tarde
+284,2024-08-30,19,Outro,Trimestral,CrossFit,89,848,20:00:00,Ausente,Noite
+285,2024-05-15,61,Outro,Mensal,Cardio,57,303,07:24:00,Ausente,Manhã
+286,2024-06-11,19,Feminino,Anual,Cardio,98,931,16:39:00,Ausente,Tarde
+287,2024-04-13,22,Outro,Anual,Treino de força,114,939,05:36:00,Presente,Manhã
+288,2024-01-19,53,Outro,Anual,Cardio,29,177,14:50:00,Ausente,Tarde
+289,2024-06-28,58,Outro,Anual,Cardio,107,629,06:01:00,Ausente,Manhã
+290,2024-01-05,20,Feminino,Mensal,HIIT,113,1049,07:49:00,Ausente,Manhã
+291,2024-04-22,30,Masculino,Mensal,Yoga,95,668,11:28:00,Presente,Manhã
+292,2024-08-23,60,Feminino,Trimestral,Yoga,119,994,17:54:00,Presente,Tarde
+293,2024-10-12,26,Masculino,Anual,Treino de força,97,876,21:35:00,Presente,Noite
+294,2024-05-30,49,Feminino,Mensal,Cardio,89,655,13:23:00,Presente,Tarde
+295,2024-12-22,64,Feminino,Mensal,CrossFit,54,404,05:23:00,Presente,Manhã
+296,2024-10-17,41,Outro,Anual,Yoga,72,642,05:02:00,Presente,Manhã
+297,2024-08-23,52,Feminino,Trimestral,CrossFit,94,588,09:11:00,Ausente,Manhã
+298,2024-03-22,24,Masculino,Mensal,Yoga,116,871,14:57:00,Ausente,Tarde
+299,2024-09-10,47,Feminino,Trimestral,Cardio,120,900,10:31:00,Ausente,Manhã
+300,2024-04-07,62,Outro,Mensal,CrossFit,92,853,13:32:00,Presente,Tarde
+301,2024-09-27,59,Masculino,Anual,CrossFit,42,283,22:14:00,Presente,Noite
+302,2024-12-13,38,Masculino,Mensal,HIIT,23,226,10:23:00,Ausente,Manhã
+303,2024-10-19,50,Masculino,Trimestral,CrossFit,92,797,13:33:00,Ausente,Tarde
+304,2024-04-11,57,Masculino,Anual,Cardio,108,949,06:48:00,Ausente,Manhã
+305,2024-11-02,42,Outro,Anual,Cardio,46,396,08:09:00,Presente,Manhã
+306,2024-10-01,65,Masculino,Mensal,Treino de força,104,941,11:11:00,Ausente,Manhã
+307,2024-04-09,23,Outro,Mensal,Yoga,83,481,05:58:00,Presente,Manhã
+308,2024-05-21,39,Masculino,Trimestral,Treino de força,91,830,22:57:00,Presente,Noite
+309,2024-07-19,19,Outro,Mensal,Cardio,76,669,08:30:00,Presente,Manhã
+310,2024-06-09,19,Feminino,Trimestral,Treino de força,46,380,12:44:00,Ausente,Tarde
+311,2024-08-01,37,Outro,Trimestral,CrossFit,120,964,22:42:00,Presente,Noite
+312,2024-01-24,31,Outro,Trimestral,Cardio,54,441,17:00:00,Ausente,Tarde
+313,2024-12-01,62,Feminino,Anual,HIIT,100,935,05:21:00,Presente,Manhã
+314,2024-03-30,40,Outro,Mensal,Yoga,99,599,11:27:00,Ausente,Manhã
+315,2024-02-13,19,Masculino,Mensal,CrossFit,79,535,19:03:00,Presente,Noite
+316,2024-07-21,28,Outro,Trimestral,Cardio,75,422,22:21:00,Ausente,Noite
+317,2024-01-07,36,Outro,Mensal,Yoga,74,528,12:43:00,Presente,Tarde
+318,2024-03-17,59,Feminino,Anual,Yoga,120,797,18:31:00,Presente,Noite
+319,2024-07-06,49,Masculino,Anual,HIIT,33,226,12:39:00,Ausente,Tarde
+320,2024-05-14,35,Feminino,Mensal,Cardio,107,543,19:37:00,Ausente,Noite
+321,2024-11-13,64,Masculino,Anual,Yoga,98,494,07:07:00,Presente,Manhã
+322,2024-11-20,61,Outro,Trimestral,Treino de força,69,388,06:24:00,Ausente,Manhã
+323,2024-03-31,57,Feminino,Trimestral,CrossFit,24,144,08:56:00,Ausente,Manhã
+324,2024-02-15,47,Masculino,Anual,Treino de força,70,512,21:52:00,Presente,Noite
+325,2024-06-18,52,Masculino,Anual,HIIT,76,390,11:07:00,Presente,Manhã
+326,2024-04-22,64,Masculino,Anual,Treino de força,35,198,21:54:00,Presente,Noite
+327,2024-07-13,50,Masculino,Trimestral,Yoga,31,305,09:53:00,Ausente,Manhã
+328,2024-06-25,27,Masculino,Trimestral,CrossFit,90,551,07:48:00,Ausente,Manhã
+329,2024-07-26,35,Feminino,Mensal,HIIT,51,453,14:58:00,Presente,Tarde
+330,2024-05-19,63,Outro,Anual,HIIT,47,340,05:44:00,Presente,Manhã
+331,2024-11-19,56,Outro,Trimestral,HIIT,62,315,22:33:00,Presente,Noite
+332,2024-03-16,57,Masculino,Trimestral,Yoga,64,609,13:29:00,Ausente,Tarde
+333,2024-06-17,51,Feminino,Trimestral,CrossFit,92,599,14:54:00,Ausente,Tarde
+334,2024-09-16,58,Masculino,Mensal,Cardio,24,168,08:41:00,Presente,Manhã
+335,2024-07-04,53,Feminino,Anual,Cardio,80,755,14:04:00,Presente,Tarde
+336,2024-01-26,34,Outro,Mensal,Cardio,29,210,10:34:00,Ausente,Manhã
+337,2024-01-01,57,Feminino,Trimestral,CrossFit,118,760,05:28:00,Presente,Manhã
+338,2024-04-10,20,Feminino,Mensal,Cardio,116,1075,12:14:00,Presente,Tarde
+339,2024-10-08,43,Outro,Trimestral,CrossFit,36,285,09:34:00,Presente,Manhã
+340,2024-02-14,27,Feminino,Trimestral,HIIT,100,750,15:38:00,Presente,Tarde
+341,2024-12-08,36,Masculino,Mensal,CrossFit,46,257,11:09:00,Ausente,Manhã
+342,2024-11-15,50,Masculino,Mensal,Yoga,37,327,15:34:00,Presente,Tarde
+343,2024-12-14,27,Feminino,Mensal,Treino de força,48,354,21:09:00,Ausente,Noite
+344,2024-05-22,32,Outro,Anual,CrossFit,119,1118,15:13:00,Ausente,Tarde
+345,2024-06-29,44,Masculino,Anual,HIIT,20,180,13:36:00,Presente,Tarde
+346,2024-01-08,26,Feminino,Trimestral,Cardio,118,813,12:44:00,Presente,Tarde
+347,2024-01-24,33,Feminino,Trimestral,HIIT,104,814,17:55:00,Ausente,Tarde
+348,2024-04-17,22,Masculino,Mensal,Treino de força,53,396,11:21:00,Ausente,Manhã
+349,2024-08-13,36,Masculino,Mensal,Cardio,84,756,06:51:00,Presente,Manhã
+350,2024-03-17,60,Outro,Mensal,Yoga,83,750,07:21:00,Presente,Manhã
+351,2024-11-19,28,Feminino,Mensal,Cardio,35,203,07:10:00,Presente,Manhã
+352,2024-10-11,53,Outro,Anual,CrossFit,79,448,15:58:00,Presente,Tarde
+353,2024-01-20,58,Outro,Trimestral,Cardio,25,201,18:19:00,Ausente,Noite
+354,2024-10-28,20,Masculino,Mensal,Cardio,116,997,19:31:00,Presente,Noite
+355,2024-08-12,46,Outro,Trimestral,Cardio,66,621,17:54:00,Presente,Tarde
+356,2024-02-22,65,Masculino,Mensal,Treino de força,73,605,13:44:00,Ausente,Tarde
+357,2024-02-27,26,Feminino,Anual,Cardio,52,462,07:12:00,Ausente,Manhã
+358,2024-11-27,48,Outro,Anual,CrossFit,74,719,12:34:00,Ausente,Tarde
+359,2024-04-20,59,Feminino,Anual,HIIT,48,332,13:08:00,Presente,Tarde
+360,2024-05-30,47,Masculino,Trimestral,HIIT,31,192,21:19:00,Ausente,Noite
+361,2024-08-31,38,Outro,Mensal,Cardio,111,900,21:55:00,Presente,Noite
+362,2024-09-18,49,Masculino,Trimestral,Treino de força,56,504,14:12:00,Presente,Tarde
+363,2024-02-03,40,Masculino,Mensal,Cardio,36,272,17:17:00,Presente,Tarde
+364,2024-05-04,33,Outro,Mensal,HIIT,108,813,08:12:00,Presente,Manhã
+365,2024-09-20,38,Masculino,Trimestral,Yoga,56,347,05:30:00,Presente,Manhã
+366,2024-01-20,30,Masculino,Mensal,HIIT,80,611,18:32:00,Presente,Noite
+367,2024-08-11,22,Masculino,Mensal,Yoga,80,659,22:05:00,Presente,Noite
+368,2024-06-26,40,Outro,Anual,HIIT,55,511,16:35:00,Ausente,Tarde
+369,2024-10-19,44,Masculino,Mensal,CrossFit,92,642,19:37:00,Presente,Noite
+370,2024-09-20,59,Feminino,Mensal,Cardio,40,391,14:28:00,Presente,Tarde
+371,2024-04-26,54,Feminino,Anual,Yoga,63,389,19:28:00,Presente,Noite
+372,2024-09-06,51,Feminino,Mensal,Treino de força,55,424,09:40:00,Presente,Manhã
+373,2024-02-26,45,Feminino,Trimestral,Yoga,46,418,18:07:00,Presente,Noite
+374,2024-01-29,34,Masculino,Mensal,Treino de força,21,107,06:46:00,Ausente,Manhã
+375,2024-02-01,51,Feminino,Mensal,CrossFit,63,448,15:33:00,Ausente,Tarde
+376,2024-07-21,44,Masculino,Trimestral,Treino de força,99,671,09:12:00,Ausente,Manhã
+377,2024-08-10,48,Outro,Trimestral,Cardio,45,404,16:49:00,Ausente,Tarde
+378,2024-10-21,18,Outro,Anual,Cardio,27,158,08:44:00,Ausente,Manhã
+379,2024-07-06,51,Feminino,Trimestral,Yoga,52,390,12:14:00,Ausente,Tarde
+380,2024-09-18,51,Masculino,Mensal,Cardio,63,476,11:59:00,Presente,Manhã
+381,2024-08-31,64,Masculino,Anual,Treino de força,59,369,15:39:00,Presente,Tarde
+382,2024-12-22,40,Masculino,Trimestral,Cardio,75,671,06:07:00,Ausente,Manhã
+383,2024-04-29,23,Outro,Trimestral,Treino de força,35,203,07:42:00,Ausente,Manhã
+384,2024-12-02,20,Outro,Mensal,Cardio,85,835,05:18:00,Ausente,Manhã
+385,2024-08-01,54,Outro,Anual,Cardio,43,385,14:59:00,Ausente,Tarde
+386,2024-07-04,59,Masculino,Trimestral,Cardio,71,551,16:52:00,Presente,Tarde
+387,2024-07-07,61,Masculino,Anual,HIIT,28,175,19:10:00,Ausente,Noite
+388,2024-11-12,39,Outro,Mensal,HIIT,77,545,12:46:00,Ausente,Tarde
+389,2024-06-11,52,Masculino,Mensal,CrossFit,71,441,22:05:00,Ausente,Noite
+390,2024-07-12,42,Masculino,Trimestral,Treino de força,87,621,16:36:00,Presente,Tarde
+391,2024-12-21,57,Masculino,Anual,Cardio,101,993,09:06:00,Ausente,Manhã
+392,2024-04-29,56,Feminino,Anual,Yoga,105,947,21:19:00,Presente,Noite
+393,2024-12-14,57,Masculino,Trimestral,Cardio,102,729,06:47:00,Presente,Manhã
+394,2024-08-05,45,Outro,Trimestral,Yoga,112,960,13:16:00,Ausente,Tarde
+395,2024-08-30,39,Outro,Trimestral,Treino de força,89,774,09:44:00,Presente,Manhã
+396,2024-02-19,18,Outro,Mensal,CrossFit,109,634,07:17:00,Presente,Manhã
+397,2024-07-16,49,Feminino,Anual,CrossFit,115,798,18:00:00,Ausente,Noite
+398,2024-02-26,40,Feminino,Trimestral,CrossFit,45,245,08:28:00,Ausente,Manhã
+399,2024-12-31,46,Outro,Anual,HIIT,97,841,10:20:00,Presente,Manhã
+400,2024-10-19,51,Masculino,Anual,CrossFit,57,393,18:56:00,Ausente,Noite
+401,2024-07-17,30,Masculino,Mensal,Treino de força,54,418,13:13:00,Ausente,Tarde
+402,2024-08-25,41,Feminino,Anual,Treino de força,73,613,11:10:00,Ausente,Manhã
+403,2024-12-27,19,Feminino,Anual,HIIT,113,663,09:09:00,Ausente,Manhã
+404,2024-06-03,38,Feminino,Mensal,Yoga,43,281,12:05:00,Ausente,Tarde
+405,2024-11-07,58,Outro,Anual,Yoga,92,575,20:35:00,Ausente,Noite
+406,2024-02-07,34,Outro,Anual,Cardio,62,539,09:29:00,Presente,Manhã
+407,2024-06-01,44,Outro,Anual,CrossFit,68,515,21:32:00,Ausente,Noite
+408,2024-03-29,63,Feminino,Mensal,Yoga,96,733,17:25:00,Ausente,Tarde
+409,2024-03-04,56,Masculino,Anual,CrossFit,26,215,10:08:00,Ausente,Manhã
+410,2024-08-21,48,Outro,Anual,CrossFit,57,351,22:34:00,Ausente,Noite
+411,2024-08-07,28,Feminino,Anual,HIIT,48,282,08:13:00,Presente,Manhã
+412,2024-07-08,46,Feminino,Mensal,HIIT,62,408,07:25:00,Ausente,Manhã
+413,2024-09-06,31,Outro,Mensal,CrossFit,74,714,18:01:00,Presente,Noite
+414,2024-03-15,56,Masculino,Anual,HIIT,49,262,15:35:00,Ausente,Tarde
+415,2024-12-31,33,Feminino,Mensal,HIIT,53,442,21:00:00,Ausente,Noite
+416,2024-12-15,39,Outro,Trimestral,Treino de força,56,444,10:35:00,Ausente,Manhã
+417,2024-04-03,30,Masculino,Trimestral,Cardio,96,947,16:48:00,Presente,Tarde
+418,2024-02-06,50,Masculino,Mensal,HIIT,34,240,13:30:00,Ausente,Tarde
+419,2024-06-09,41,Feminino,Anual,HIIT,74,433,11:54:00,Ausente,Manhã
+420,2024-12-24,58,Masculino,Anual,Treino de força,83,420,06:07:00,Presente,Manhã
+421,2024-07-29,56,Feminino,Mensal,Cardio,85,463,12:43:00,Ausente,Tarde
+422,2024-07-14,60,Feminino,Anual,CrossFit,77,386,21:26:00,Ausente,Noite
+423,2024-07-30,48,Masculino,Anual,Treino de força,101,810,11:43:00,Ausente,Manhã
+424,2024-04-06,44,Masculino,Trimestral,Treino de força,29,243,15:00:00,Presente,Tarde
+425,2024-09-16,33,Feminino,Mensal,Treino de força,101,767,18:34:00,Ausente,Noite
+426,2024-07-07,27,Feminino,Anual,HIIT,75,477,13:11:00,Presente,Tarde
+427,2024-05-10,29,Feminino,Trimestral,Yoga,57,462,11:21:00,Presente,Manhã
+428,2024-06-10,46,Masculino,Trimestral,HIIT,39,318,10:53:00,Presente,Manhã
+429,2024-01-11,53,Feminino,Trimestral,Cardio,33,275,05:31:00,Ausente,Manhã
+430,2024-07-04,54,Feminino,Mensal,Cardio,60,450,17:47:00,Ausente,Tarde
+431,2024-12-14,22,Feminino,Trimestral,HIIT,116,1087,12:40:00,Presente,Tarde
+432,2024-06-22,48,Outro,Mensal,HIIT,87,857,22:16:00,Presente,Noite
+433,2024-05-22,27,Outro,Anual,CrossFit,114,992,20:46:00,Ausente,Noite
+434,2024-01-06,49,Masculino,Mensal,Cardio,85,669,07:10:00,Presente,Manhã
+435,2024-03-25,33,Outro,Trimestral,CrossFit,78,761,21:47:00,Ausente,Noite
+436,2024-08-11,55,Feminino,Mensal,Treino de força,34,255,08:04:00,Presente,Manhã
+437,2024-08-23,49,Masculino,Anual,HIIT,41,366,11:13:00,Ausente,Manhã
+438,2024-05-15,32,Outro,Mensal,Treino de força,28,223,10:43:00,Ausente,Manhã
+439,2024-05-18,30,Outro,Mensal,Treino de força,55,319,07:06:00,Presente,Manhã
+440,2024-07-29,64,Masculino,Mensal,HIIT,62,442,07:37:00,Presente,Manhã
+441,2024-03-19,31,Masculino,Trimestral,Cardio,22,165,11:19:00,Ausente,Manhã
+442,2024-06-12,54,Feminino,Mensal,HIIT,102,981,19:42:00,Ausente,Noite
+443,2024-10-22,44,Masculino,Trimestral,HIIT,91,631,19:16:00,Presente,Noite
+444,2024-02-20,64,Feminino,Anual,Treino de força,63,624,08:32:00,Ausente,Manhã
+445,2024-05-26,52,Outro,Trimestral,HIIT,109,617,22:05:00,Presente,Noite
+446,2024-01-24,42,Feminino,Mensal,HIIT,67,443,20:58:00,Ausente,Noite
+447,2024-03-12,31,Outro,Mensal,CrossFit,86,485,11:55:00,Ausente,Manhã
+448,2024-08-24,54,Outro,Mensal,Treino de força,81,808,15:34:00,Presente,Tarde
+449,2024-07-12,47,Feminino,Mensal,Cardio,69,663,19:27:00,Presente,Noite
+450,2024-02-06,28,Masculino,Trimestral,Treino de força,40,335,12:43:00,Presente,Tarde
+451,2024-02-15,46,Feminino,Trimestral,Cardio,86,662,13:56:00,Presente,Tarde
+452,2024-11-26,26,Feminino,Mensal,Yoga,98,584,07:37:00,Presente,Manhã
+453,2024-08-25,58,Feminino,Trimestral,Treino de força,51,396,10:32:00,Ausente,Manhã
+454,2024-05-26,27,Outro,Trimestral,Treino de força,97,957,21:06:00,Presente,Noite
+455,2024-10-05,36,Outro,Trimestral,Cardio,119,1186,19:07:00,Presente,Noite
+456,2024-12-29,49,Outro,Anual,Treino de força,43,347,12:10:00,Ausente,Tarde
+457,2024-11-21,18,Masculino,Anual,Yoga,24,125,10:25:00,Presente,Manhã
+458,2024-09-29,58,Outro,Mensal,HIIT,79,408,11:49:00,Presente,Manhã
+459,2024-04-21,42,Feminino,Anual,Treino de força,79,556,13:11:00,Ausente,Tarde
+460,2024-08-01,50,Feminino,Trimestral,HIIT,93,899,16:09:00,Ausente,Tarde
+461,2024-05-22,55,Feminino,Anual,HIIT,28,218,16:10:00,Ausente,Tarde
+462,2024-08-01,22,Feminino,Anual,Yoga,44,299,21:53:00,Ausente,Noite
+463,2024-07-17,51,Masculino,Anual,CrossFit,31,230,07:39:00,Presente,Manhã
+464,2024-09-19,27,Outro,Anual,Yoga,52,279,15:57:00,Ausente,Tarde
+465,2024-09-02,24,Outro,Anual,Treino de força,47,349,10:31:00,Presente,Manhã
+466,2024-10-27,34,Feminino,Trimestral,Yoga,22,159,20:22:00,Presente,Noite
+467,2024-06-30,21,Feminino,Mensal,Treino de força,76,526,09:48:00,Ausente,Manhã
+468,2024-03-01,36,Feminino,Mensal,Treino de força,37,338,16:12:00,Ausente,Tarde
+469,2024-12-10,20,Masculino,Trimestral,Treino de força,119,695,18:15:00,Presente,Noite
+470,2024-04-14,28,Feminino,Mensal,CrossFit,96,545,22:35:00,Presente,Noite
+471,2024-12-07,48,Feminino,Trimestral,Treino de força,38,299,05:06:00,Presente,Manhã
+472,2024-11-29,25,Outro,Anual,Treino de força,99,705,22:23:00,Presente,Noite
+473,2024-04-17,34,Masculino,Anual,Cardio,118,685,06:41:00,Presente,Manhã
+474,2024-11-23,60,Outro,Anual,Yoga,67,536,08:31:00,Presente,Manhã
+475,2024-04-26,61,Feminino,Anual,HIIT,101,913,09:25:00,Ausente,Manhã
+476,2024-04-01,35,Feminino,Anual,Treino de força,82,538,19:53:00,Presente,Noite
+477,2024-03-01,28,Masculino,Mensal,Yoga,89,728,14:30:00,Ausente,Tarde
+478,2024-01-09,34,Masculino,Anual,Cardio,41,300,20:48:00,Presente,Noite
+479,2024-04-05,28,Outro,Anual,Cardio,96,537,22:17:00,Presente,Noite
+480,2024-10-23,49,Outro,Mensal,CrossFit,54,384,11:59:00,Ausente,Manhã
+481,2024-05-23,58,Feminino,Mensal,Yoga,55,447,17:36:00,Ausente,Tarde
+482,2024-01-15,32,Masculino,Anual,CrossFit,95,816,18:45:00,Ausente,Noite
+483,2024-04-27,49,Feminino,Mensal,HIIT,94,808,13:19:00,Presente,Tarde
+484,2024-07-31,51,Masculino,Anual,HIIT,27,229,19:43:00,Presente,Noite
+485,2024-03-10,60,Outro,Anual,CrossFit,22,214,16:25:00,Ausente,Tarde
+486,2024-10-14,30,Feminino,Trimestral,Treino de força,39,244,18:34:00,Presente,Noite
+487,2024-11-09,30,Feminino,Mensal,Yoga,110,856,14:17:00,Presente,Tarde
+488,2024-03-29,50,Masculino,Mensal,Treino de força,66,558,13:48:00,Presente,Tarde
+489,2024-03-14,57,Masculino,Trimestral,HIIT,101,694,08:45:00,Ausente,Manhã
+490,2024-02-02,28,Feminino,Mensal,Cardio,81,607,06:02:00,Ausente,Manhã
+491,2024-12-19,26,Feminino,Mensal,Yoga,23,118,17:44:00,Presente,Tarde
+492,2024-07-30,60,Feminino,Trimestral,Treino de força,107,667,10:33:00,Presente,Manhã
+493,2024-03-15,33,Masculino,Anual,Yoga,32,282,10:23:00,Presente,Manhã
+494,2024-01-20,23,Masculino,Trimestral,Yoga,59,304,19:15:00,Ausente,Noite
+495,2024-02-13,52,Outro,Anual,HIIT,71,370,12:13:00,Presente,Tarde
+496,2024-04-14,61,Feminino,Mensal,HIIT,51,441,16:00:00,Presente,Tarde
+497,2024-05-15,42,Feminino,Trimestral,Cardio,95,749,21:33:00,Presente,Noite
+498,2024-02-16,18,Outro,Mensal,HIIT,20,170,08:27:00,Presente,Manhã
+499,2024-10-03,47,Outro,Anual,Treino de força,120,766,17:23:00,Presente,Tarde
+500,2024-08-19,27,Outro,Trimestral,Cardio,30,286,09:57:00,Ausente,Manhã
+501,2024-03-15,60,Feminino,Mensal,Treino de força,109,1022,05:27:00,Ausente,Manhã
+502,2024-01-07,54,Masculino,Trimestral,Yoga,95,876,06:27:00,Ausente,Manhã
+503,2024-09-21,24,Feminino,Trimestral,Yoga,99,647,16:14:00,Presente,Tarde
+504,2024-06-30,39,Outro,Mensal,Cardio,25,170,22:02:00,Presente,Noite
+505,2024-01-02,65,Masculino,Trimestral,HIIT,119,812,05:57:00,Ausente,Manhã
+506,2024-12-11,22,Masculino,Mensal,Yoga,78,502,13:42:00,Ausente,Tarde
+507,2024-02-24,30,Masculino,Trimestral,HIIT,115,678,16:44:00,Presente,Tarde
+508,2024-12-07,30,Outro,Anual,Treino de força,78,701,21:28:00,Ausente,Noite
+509,2024-06-13,29,Masculino,Anual,Yoga,55,347,18:29:00,Presente,Noite
+510,2024-10-11,19,Outro,Mensal,Treino de força,105,778,12:55:00,Ausente,Tarde
+511,2024-12-23,57,Masculino,Mensal,Cardio,58,465,19:00:00,Ausente,Noite
+512,2024-02-17,54,Masculino,Anual,Yoga,49,273,15:23:00,Presente,Tarde
+513,2024-03-10,60,Feminino,Trimestral,CrossFit,72,539,19:08:00,Ausente,Noite
+514,2024-04-15,63,Masculino,Trimestral,Cardio,49,372,09:48:00,Ausente,Manhã
+515,2024-04-14,43,Outro,Anual,CrossFit,115,772,07:26:00,Ausente,Manhã
+516,2024-03-27,26,Masculino,Anual,HIIT,81,568,17:57:00,Presente,Tarde
+517,2024-10-22,36,Outro,Mensal,Yoga,44,235,14:15:00,Ausente,Tarde
+518,2024-04-24,18,Feminino,Mensal,Yoga,108,800,18:30:00,Presente,Noite
+519,2024-05-21,48,Outro,Mensal,Yoga,82,427,13:24:00,Ausente,Tarde
+520,2024-10-31,47,Masculino,Anual,Treino de força,33,286,09:27:00,Presente,Manhã
+521,2024-06-20,22,Feminino,Mensal,Yoga,35,309,13:51:00,Presente,Tarde
+522,2024-12-25,51,Feminino,Trimestral,CrossFit,117,818,07:08:00,Presente,Manhã
+523,2024-04-12,32,Outro,Trimestral,Cardio,112,1053,10:42:00,Ausente,Manhã
+524,2024-04-23,62,Feminino,Trimestral,Yoga,58,449,06:17:00,Ausente,Manhã
+525,2024-05-11,39,Masculino,Anual,Cardio,83,742,18:29:00,Ausente,Noite
+526,2024-11-27,37,Feminino,Trimestral,HIIT,23,191,09:10:00,Ausente,Manhã
+527,2024-12-02,41,Masculino,Trimestral,Treino de força,45,254,15:22:00,Presente,Tarde
+528,2024-08-19,61,Outro,Trimestral,Cardio,107,959,21:55:00,Presente,Noite
+529,2024-05-07,57,Outro,Trimestral,HIIT,97,535,14:22:00,Presente,Tarde
+530,2024-04-27,48,Feminino,Trimestral,CrossFit,102,738,17:15:00,Ausente,Tarde
+531,2024-12-09,22,Masculino,Trimestral,HIIT,28,180,11:33:00,Presente,Manhã
+532,2024-10-10,63,Outro,Anual,Cardio,66,438,08:23:00,Presente,Manhã
+533,2024-09-08,33,Outro,Trimestral,Treino de força,111,708,15:42:00,Presente,Tarde
+534,2024-06-18,22,Feminino,Anual,CrossFit,109,663,05:52:00,Ausente,Manhã
+535,2024-03-23,35,Masculino,Anual,Treino de força,73,481,08:38:00,Ausente,Manhã
+536,2024-09-13,28,Outro,Anual,Yoga,86,827,14:12:00,Ausente,Tarde
+537,2024-10-24,64,Outro,Anual,HIIT,73,427,09:22:00,Ausente,Manhã
+538,2024-07-16,23,Outro,Anual,Treino de força,103,1018,22:40:00,Ausente,Noite
+539,2024-10-09,43,Masculino,Mensal,HIIT,112,772,11:57:00,Presente,Manhã
+540,2024-04-13,26,Feminino,Anual,Cardio,74,464,20:49:00,Ausente,Noite
+541,2024-05-09,53,Outro,Anual,Yoga,118,726,21:22:00,Ausente,Noite
+542,2024-03-27,34,Masculino,Mensal,CrossFit,47,443,05:50:00,Ausente,Manhã
+543,2024-03-01,34,Masculino,Mensal,HIIT,55,341,09:51:00,Presente,Manhã
+544,2024-10-24,61,Masculino,Anual,Cardio,43,344,20:56:00,Ausente,Noite
+545,2024-01-01,36,Masculino,Mensal,HIIT,91,828,08:21:00,Presente,Manhã
+546,2024-10-26,40,Outro,Mensal,CrossFit,71,375,21:33:00,Presente,Noite
+547,2024-08-15,52,Feminino,Trimestral,Treino de força,66,509,22:19:00,Ausente,Noite
+548,2024-07-01,18,Outro,Anual,Treino de força,110,980,06:48:00,Ausente,Manhã
+549,2024-07-08,62,Masculino,Trimestral,HIIT,68,601,12:24:00,Presente,Tarde
+550,2024-01-19,37,Feminino,Mensal,CrossFit,75,492,22:58:00,Presente,Noite
+551,2024-04-18,64,Outro,Anual,CrossFit,27,187,15:25:00,Ausente,Tarde
+552,2024-03-29,36,Outro,Trimestral,Cardio,55,284,21:03:00,Presente,Noite
+553,2024-04-28,51,Feminino,Trimestral,CrossFit,43,399,08:48:00,Presente,Manhã
+554,2024-09-20,31,Outro,Anual,Cardio,110,739,13:50:00,Ausente,Tarde
+555,2024-12-04,40,Masculino,Mensal,Cardio,20,155,16:18:00,Ausente,Tarde
+556,2024-08-10,27,Outro,Trimestral,Cardio,78,504,18:21:00,Ausente,Noite
+557,2024-05-25,26,Outro,Anual,Yoga,64,380,16:06:00,Ausente,Tarde
+558,2024-08-09,38,Outro,Mensal,Yoga,81,713,09:33:00,Ausente,Manhã
+559,2024-09-24,20,Outro,Trimestral,HIIT,94,598,10:20:00,Ausente,Manhã
+560,2024-10-03,60,Masculino,Anual,HIIT,32,160,19:42:00,Presente,Noite
+561,2024-09-04,48,Outro,Mensal,Cardio,45,259,19:15:00,Presente,Noite
+562,2024-01-17,59,Masculino,Anual,HIIT,85,782,05:53:00,Ausente,Manhã
+563,2024-07-07,38,Outro,Trimestral,CrossFit,84,596,18:51:00,Ausente,Noite
+564,2024-11-26,61,Outro,Anual,Treino de força,53,271,05:20:00,Presente,Manhã
+565,2024-05-02,40,Feminino,Trimestral,HIIT,36,320,09:37:00,Ausente,Manhã
+566,2024-11-27,63,Outro,Trimestral,HIIT,75,458,08:35:00,Ausente,Manhã
+567,2024-08-14,36,Outro,Anual,CrossFit,109,981,10:19:00,Ausente,Manhã
+568,2024-06-16,65,Masculino,Trimestral,Yoga,105,980,19:14:00,Presente,Noite
+569,2024-12-05,31,Feminino,Mensal,Cardio,21,182,15:42:00,Ausente,Tarde
+570,2024-02-14,60,Outro,Anual,HIIT,41,240,13:04:00,Ausente,Tarde
+571,2024-07-18,19,Outro,Trimestral,Yoga,63,357,13:42:00,Ausente,Tarde
+572,2024-09-02,38,Feminino,Anual,Yoga,27,147,09:25:00,Ausente,Manhã
+573,2024-08-25,28,Outro,Mensal,CrossFit,28,230,06:36:00,Presente,Manhã
+574,2024-11-08,22,Outro,Anual,Yoga,29,183,16:19:00,Ausente,Tarde
+575,2024-12-02,45,Masculino,Anual,HIIT,53,490,16:56:00,Presente,Tarde
+576,2024-11-04,39,Feminino,Mensal,HIIT,33,263,06:45:00,Ausente,Manhã
+577,2024-12-25,52,Masculino,Trimestral,HIIT,50,290,18:11:00,Presente,Noite
+578,2024-03-16,27,Masculino,Anual,CrossFit,61,399,07:31:00,Ausente,Manhã
+579,2024-04-12,33,Feminino,Anual,CrossFit,76,737,06:44:00,Presente,Manhã
+580,2024-01-30,41,Feminino,Trimestral,Cardio,116,769,09:11:00,Presente,Manhã
+581,2024-03-02,48,Outro,Trimestral,HIIT,70,490,10:20:00,Ausente,Manhã
+582,2024-04-09,55,Feminino,Mensal,Cardio,25,156,06:08:00,Presente,Manhã
+583,2024-09-07,28,Outro,Mensal,Treino de força,88,527,06:35:00,Ausente,Manhã
+584,2024-10-15,47,Outro,Mensal,CrossFit,23,182,15:18:00,Presente,Tarde
+585,2024-06-11,51,Feminino,Trimestral,HIIT,60,490,08:25:00,Presente,Manhã
+586,2024-04-10,19,Masculino,Mensal,Cardio,64,499,06:24:00,Ausente,Manhã
+587,2024-03-02,36,Outro,Mensal,Cardio,66,445,15:38:00,Ausente,Tarde
+588,2024-10-30,27,Masculino,Mensal,CrossFit,74,463,05:21:00,Ausente,Manhã
+589,2024-07-03,26,Feminino,Anual,HIIT,83,765,05:10:00,Ausente,Manhã
+590,2024-11-17,20,Outro,Mensal,Yoga,86,751,15:48:00,Presente,Tarde
+591,2024-09-28,21,Masculino,Anual,HIIT,85,568,18:14:00,Presente,Noite
+592,2024-08-25,35,Outro,Trimestral,HIIT,74,661,13:22:00,Ausente,Tarde
+593,2024-07-16,42,Feminino,Anual,Yoga,44,355,09:34:00,Ausente,Manhã
+594,2024-08-15,36,Outro,Anual,HIIT,97,514,06:37:00,Ausente,Manhã
+595,2024-11-01,47,Outro,Anual,Cardio,115,605,22:15:00,Ausente,Noite
+596,2024-09-08,54,Masculino,Trimestral,HIIT,116,913,10:15:00,Presente,Manhã
+597,2024-09-11,35,Feminino,Trimestral,Treino de força,44,435,22:46:00,Presente,Noite
+598,2024-03-14,56,Feminino,Trimestral,HIIT,38,321,13:42:00,Ausente,Tarde
+599,2024-10-03,65,Outro,Anual,Treino de força,91,648,10:45:00,Ausente,Manhã
+600,2024-05-06,29,Outro,Mensal,CrossFit,65,471,11:40:00,Presente,Manhã
+601,2024-05-31,37,Masculino,Anual,HIIT,56,510,16:03:00,Presente,Tarde
+602,2024-07-24,65,Outro,Anual,Treino de força,60,586,11:26:00,Presente,Manhã
+603,2024-09-01,23,Feminino,Trimestral,Yoga,85,439,08:20:00,Presente,Manhã
+604,2024-08-05,30,Masculino,Trimestral,CrossFit,48,249,17:40:00,Presente,Tarde
+605,2024-09-14,35,Outro,Anual,Yoga,43,243,22:05:00,Ausente,Noite
+606,2024-12-17,49,Masculino,Anual,HIIT,73,397,05:56:00,Presente,Manhã
+607,2024-04-19,21,Masculino,Trimestral,Cardio,67,418,16:21:00,Ausente,Tarde
+608,2024-07-07,64,Feminino,Trimestral,CrossFit,75,580,14:17:00,Ausente,Tarde
+609,2024-06-17,52,Masculino,Anual,Yoga,104,523,14:31:00,Presente,Tarde
+610,2024-03-04,49,Outro,Anual,Treino de força,37,195,07:41:00,Ausente,Manhã
+611,2024-11-29,33,Outro,Trimestral,Cardio,115,576,15:41:00,Presente,Tarde
+612,2024-09-24,64,Outro,Mensal,HIIT,108,983,11:28:00,Presente,Manhã
+613,2024-05-15,25,Feminino,Mensal,HIIT,96,726,19:09:00,Ausente,Noite
+614,2024-01-14,43,Feminino,Anual,Cardio,120,603,15:07:00,Presente,Tarde
+615,2024-11-19,56,Masculino,Anual,Treino de força,98,895,18:04:00,Ausente,Noite
+616,2024-11-26,32,Feminino,Anual,Cardio,51,457,07:29:00,Ausente,Manhã
+617,2024-06-21,64,Feminino,Trimestral,Yoga,27,219,06:20:00,Ausente,Manhã
+618,2024-05-07,26,Feminino,Mensal,HIIT,81,571,22:45:00,Ausente,Noite
+619,2024-05-29,57,Outro,Trimestral,Yoga,118,664,18:12:00,Presente,Noite
+620,2024-12-14,25,Feminino,Trimestral,Treino de força,118,1130,21:12:00,Ausente,Noite
+621,2024-07-26,25,Masculino,Mensal,CrossFit,93,599,19:46:00,Ausente,Noite
+622,2024-05-06,63,Masculino,Anual,CrossFit,116,956,07:41:00,Ausente,Manhã
+623,2024-09-24,29,Feminino,Mensal,Treino de força,37,220,14:03:00,Ausente,Tarde
+624,2024-08-21,63,Feminino,Mensal,CrossFit,64,349,05:00:00,Presente,Manhã
+625,2024-10-22,34,Outro,Mensal,Yoga,120,948,16:57:00,Ausente,Tarde
+626,2024-02-18,46,Masculino,Trimestral,Treino de força,87,516,19:32:00,Presente,Noite
+627,2024-12-07,47,Outro,Mensal,CrossFit,52,444,08:19:00,Ausente,Manhã
+628,2024-10-20,44,Masculino,Mensal,Yoga,36,312,20:48:00,Ausente,Noite
+629,2024-12-29,39,Outro,Trimestral,Treino de força,63,364,09:12:00,Presente,Manhã
+630,2024-04-14,21,Feminino,Trimestral,Treino de força,89,840,14:30:00,Ausente,Tarde
+631,2024-07-05,37,Outro,Mensal,CrossFit,91,908,12:52:00,Ausente,Tarde
+632,2024-11-21,56,Masculino,Anual,Yoga,100,640,22:28:00,Presente,Noite
+633,2024-11-03,61,Masculino,Anual,HIIT,21,196,14:25:00,Ausente,Tarde
+634,2024-01-18,54,Outro,Trimestral,CrossFit,63,546,14:12:00,Presente,Tarde
+635,2024-03-25,49,Masculino,Anual,CrossFit,73,427,15:55:00,Ausente,Tarde
+636,2024-09-02,40,Masculino,Mensal,Treino de força,71,588,08:52:00,Presente,Manhã
+637,2024-06-07,32,Feminino,Mensal,HIIT,83,599,16:42:00,Presente,Tarde
+638,2024-02-25,26,Masculino,Trimestral,CrossFit,120,1184,06:09:00,Ausente,Manhã
+639,2024-02-19,29,Masculino,Trimestral,Treino de força,41,370,07:27:00,Ausente,Manhã
+640,2024-03-27,33,Outro,Anual,Cardio,32,224,09:51:00,Ausente,Manhã
+641,2024-10-25,59,Outro,Trimestral,Treino de força,43,422,18:03:00,Ausente,Noite
+642,2024-12-17,54,Outro,Trimestral,Treino de força,105,1028,09:40:00,Presente,Manhã
+643,2024-11-02,31,Feminino,Trimestral,Treino de força,36,216,10:28:00,Ausente,Manhã
+644,2024-05-17,59,Outro,Mensal,HIIT,67,521,05:17:00,Presente,Manhã
+645,2024-12-06,50,Masculino,Anual,HIIT,55,443,07:46:00,Presente,Manhã
+646,2024-09-27,24,Feminino,Trimestral,HIIT,118,595,16:07:00,Presente,Tarde
+647,2024-08-21,48,Masculino,Mensal,Yoga,88,690,13:00:00,Presente,Tarde
+648,2024-12-28,22,Masculino,Anual,CrossFit,31,266,17:42:00,Presente,Tarde
+649,2024-07-18,51,Outro,Anual,Yoga,110,937,22:58:00,Presente,Noite
+650,2024-12-23,31,Outro,Trimestral,Cardio,77,665,21:20:00,Presente,Noite
+651,2024-06-17,34,Masculino,Mensal,Yoga,38,274,12:42:00,Ausente,Tarde
+652,2024-02-19,23,Feminino,Trimestral,HIIT,105,724,17:09:00,Ausente,Tarde
+653,2024-11-27,38,Outro,Anual,HIIT,36,233,14:39:00,Ausente,Tarde
+654,2024-08-22,43,Masculino,Trimestral,CrossFit,56,306,12:09:00,Presente,Tarde
+655,2024-12-05,19,Feminino,Trimestral,Yoga,61,419,16:03:00,Ausente,Tarde
+656,2024-12-29,34,Feminino,Mensal,Cardio,95,673,19:41:00,Presente,Noite
+657,2024-11-24,32,Outro,Trimestral,Yoga,89,466,17:24:00,Presente,Tarde
+658,2024-11-21,47,Outro,Trimestral,Cardio,44,319,18:32:00,Ausente,Noite
+659,2024-11-15,48,Feminino,Trimestral,Yoga,84,477,20:16:00,Ausente,Noite
+660,2024-11-18,21,Masculino,Anual,Treino de força,88,867,16:18:00,Ausente,Tarde
+661,2024-11-14,59,Outro,Mensal,Treino de força,69,456,19:16:00,Presente,Noite
+662,2024-03-02,35,Feminino,Mensal,Cardio,29,251,06:27:00,Presente,Manhã
+663,2024-01-24,49,Masculino,Trimestral,Treino de força,77,736,05:57:00,Ausente,Manhã
+664,2024-10-21,27,Feminino,Trimestral,Cardio,62,335,06:39:00,Presente,Manhã
+665,2024-08-25,54,Masculino,Mensal,HIIT,98,620,15:45:00,Ausente,Tarde
+666,2024-12-20,40,Outro,Mensal,Cardio,88,712,09:16:00,Presente,Manhã
+667,2024-09-21,21,Masculino,Mensal,HIIT,31,272,17:56:00,Ausente,Tarde
+668,2024-04-09,44,Feminino,Anual,Yoga,74,499,13:33:00,Ausente,Tarde
+669,2024-04-22,48,Feminino,Trimestral,Treino de força,29,153,19:00:00,Ausente,Noite
+670,2024-06-04,65,Masculino,Trimestral,HIIT,68,395,05:47:00,Ausente,Manhã
+671,2024-01-17,27,Masculino,Anual,Yoga,68,676,08:10:00,Presente,Manhã
+672,2024-08-30,38,Masculino,Mensal,Treino de força,51,299,09:40:00,Presente,Manhã
+673,2024-02-09,30,Feminino,Mensal,Treino de força,22,206,20:29:00,Presente,Noite
+674,2024-11-18,55,Outro,Mensal,CrossFit,75,707,16:12:00,Presente,Tarde
+675,2024-12-04,38,Outro,Mensal,Cardio,73,485,11:39:00,Ausente,Manhã
+676,2024-09-03,58,Feminino,Mensal,HIIT,74,614,06:05:00,Presente,Manhã
+677,2024-09-18,29,Feminino,Mensal,HIIT,66,421,14:59:00,Presente,Tarde
+678,2024-08-18,30,Masculino,Mensal,CrossFit,109,815,16:43:00,Ausente,Tarde
+679,2024-08-14,56,Feminino,Trimestral,HIIT,61,312,22:37:00,Presente,Noite
+680,2024-07-30,19,Masculino,Trimestral,Cardio,67,615,18:52:00,Presente,Noite
+681,2024-08-19,29,Masculino,Anual,HIIT,49,360,10:38:00,Presente,Manhã
+682,2024-10-04,44,Feminino,Trimestral,Treino de força,106,913,21:34:00,Presente,Noite
+683,2024-06-02,63,Outro,Trimestral,Cardio,23,189,15:28:00,Presente,Tarde
+684,2024-09-16,40,Feminino,Mensal,CrossFit,73,656,08:01:00,Presente,Manhã
+685,2024-04-04,41,Outro,Mensal,CrossFit,115,1137,10:05:00,Presente,Manhã
+686,2024-07-10,48,Masculino,Mensal,HIIT,54,440,12:16:00,Presente,Tarde
+687,2024-02-06,65,Outro,Trimestral,CrossFit,42,344,17:53:00,Ausente,Tarde
+688,2024-12-31,25,Outro,Mensal,Treino de força,55,448,15:30:00,Ausente,Tarde
+689,2024-07-14,59,Masculino,Anual,Treino de força,89,790,20:38:00,Presente,Noite
+690,2024-11-09,44,Outro,Mensal,Cardio,105,797,19:38:00,Ausente,Noite
+691,2024-08-29,31,Masculino,Anual,Treino de força,62,477,16:51:00,Presente,Tarde
+692,2024-04-19,27,Feminino,Mensal,HIIT,22,110,08:56:00,Presente,Manhã
+693,2024-09-12,36,Feminino,Mensal,Cardio,66,389,17:37:00,Presente,Tarde
+694,2024-09-19,29,Outro,Mensal,HIIT,112,1010,15:30:00,Ausente,Tarde
+695,2024-04-18,63,Feminino,Anual,HIIT,21,136,09:57:00,Ausente,Manhã
+696,2024-11-02,34,Outro,Mensal,HIIT,42,366,07:35:00,Ausente,Manhã
+697,2024-09-26,42,Feminino,Trimestral,Treino de força,108,954,11:54:00,Presente,Manhã
+698,2024-10-13,52,Masculino,Mensal,Yoga,94,842,13:45:00,Presente,Tarde
+699,2024-06-18,51,Masculino,Trimestral,Treino de força,64,459,21:43:00,Presente,Noite
+700,2024-09-29,24,Outro,Mensal,Cardio,86,524,22:05:00,Ausente,Noite
+701,2024-08-06,63,Feminino,Anual,Cardio,77,394,16:52:00,Ausente,Tarde
+702,2024-08-05,54,Feminino,Anual,Treino de força,109,1084,19:50:00,Ausente,Noite
+703,2024-09-26,41,Feminino,Anual,HIIT,103,984,15:40:00,Presente,Tarde
+704,2024-12-02,44,Feminino,Mensal,Yoga,84,624,17:36:00,Presente,Tarde
+705,2024-06-11,47,Masculino,Mensal,HIIT,114,920,20:44:00,Presente,Noite
+706,2024-09-23,25,Masculino,Mensal,CrossFit,72,380,14:04:00,Presente,Tarde
+707,2024-10-18,20,Masculino,Anual,Treino de força,64,562,21:58:00,Presente,Noite
+708,2024-09-01,35,Outro,Anual,CrossFit,64,541,09:28:00,Ausente,Manhã
+709,2024-03-16,57,Outro,Mensal,Cardio,93,624,10:28:00,Presente,Manhã
+710,2024-11-08,58,Outro,Trimestral,Cardio,38,193,10:32:00,Ausente,Manhã
+711,2024-05-17,35,Masculino,Anual,CrossFit,114,694,14:00:00,Presente,Tarde
+712,2024-01-15,39,Feminino,Trimestral,Cardio,49,302,17:10:00,Ausente,Tarde
+713,2024-02-06,35,Masculino,Mensal,Yoga,68,590,21:30:00,Ausente,Noite
+714,2024-05-02,61,Masculino,Anual,CrossFit,44,325,17:23:00,Ausente,Tarde
+715,2024-12-14,62,Masculino,Anual,Yoga,24,190,11:09:00,Presente,Manhã
+716,2024-12-24,54,Masculino,Mensal,CrossFit,88,640,18:56:00,Presente,Noite
+717,2024-08-08,39,Feminino,Trimestral,Cardio,39,248,14:56:00,Ausente,Tarde
+718,2024-03-23,32,Outro,Anual,CrossFit,117,666,05:07:00,Presente,Manhã
+719,2024-01-19,34,Masculino,Trimestral,HIIT,99,967,12:43:00,Presente,Tarde
+720,2024-07-26,44,Masculino,Anual,HIIT,51,399,05:31:00,Ausente,Manhã
+721,2024-01-29,38,Outro,Trimestral,HIIT,70,604,19:03:00,Ausente,Noite
+722,2024-06-17,51,Masculino,Trimestral,Cardio,95,525,17:13:00,Presente,Tarde
+723,2024-09-04,64,Feminino,Trimestral,Cardio,54,414,13:36:00,Presente,Tarde
+724,2024-09-22,59,Feminino,Trimestral,HIIT,79,620,12:07:00,Ausente,Tarde
+725,2024-11-11,47,Outro,Trimestral,HIIT,76,720,19:00:00,Ausente,Noite
+726,2024-12-15,65,Feminino,Mensal,Yoga,58,425,16:29:00,Presente,Tarde
+727,2024-10-30,21,Outro,Anual,Treino de força,111,1002,07:04:00,Ausente,Manhã
+728,2024-05-10,43,Masculino,Anual,Treino de força,58,555,08:55:00,Presente,Manhã
+729,2024-04-27,39,Feminino,Mensal,Treino de força,48,433,20:09:00,Presente,Noite
+730,2024-04-22,45,Feminino,Mensal,CrossFit,85,543,21:17:00,Ausente,Noite
+731,2024-06-03,49,Masculino,Trimestral,Yoga,69,505,11:05:00,Ausente,Manhã
+732,2024-04-01,35,Outro,Mensal,Treino de força,89,709,10:54:00,Ausente,Manhã
+733,2024-09-14,23,Outro,Anual,HIIT,30,282,10:48:00,Presente,Manhã
+734,2024-02-10,42,Masculino,Mensal,Treino de força,58,481,07:16:00,Ausente,Manhã
+735,2024-11-06,51,Outro,Mensal,HIIT,102,916,12:35:00,Presente,Tarde
+736,2024-02-15,51,Masculino,Trimestral,Cardio,118,901,14:18:00,Ausente,Tarde
+737,2024-02-05,36,Feminino,Mensal,HIIT,95,587,07:38:00,Presente,Manhã
+738,2024-02-12,23,Masculino,Anual,Yoga,70,350,20:44:00,Ausente,Noite
+739,2024-12-24,37,Masculino,Anual,Yoga,22,209,20:29:00,Ausente,Noite
+740,2024-03-20,21,Masculino,Trimestral,CrossFit,32,175,09:25:00,Presente,Manhã
+741,2024-11-14,30,Feminino,Anual,Cardio,75,436,19:56:00,Ausente,Noite
+742,2024-10-16,49,Feminino,Anual,HIIT,43,358,15:57:00,Presente,Tarde
+743,2024-03-08,47,Feminino,Trimestral,HIIT,103,723,08:46:00,Presente,Manhã
+744,2024-10-06,58,Masculino,Mensal,HIIT,114,887,09:50:00,Presente,Manhã
+745,2024-03-05,64,Masculino,Trimestral,CrossFit,24,165,13:21:00,Ausente,Tarde
+746,2024-11-10,19,Outro,Anual,HIIT,45,439,20:52:00,Presente,Noite
+747,2024-02-08,62,Outro,Trimestral,CrossFit,55,485,07:52:00,Presente,Manhã
+748,2024-06-17,57,Outro,Mensal,Cardio,80,481,19:30:00,Ausente,Noite
+749,2024-12-13,31,Outro,Anual,Treino de força,48,314,09:06:00,Ausente,Manhã
+750,2024-08-12,40,Outro,Anual,Yoga,44,293,22:46:00,Ausente,Noite
+751,2024-06-06,53,Masculino,Anual,HIIT,21,109,05:24:00,Presente,Manhã
+752,2024-10-03,46,Masculino,Anual,Yoga,71,667,18:06:00,Ausente,Noite
+753,2024-10-13,43,Feminino,Mensal,Treino de força,54,439,05:56:00,Presente,Manhã
+754,2024-03-05,40,Feminino,Trimestral,Treino de força,32,181,20:28:00,Ausente,Noite
+755,2024-05-29,53,Feminino,Mensal,CrossFit,53,480,14:02:00,Ausente,Tarde
+756,2024-02-24,23,Feminino,Anual,CrossFit,37,286,07:04:00,Presente,Manhã
+757,2024-09-24,47,Feminino,Anual,Treino de força,52,264,06:50:00,Ausente,Manhã
+758,2024-02-17,21,Masculino,Anual,Cardio,116,1059,12:14:00,Ausente,Tarde
+759,2024-05-10,35,Outro,Anual,HIIT,91,762,15:57:00,Presente,Tarde
+760,2024-01-30,45,Masculino,Mensal,Yoga,103,591,18:28:00,Ausente,Noite
+761,2024-07-18,43,Masculino,Anual,Yoga,63,447,20:52:00,Ausente,Noite
+762,2024-07-29,37,Outro,Anual,Yoga,80,677,18:08:00,Presente,Noite
+763,2024-02-10,24,Masculino,Anual,Cardio,44,319,12:45:00,Ausente,Tarde
+764,2024-02-15,30,Outro,Mensal,CrossFit,95,774,17:10:00,Ausente,Tarde
+765,2024-02-22,46,Masculino,Mensal,Treino de força,38,333,09:27:00,Presente,Manhã
+766,2024-07-31,24,Masculino,Anual,Cardio,23,171,10:12:00,Presente,Manhã
+767,2024-07-08,31,Outro,Anual,Cardio,105,803,11:48:00,Presente,Manhã
+768,2024-10-07,57,Feminino,Mensal,HIIT,72,476,08:01:00,Presente,Manhã
+769,2024-06-07,54,Masculino,Mensal,Treino de força,66,348,06:17:00,Ausente,Manhã
+770,2024-11-12,65,Feminino,Anual,CrossFit,84,507,08:10:00,Ausente,Manhã
+771,2024-02-24,19,Masculino,Trimestral,HIIT,79,694,17:56:00,Ausente,Tarde
+772,2024-05-31,49,Feminino,Trimestral,Cardio,92,483,12:13:00,Presente,Tarde
+773,2024-10-16,36,Feminino,Anual,Yoga,94,563,07:49:00,Presente,Manhã
+774,2024-03-05,60,Masculino,Trimestral,Cardio,52,501,11:57:00,Ausente,Manhã
+775,2024-09-03,38,Masculino,Trimestral,Treino de força,69,685,07:46:00,Presente,Manhã
+776,2024-11-19,18,Feminino,Anual,Yoga,93,860,21:08:00,Ausente,Noite
+777,2024-11-11,26,Masculino,Trimestral,CrossFit,120,1093,12:04:00,Presente,Tarde
+778,2024-09-15,24,Outro,Mensal,Yoga,116,693,07:08:00,Presente,Manhã
+779,2024-01-06,47,Masculino,Mensal,Treino de força,58,538,09:18:00,Presente,Manhã
+780,2024-12-02,43,Masculino,Mensal,Treino de força,87,475,13:42:00,Ausente,Tarde
+781,2024-10-28,56,Masculino,Mensal,Treino de força,79,652,09:52:00,Presente,Manhã
+782,2024-06-26,64,Feminino,Anual,HIIT,49,256,05:21:00,Presente,Manhã
+783,2024-03-26,18,Masculino,Trimestral,Yoga,118,717,10:45:00,Presente,Manhã
+784,2024-11-13,31,Outro,Anual,HIIT,25,242,14:15:00,Ausente,Tarde
+785,2024-05-31,28,Outro,Anual,Cardio,106,1025,17:41:00,Presente,Tarde
+786,2024-08-13,54,Masculino,Mensal,Yoga,22,160,12:44:00,Ausente,Tarde
+787,2024-10-05,36,Masculino,Mensal,HIIT,59,340,08:36:00,Ausente,Manhã
+788,2024-03-30,55,Feminino,Trimestral,Treino de força,82,703,20:11:00,Presente,Noite
+789,2024-01-08,58,Masculino,Trimestral,CrossFit,43,420,08:46:00,Presente,Manhã
+790,2024-07-03,64,Feminino,Mensal,Cardio,111,676,08:54:00,Ausente,Manhã
+791,2024-01-27,27,Outro,Trimestral,Cardio,60,410,22:17:00,Ausente,Noite
+792,2024-10-12,51,Feminino,Trimestral,Treino de força,80,421,15:47:00,Ausente,Tarde
+793,2024-02-13,27,Outro,Mensal,Yoga,82,604,05:16:00,Presente,Manhã
+794,2024-08-30,47,Feminino,Anual,Cardio,42,268,18:04:00,Ausente,Noite
+795,2024-10-29,45,Feminino,Anual,Yoga,21,173,12:46:00,Presente,Tarde
+796,2024-10-05,52,Feminino,Mensal,CrossFit,71,640,09:12:00,Presente,Manhã
+797,2024-09-05,48,Outro,Mensal,HIIT,49,357,17:30:00,Presente,Tarde
+798,2024-10-07,44,Masculino,Anual,HIIT,95,784,19:24:00,Ausente,Noite
+799,2024-03-29,39,Feminino,Mensal,Cardio,54,406,11:13:00,Presente,Manhã
+800,2024-08-14,62,Outro,Anual,CrossFit,74,386,10:31:00,Presente,Manhã
+801,2024-08-10,39,Outro,Anual,Treino de força,83,803,21:21:00,Presente,Noite
+802,2024-08-24,51,Feminino,Anual,Cardio,85,703,08:25:00,Ausente,Manhã
+803,2024-09-29,53,Feminino,Trimestral,Yoga,44,375,22:19:00,Ausente,Noite
+804,2024-09-12,62,Outro,Mensal,CrossFit,106,806,08:36:00,Ausente,Manhã
+805,2024-09-20,51,Feminino,Trimestral,Treino de força,54,502,11:58:00,Presente,Manhã
+806,2024-11-30,44,Outro,Mensal,Treino de força,44,334,21:25:00,Ausente,Noite
+807,2024-04-17,35,Feminino,Anual,Cardio,103,715,14:33:00,Presente,Tarde
+808,2024-08-17,38,Outro,Trimestral,Yoga,45,385,22:57:00,Ausente,Noite
+809,2024-05-30,22,Feminino,Trimestral,CrossFit,108,1011,08:58:00,Ausente,Manhã
+810,2024-01-02,48,Masculino,Mensal,Yoga,28,145,09:12:00,Presente,Manhã
+811,2024-12-22,52,Outro,Trimestral,Cardio,61,370,20:47:00,Ausente,Noite
+812,2024-11-08,52,Masculino,Anual,Yoga,20,148,21:38:00,Presente,Noite
+813,2024-11-09,43,Masculino,Mensal,Cardio,109,722,22:11:00,Presente,Noite
+814,2024-11-01,18,Feminino,Anual,HIIT,102,723,07:30:00,Presente,Manhã
+815,2024-08-31,20,Masculino,Trimestral,Treino de força,68,376,22:28:00,Ausente,Noite
+816,2024-04-19,21,Masculino,Anual,HIIT,86,548,21:20:00,Presente,Noite
+817,2024-07-10,21,Masculino,Anual,Yoga,22,145,21:15:00,Ausente,Noite
+818,2024-05-06,31,Outro,Mensal,HIIT,91,765,20:05:00,Presente,Noite
+819,2024-07-03,61,Masculino,Anual,Cardio,108,679,10:13:00,Ausente,Manhã
+820,2024-02-07,38,Feminino,Mensal,Cardio,39,206,06:47:00,Presente,Manhã
+821,2024-10-17,45,Feminino,Anual,Cardio,110,612,11:08:00,Ausente,Manhã
+822,2024-01-29,36,Masculino,Trimestral,HIIT,33,193,08:40:00,Presente,Manhã
+823,2024-06-25,37,Masculino,Trimestral,Cardio,103,847,18:54:00,Presente,Noite
+824,2024-04-01,61,Feminino,Trimestral,CrossFit,68,354,10:30:00,Ausente,Manhã
+825,2024-10-19,55,Masculino,Mensal,HIIT,40,221,16:20:00,Ausente,Tarde
+826,2024-10-21,18,Feminino,Trimestral,HIIT,112,911,20:03:00,Ausente,Noite
+827,2024-09-18,37,Outro,Mensal,Yoga,58,485,10:43:00,Presente,Manhã
+828,2024-10-23,50,Masculino,Mensal,Treino de força,114,1078,18:22:00,Ausente,Noite
+829,2024-11-25,65,Feminino,Anual,CrossFit,39,196,18:54:00,Presente,Noite
+830,2024-10-16,18,Feminino,Trimestral,CrossFit,95,637,19:16:00,Presente,Noite
+831,2024-03-05,61,Outro,Trimestral,Cardio,103,1003,07:05:00,Presente,Manhã
+832,2024-04-28,57,Outro,Anual,Yoga,39,357,15:01:00,Ausente,Tarde
+833,2024-01-16,61,Masculino,Anual,CrossFit,110,678,15:30:00,Ausente,Tarde
+834,2024-09-27,37,Outro,Trimestral,Cardio,23,173,10:42:00,Presente,Manhã
+835,2024-08-29,56,Feminino,Trimestral,Treino de força,76,533,18:49:00,Presente,Noite
+836,2024-10-10,64,Feminino,Trimestral,Cardio,44,354,10:45:00,Presente,Manhã
+837,2024-03-01,55,Masculino,Trimestral,CrossFit,42,410,10:32:00,Ausente,Manhã
+838,2024-04-04,18,Outro,Mensal,Treino de força,72,643,09:40:00,Presente,Manhã
+839,2024-09-23,18,Outro,Mensal,CrossFit,100,665,20:49:00,Ausente,Noite
+840,2024-02-10,23,Feminino,Mensal,Yoga,62,611,08:12:00,Ausente,Manhã
+841,2024-05-10,65,Feminino,Mensal,Treino de força,109,897,07:01:00,Presente,Manhã
+842,2024-05-01,60,Feminino,Mensal,Yoga,113,647,08:05:00,Ausente,Manhã
+843,2024-08-04,42,Masculino,Trimestral,HIIT,72,673,10:44:00,Ausente,Manhã
+844,2024-08-11,29,Masculino,Anual,HIIT,88,600,19:30:00,Presente,Noite
+845,2024-09-06,39,Feminino,Mensal,Yoga,65,550,12:32:00,Presente,Tarde
+846,2024-11-10,61,Feminino,Anual,CrossFit,25,201,09:31:00,Presente,Manhã
+847,2024-03-15,59,Outro,Trimestral,CrossFit,93,908,20:47:00,Presente,Noite
+848,2024-10-03,19,Feminino,Trimestral,Cardio,70,684,21:57:00,Presente,Noite
+849,2024-02-21,48,Masculino,Anual,CrossFit,80,440,08:22:00,Presente,Manhã
+850,2024-04-03,43,Masculino,Anual,Yoga,25,183,14:00:00,Ausente,Tarde
+851,2024-04-07,57,Outro,Anual,CrossFit,38,288,12:50:00,Presente,Tarde
+852,2024-11-09,23,Feminino,Mensal,Cardio,64,500,12:36:00,Presente,Tarde
+853,2024-07-18,46,Feminino,Anual,HIIT,87,626,06:31:00,Presente,Manhã
+854,2024-12-20,36,Outro,Trimestral,CrossFit,119,1072,10:18:00,Presente,Manhã
+855,2024-12-12,57,Masculino,Anual,Cardio,92,567,14:05:00,Presente,Tarde
+856,2024-12-03,52,Masculino,Anual,CrossFit,61,571,11:05:00,Presente,Manhã
+857,2024-02-14,28,Masculino,Mensal,CrossFit,27,176,14:41:00,Ausente,Tarde
+858,2024-01-12,51,Feminino,Trimestral,HIIT,31,296,13:00:00,Presente,Tarde
+859,2024-10-31,48,Feminino,Anual,Cardio,31,207,22:45:00,Ausente,Noite
+860,2024-07-01,31,Masculino,Anual,Treino de força,101,612,08:31:00,Ausente,Manhã
+861,2024-02-10,23,Feminino,Anual,Yoga,23,211,12:54:00,Presente,Tarde
+862,2024-08-25,54,Masculino,Anual,Cardio,111,603,05:58:00,Presente,Manhã
+863,2024-06-12,31,Masculino,Anual,CrossFit,72,400,19:04:00,Ausente,Noite
+864,2024-05-07,52,Feminino,Trimestral,CrossFit,24,175,20:04:00,Ausente,Noite
+865,2024-07-23,54,Outro,Mensal,HIIT,106,915,13:06:00,Ausente,Tarde
+866,2024-03-14,34,Masculino,Mensal,Cardio,50,485,09:06:00,Presente,Manhã
+867,2024-11-11,26,Masculino,Mensal,HIIT,95,576,18:11:00,Presente,Noite
+868,2024-06-17,39,Masculino,Anual,Cardio,104,807,06:13:00,Presente,Manhã
+869,2024-10-24,48,Feminino,Trimestral,HIIT,116,1018,11:04:00,Ausente,Manhã
+870,2024-01-02,45,Masculino,Anual,CrossFit,23,206,22:25:00,Ausente,Noite
+871,2024-02-18,26,Masculino,Mensal,Treino de força,42,235,20:49:00,Ausente,Noite
+872,2024-12-06,39,Outro,Anual,Yoga,36,325,17:31:00,Ausente,Tarde
+873,2024-02-06,42,Outro,Anual,CrossFit,77,607,10:47:00,Ausente,Manhã
+874,2024-07-01,41,Outro,Trimestral,Yoga,93,471,10:51:00,Presente,Manhã
+875,2024-03-07,49,Masculino,Anual,Cardio,44,221,12:49:00,Presente,Tarde
+876,2024-07-01,18,Feminino,Trimestral,Treino de força,98,898,17:05:00,Presente,Tarde
+877,2024-09-03,34,Masculino,Trimestral,Yoga,40,236,19:43:00,Presente,Noite
+878,2024-06-08,59,Masculino,Anual,Cardio,89,577,16:09:00,Presente,Tarde
+879,2024-08-01,29,Feminino,Trimestral,Treino de força,110,723,10:17:00,Presente,Manhã
+880,2024-06-20,27,Feminino,Trimestral,Treino de força,81,602,06:46:00,Ausente,Manhã
+881,2024-05-13,36,Masculino,Mensal,CrossFit,63,514,12:21:00,Ausente,Tarde
+882,2024-07-21,27,Masculino,Mensal,Treino de força,57,359,20:18:00,Ausente,Noite
+883,2024-09-14,30,Feminino,Anual,Treino de força,96,807,10:45:00,Ausente,Manhã
+884,2024-10-29,62,Outro,Trimestral,CrossFit,109,807,09:40:00,Presente,Manhã
+885,2024-09-16,32,Masculino,Mensal,CrossFit,108,619,12:23:00,Ausente,Tarde
+886,2024-11-06,22,Feminino,Mensal,CrossFit,101,909,05:00:00,Ausente,Manhã
+887,2024-03-06,43,Masculino,Trimestral,CrossFit,37,295,14:29:00,Presente,Tarde
+888,2024-12-02,40,Masculino,Trimestral,HIIT,42,318,20:47:00,Ausente,Noite
+889,2024-08-06,38,Outro,Anual,Treino de força,84,609,17:54:00,Presente,Tarde
+890,2024-03-08,27,Outro,Anual,Treino de força,59,443,20:52:00,Ausente,Noite
+891,2024-10-10,37,Outro,Trimestral,Treino de força,105,611,06:24:00,Presente,Manhã
+892,2024-12-30,62,Masculino,Anual,HIIT,26,189,15:05:00,Presente,Tarde
+893,2024-09-03,40,Outro,Mensal,Yoga,31,232,10:08:00,Ausente,Manhã
+894,2024-02-21,43,Feminino,Mensal,Yoga,86,562,10:33:00,Presente,Manhã
+895,2024-03-03,20,Masculino,Mensal,Treino de força,73,578,20:11:00,Ausente,Noite
+896,2024-11-04,21,Outro,Trimestral,HIIT,22,163,20:52:00,Ausente,Noite
+897,2024-06-11,19,Feminino,Trimestral,Yoga,54,369,05:27:00,Presente,Manhã
+898,2024-10-24,49,Feminino,Mensal,CrossFit,82,753,16:36:00,Ausente,Tarde
+899,2024-06-11,31,Outro,Trimestral,Treino de força,34,222,14:41:00,Presente,Tarde
+900,2024-03-27,32,Feminino,Trimestral,Cardio,20,104,11:15:00,Ausente,Manhã
+901,2024-11-18,50,Feminino,Mensal,HIIT,30,239,06:34:00,Ausente,Manhã
+902,2024-09-01,57,Outro,Mensal,HIIT,100,805,07:16:00,Ausente,Manhã
+903,2024-02-16,58,Masculino,Mensal,CrossFit,20,109,12:38:00,Presente,Tarde
+904,2024-01-24,27,Feminino,Trimestral,Cardio,111,1004,16:31:00,Ausente,Tarde
+905,2024-05-13,21,Outro,Mensal,Cardio,112,706,21:07:00,Presente,Noite
+906,2024-11-02,42,Masculino,Trimestral,Treino de força,76,534,10:44:00,Presente,Manhã
+907,2024-11-12,33,Outro,Mensal,HIIT,60,354,22:32:00,Presente,Noite
+908,2024-04-15,56,Outro,Trimestral,CrossFit,26,199,17:29:00,Presente,Tarde
+909,2024-11-19,48,Outro,Anual,Treino de força,25,202,14:13:00,Ausente,Tarde
+910,2024-12-09,21,Outro,Mensal,Cardio,69,674,17:45:00,Ausente,Tarde
+911,2024-05-06,53,Feminino,Mensal,Cardio,57,386,22:16:00,Presente,Noite
+912,2024-02-01,46,Feminino,Anual,Cardio,28,144,14:47:00,Ausente,Tarde
+913,2024-10-01,52,Outro,Anual,CrossFit,33,297,08:17:00,Ausente,Manhã
+914,2024-07-30,52,Masculino,Mensal,Yoga,45,252,13:21:00,Presente,Tarde
+915,2024-07-05,47,Feminino,Anual,Treino de força,40,310,15:40:00,Ausente,Tarde
+916,2024-06-14,51,Outro,Trimestral,CrossFit,74,631,10:42:00,Ausente,Manhã
+917,2024-04-26,40,Masculino,Mensal,CrossFit,93,650,12:13:00,Presente,Tarde
+918,2024-09-15,36,Masculino,Mensal,Cardio,63,429,19:27:00,Presente,Noite
+919,2024-07-25,65,Feminino,Anual,Treino de força,109,692,22:36:00,Ausente,Noite
+920,2024-07-07,31,Outro,Anual,CrossFit,109,889,19:07:00,Presente,Noite
+921,2024-08-05,24,Masculino,Anual,Treino de força,74,431,22:33:00,Ausente,Noite
+922,2024-01-19,43,Feminino,Trimestral,Yoga,77,439,11:13:00,Presente,Manhã
+923,2024-02-14,23,Outro,Mensal,Yoga,74,721,08:56:00,Ausente,Manhã
+924,2024-07-07,57,Masculino,Anual,Yoga,43,241,11:28:00,Presente,Manhã
+925,2024-10-21,24,Outro,Trimestral,HIIT,73,640,05:22:00,Presente,Manhã
+926,2024-11-08,54,Masculino,Trimestral,Yoga,36,248,22:17:00,Presente,Noite
+927,2024-10-21,36,Masculino,Anual,Cardio,84,765,05:52:00,Ausente,Manhã
+928,2024-06-25,46,Outro,Mensal,CrossFit,84,490,16:12:00,Presente,Tarde
+929,2024-12-16,31,Masculino,Anual,Treino de força,118,787,09:13:00,Ausente,Manhã
+930,2024-02-05,48,Feminino,Mensal,Treino de força,75,530,13:22:00,Presente,Tarde
+931,2024-09-23,20,Outro,Trimestral,Treino de força,117,826,16:47:00,Presente,Tarde
+932,2024-02-16,42,Masculino,Mensal,HIIT,89,814,22:39:00,Presente,Noite
+933,2024-01-26,53,Masculino,Anual,Treino de força,32,269,13:23:00,Ausente,Tarde
+934,2024-09-19,33,Outro,Trimestral,HIIT,96,814,20:49:00,Presente,Noite
+935,2024-07-26,46,Outro,Mensal,CrossFit,69,367,12:17:00,Ausente,Tarde
+936,2024-05-24,57,Outro,Anual,CrossFit,75,668,16:40:00,Presente,Tarde
+937,2024-01-05,45,Masculino,Anual,Yoga,110,966,16:27:00,Presente,Tarde
+938,2024-10-10,51,Feminino,Trimestral,Yoga,51,272,07:09:00,Presente,Manhã
+939,2024-05-06,43,Outro,Mensal,HIIT,77,642,08:38:00,Ausente,Manhã
+940,2024-08-27,63,Feminino,Mensal,Cardio,60,450,18:18:00,Presente,Noite
+941,2024-04-09,23,Feminino,Mensal,CrossFit,27,239,06:44:00,Ausente,Manhã
+942,2024-09-02,51,Masculino,Trimestral,Cardio,74,616,19:13:00,Ausente,Noite
+943,2024-10-26,54,Masculino,Anual,HIIT,51,504,21:25:00,Presente,Noite
+944,2024-03-31,29,Feminino,Mensal,CrossFit,54,305,05:53:00,Ausente,Manhã
+945,2024-10-10,31,Feminino,Trimestral,Cardio,80,411,08:39:00,Ausente,Manhã
+946,2024-06-04,21,Feminino,Anual,Yoga,37,197,06:13:00,Presente,Manhã
+947,2024-09-09,60,Outro,Mensal,Yoga,39,230,07:42:00,Ausente,Manhã
+948,2024-01-17,62,Feminino,Anual,Yoga,117,767,07:57:00,Presente,Manhã
+949,2024-01-10,26,Outro,Anual,CrossFit,97,698,11:41:00,Presente,Manhã
+950,2024-04-26,61,Masculino,Trimestral,Yoga,86,498,17:29:00,Ausente,Tarde
+951,2024-04-18,56,Feminino,Trimestral,Treino de força,54,503,19:16:00,Presente,Noite
+952,2024-01-10,53,Feminino,Anual,Cardio,48,336,11:44:00,Ausente,Manhã
+953,2024-05-15,30,Feminino,Trimestral,CrossFit,99,628,10:58:00,Presente,Manhã
+954,2024-02-07,36,Outro,Trimestral,CrossFit,60,466,07:09:00,Ausente,Manhã
+955,2024-04-27,26,Outro,Trimestral,Yoga,63,410,19:07:00,Ausente,Noite
+956,2024-05-30,38,Masculino,Trimestral,Cardio,98,962,07:33:00,Presente,Manhã
+957,2024-08-05,53,Outro,Trimestral,Cardio,45,292,18:35:00,Ausente,Noite
+958,2024-11-24,53,Feminino,Anual,HIIT,39,202,11:37:00,Presente,Manhã
+959,2024-04-04,46,Masculino,Mensal,Treino de força,21,150,13:32:00,Presente,Tarde
+960,2024-05-29,37,Outro,Mensal,Treino de força,35,204,08:42:00,Presente,Manhã
+961,2024-09-15,30,Masculino,Mensal,CrossFit,102,582,09:07:00,Presente,Manhã
+962,2024-01-15,47,Feminino,Trimestral,Cardio,93,576,18:10:00,Presente,Noite
+963,2024-04-01,35,Masculino,Anual,Treino de força,80,765,09:32:00,Ausente,Manhã
+964,2024-08-25,21,Outro,Mensal,Yoga,68,370,13:27:00,Ausente,Tarde
+965,2024-09-29,27,Feminino,Trimestral,Yoga,37,321,14:58:00,Ausente,Tarde
+966,2024-11-06,37,Outro,Anual,CrossFit,85,629,13:49:00,Ausente,Tarde
+967,2024-07-19,29,Outro,Trimestral,HIIT,96,628,19:32:00,Presente,Noite
+968,2024-01-09,26,Feminino,Mensal,Cardio,37,365,18:38:00,Ausente,Noite
+969,2024-10-05,65,Masculino,Trimestral,HIIT,68,540,07:44:00,Presente,Manhã
+970,2024-02-08,51,Masculino,Anual,CrossFit,81,490,09:46:00,Ausente,Manhã
+971,2024-09-12,49,Feminino,Trimestral,Yoga,119,852,10:44:00,Ausente,Manhã
+972,2024-06-16,49,Masculino,Anual,Yoga,65,640,21:35:00,Ausente,Noite
+973,2024-12-23,63,Outro,Trimestral,CrossFit,24,206,17:29:00,Ausente,Tarde
+974,2024-10-12,58,Feminino,Anual,Cardio,76,435,15:27:00,Presente,Tarde
+975,2024-01-22,34,Outro,Mensal,Treino de força,102,535,08:00:00,Ausente,Manhã
+976,2024-02-09,34,Feminino,Trimestral,HIIT,100,830,12:24:00,Ausente,Tarde
+977,2024-02-06,38,Outro,Mensal,HIIT,87,525,11:04:00,Presente,Manhã
+978,2024-09-24,38,Outro,Mensal,Treino de força,58,340,18:41:00,Presente,Noite
+979,2024-03-21,41,Masculino,Trimestral,CrossFit,33,310,08:51:00,Presente,Manhã
+980,2024-11-27,41,Masculino,Anual,Treino de força,61,450,21:29:00,Ausente,Noite
+981,2024-09-12,22,Masculino,Trimestral,Treino de força,23,195,07:57:00,Ausente,Manhã
+982,2024-10-20,64,Feminino,Anual,Cardio,30,198,21:16:00,Presente,Noite
+983,2024-05-11,30,Feminino,Anual,Treino de força,85,589,19:14:00,Ausente,Noite
+984,2024-01-07,31,Masculino,Mensal,CrossFit,89,459,17:15:00,Ausente,Tarde
+985,2024-04-06,47,Feminino,Anual,Treino de força,57,503,08:40:00,Ausente,Manhã
+986,2024-08-17,32,Outro,Trimestral,Cardio,67,601,06:24:00,Ausente,Manhã
+987,2024-10-13,28,Outro,Mensal,Yoga,27,167,18:12:00,Ausente,Noite
+988,2024-02-27,31,Feminino,Mensal,Yoga,58,392,10:36:00,Ausente,Manhã
+989,2024-11-22,52,Feminino,Mensal,Treino de força,50,383,07:27:00,Ausente,Manhã
+990,2024-02-07,26,Outro,Trimestral,CrossFit,62,542,14:25:00,Presente,Tarde
+991,2024-09-18,60,Outro,Anual,HIIT,73,665,08:01:00,Presente,Manhã
+992,2024-12-19,59,Masculino,Trimestral,Treino de força,66,486,11:04:00,Presente,Manhã
+993,2024-07-21,35,Masculino,Anual,Cardio,104,715,16:35:00,Ausente,Tarde
+994,2024-04-06,42,Masculino,Anual,Yoga,88,700,21:46:00,Ausente,Noite
+995,2024-08-29,58,Feminino,Mensal,Cardio,111,645,16:55:00,Ausente,Tarde
+996,2024-12-05,65,Feminino,Anual,Yoga,63,375,10:05:00,Ausente,Manhã
+997,2024-06-14,41,Outro,Trimestral,Yoga,110,995,17:19:00,Presente,Tarde
+998,2024-01-13,57,Feminino,Trimestral,HIIT,92,642,11:13:00,Presente,Manhã
+999,2024-01-06,48,Outro,Mensal,HIIT,114,825,17:33:00,Ausente,Tarde
+1000,2024-05-25,62,Outro,Anual,CrossFit,111,591,15:30:00,Presente,Tarde
+1001,2024-04-05,50,Outro,Anual,Cardio,59,321,07:07:00,Ausente,Manhã
+1002,2024-11-22,32,Feminino,Anual,HIIT,30,152,21:34:00,Ausente,Noite
+1003,2024-09-08,31,Outro,Mensal,HIIT,36,263,11:38:00,Ausente,Manhã
+1004,2024-12-21,28,Feminino,Trimestral,HIIT,108,790,16:29:00,Presente,Tarde
+1005,2024-07-20,25,Feminino,Trimestral,Yoga,114,961,14:34:00,Ausente,Tarde
+1006,2024-12-29,18,Feminino,Trimestral,HIIT,37,327,07:03:00,Ausente,Manhã
+1007,2024-01-30,41,Feminino,Trimestral,Cardio,42,415,16:18:00,Ausente,Tarde
+1008,2024-07-14,20,Outro,Anual,Treino de força,56,540,08:36:00,Presente,Manhã
+1009,2024-08-18,43,Masculino,Mensal,HIIT,108,834,21:40:00,Ausente,Noite
+1010,2024-09-18,56,Outro,Mensal,Cardio,22,110,22:59:00,Ausente,Noite
+1011,2024-02-13,62,Feminino,Trimestral,Treino de força,75,658,09:09:00,Presente,Manhã
+1012,2024-10-15,49,Outro,Trimestral,Yoga,35,294,08:12:00,Ausente,Manhã
+1013,2024-09-05,30,Masculino,Anual,Cardio,55,320,12:35:00,Ausente,Tarde
+1014,2024-10-21,36,Feminino,Trimestral,Cardio,94,891,07:21:00,Presente,Manhã
+1015,2024-10-12,44,Masculino,Trimestral,Cardio,54,379,05:20:00,Ausente,Manhã
+1016,2024-08-26,64,Masculino,Mensal,Cardio,99,645,16:31:00,Presente,Tarde
+1017,2024-07-29,29,Feminino,Anual,CrossFit,34,205,16:55:00,Presente,Tarde
+1018,2024-09-03,65,Feminino,Anual,Cardio,115,790,05:13:00,Presente,Manhã
+1019,2024-05-03,38,Masculino,Anual,CrossFit,116,1048,19:22:00,Ausente,Noite
+1020,2024-12-26,60,Feminino,Anual,Yoga,50,329,10:24:00,Presente,Manhã
+1021,2024-12-28,46,Outro,Anual,Cardio,47,370,22:22:00,Presente,Noite
+1022,2024-02-15,63,Outro,Anual,HIIT,65,509,11:00:00,Ausente,Manhã
+1023,2024-03-10,59,Masculino,Mensal,CrossFit,94,721,16:09:00,Ausente,Tarde
+1024,2024-07-11,60,Masculino,Mensal,Cardio,77,645,16:54:00,Ausente,Tarde
+1025,2024-09-14,60,Outro,Trimestral,HIIT,57,472,13:05:00,Ausente,Tarde
+1026,2024-04-29,24,Outro,Trimestral,Treino de força,104,525,13:10:00,Presente,Tarde
+1027,2024-12-28,29,Masculino,Trimestral,HIIT,29,186,21:53:00,Presente,Noite
+1028,2024-03-26,28,Masculino,Anual,Cardio,77,448,20:28:00,Presente,Noite
+1029,2024-05-02,64,Outro,Mensal,Yoga,78,425,06:49:00,Presente,Manhã
+1030,2024-04-03,27,Feminino,Anual,Treino de força,113,1008,08:48:00,Presente,Manhã
+1031,2024-06-30,28,Feminino,Mensal,Treino de força,86,589,09:23:00,Presente,Manhã
+1032,2024-08-21,27,Feminino,Mensal,HIIT,116,684,09:52:00,Presente,Manhã
+1033,2024-11-23,45,Outro,Anual,HIIT,91,866,22:11:00,Presente,Noite
+1034,2024-07-11,20,Outro,Trimestral,CrossFit,75,466,13:00:00,Presente,Tarde
+1035,2024-06-23,20,Outro,Mensal,HIIT,90,713,18:10:00,Presente,Noite
+1036,2024-01-28,44,Outro,Trimestral,Treino de força,104,583,16:51:00,Ausente,Tarde
+1037,2024-03-12,51,Outro,Trimestral,CrossFit,51,315,06:22:00,Ausente,Manhã
+1038,2024-06-16,29,Outro,Anual,HIIT,48,375,11:49:00,Presente,Manhã
+1039,2024-03-11,19,Masculino,Mensal,CrossFit,88,445,21:51:00,Ausente,Noite
+1040,2024-12-23,62,Feminino,Anual,Cardio,71,605,13:43:00,Ausente,Tarde
+1041,2024-07-29,60,Outro,Anual,Cardio,49,395,22:26:00,Presente,Noite
+1042,2024-04-25,27,Outro,Mensal,Yoga,62,329,16:31:00,Presente,Tarde
+1043,2024-07-15,28,Feminino,Anual,Yoga,72,687,14:35:00,Ausente,Tarde
+1044,2024-08-14,54,Feminino,Anual,HIIT,28,265,13:19:00,Presente,Tarde
+1045,2024-04-25,41,Outro,Anual,Cardio,83,715,21:23:00,Presente,Noite
+1046,2024-06-15,42,Outro,Trimestral,Treino de força,23,188,16:19:00,Ausente,Tarde
+1047,2024-09-22,39,Outro,Anual,Cardio,68,562,20:42:00,Presente,Noite
+1048,2024-03-29,26,Feminino,Anual,Treino de força,38,236,12:16:00,Presente,Tarde
+1049,2024-12-01,60,Feminino,Trimestral,Treino de força,64,616,08:55:00,Ausente,Manhã
+1050,2024-02-09,60,Feminino,Mensal,HIIT,20,191,19:16:00,Ausente,Noite
+1051,2024-10-07,50,Outro,Anual,Treino de força,63,515,17:34:00,Ausente,Tarde
+1052,2024-06-05,27,Masculino,Trimestral,Treino de força,105,697,13:05:00,Ausente,Tarde
+1053,2024-11-04,29,Masculino,Trimestral,Treino de força,38,218,06:10:00,Presente,Manhã
+1054,2024-05-14,52,Outro,Trimestral,Treino de força,115,667,13:06:00,Presente,Tarde
+1055,2024-07-21,22,Outro,Mensal,Yoga,55,508,15:36:00,Ausente,Tarde
+1056,2024-08-13,18,Outro,Mensal,Treino de força,74,637,09:14:00,Ausente,Manhã
+1057,2024-02-06,42,Masculino,Anual,Yoga,28,159,12:24:00,Ausente,Tarde
+1058,2024-10-21,26,Feminino,Mensal,HIIT,44,431,08:30:00,Ausente,Manhã
+1059,2024-05-25,22,Feminino,Trimestral,Cardio,95,883,19:57:00,Presente,Noite
+1060,2024-03-20,45,Feminino,Trimestral,CrossFit,55,451,20:50:00,Presente,Noite
+1061,2024-03-26,19,Masculino,Mensal,CrossFit,50,345,12:24:00,Presente,Tarde
+1062,2024-09-28,38,Feminino,Trimestral,CrossFit,35,333,05:10:00,Ausente,Manhã
+1063,2024-08-16,64,Feminino,Anual,Cardio,22,115,05:25:00,Ausente,Manhã
+1064,2024-07-27,37,Masculino,Mensal,Cardio,81,479,12:14:00,Presente,Tarde
+1065,2024-03-08,60,Feminino,Trimestral,Cardio,41,268,13:06:00,Ausente,Tarde
+1066,2024-12-20,37,Masculino,Anual,Yoga,27,140,10:32:00,Presente,Manhã
+1067,2024-08-26,43,Outro,Anual,Yoga,31,293,05:22:00,Presente,Manhã
+1068,2024-09-22,56,Feminino,Trimestral,Yoga,47,342,19:27:00,Ausente,Noite
+1069,2024-07-04,64,Feminino,Anual,HIIT,78,513,16:42:00,Ausente,Tarde
+1070,2024-02-15,25,Outro,Mensal,CrossFit,35,337,08:47:00,Ausente,Manhã
+1071,2024-06-09,43,Feminino,Mensal,CrossFit,24,182,08:54:00,Ausente,Manhã
+1072,2024-11-14,18,Outro,Mensal,Treino de força,75,690,18:09:00,Ausente,Noite
+1073,2024-07-04,43,Feminino,Mensal,HIIT,73,435,13:16:00,Presente,Tarde
+1074,2024-05-02,36,Feminino,Mensal,Treino de força,50,348,21:08:00,Presente,Noite
+1075,2024-11-08,38,Masculino,Mensal,Treino de força,20,143,11:45:00,Presente,Manhã
+1076,2024-10-02,61,Outro,Trimestral,CrossFit,37,196,07:27:00,Ausente,Manhã
+1077,2024-03-14,59,Feminino,Mensal,Yoga,117,659,20:54:00,Ausente,Noite
+1078,2024-01-14,49,Masculino,Trimestral,CrossFit,44,351,22:35:00,Ausente,Noite
+1079,2024-09-20,58,Masculino,Trimestral,CrossFit,20,110,18:30:00,Ausente,Noite
+1080,2024-08-19,48,Outro,Trimestral,Treino de força,78,542,17:40:00,Ausente,Tarde
+1081,2024-08-21,61,Outro,Trimestral,Yoga,116,763,13:30:00,Ausente,Tarde
+1082,2024-05-16,48,Outro,Trimestral,Treino de força,109,756,17:38:00,Ausente,Tarde
+1083,2024-06-02,20,Outro,Anual,Treino de força,56,294,10:02:00,Presente,Manhã
+1084,2024-03-18,28,Outro,Anual,Yoga,74,672,09:07:00,Ausente,Manhã
+1085,2024-11-18,59,Outro,Trimestral,HIIT,74,391,21:29:00,Ausente,Noite
+1086,2024-09-09,36,Feminino,Trimestral,CrossFit,106,661,10:34:00,Ausente,Manhã
+1087,2024-01-17,56,Masculino,Anual,CrossFit,113,1039,06:15:00,Ausente,Manhã
+1088,2024-09-23,43,Outro,Trimestral,Cardio,92,534,17:03:00,Presente,Tarde
+1089,2024-10-12,41,Outro,Trimestral,HIIT,27,228,15:26:00,Presente,Tarde
+1090,2024-01-12,41,Outro,Anual,Treino de força,37,190,22:03:00,Presente,Noite
+1091,2024-12-02,19,Feminino,Mensal,HIIT,114,1042,05:47:00,Presente,Manhã
+1092,2024-08-23,52,Outro,Mensal,HIIT,119,867,15:37:00,Ausente,Tarde
+1093,2024-11-15,55,Feminino,Anual,Treino de força,31,242,12:51:00,Presente,Tarde
+1094,2024-07-15,65,Outro,Trimestral,Cardio,34,253,17:03:00,Ausente,Tarde
+1095,2024-01-13,52,Outro,Anual,Treino de força,94,891,12:22:00,Presente,Tarde
+1096,2024-07-10,39,Feminino,Trimestral,Treino de força,39,268,10:32:00,Ausente,Manhã
+1097,2024-11-13,47,Masculino,Mensal,Treino de força,65,353,06:27:00,Ausente,Manhã
+1098,2024-08-28,48,Masculino,Trimestral,Yoga,118,901,05:16:00,Ausente,Manhã
+1099,2024-08-01,59,Feminino,Trimestral,Treino de força,93,630,09:28:00,Presente,Manhã
+1100,2024-07-01,45,Outro,Anual,Treino de força,103,563,10:34:00,Ausente,Manhã
+1101,2024-07-20,49,Feminino,Anual,Cardio,119,1121,20:16:00,Ausente,Noite
+1102,2024-02-20,53,Masculino,Mensal,Cardio,22,168,08:49:00,Ausente,Manhã
+1103,2024-01-11,23,Feminino,Mensal,Treino de força,32,239,16:48:00,Ausente,Tarde
+1104,2024-01-21,62,Feminino,Mensal,Cardio,74,469,12:46:00,Presente,Tarde
+1105,2024-05-28,33,Feminino,Trimestral,CrossFit,80,582,22:15:00,Ausente,Noite
+1106,2024-09-01,50,Feminino,Trimestral,HIIT,27,192,12:14:00,Ausente,Tarde
+1107,2024-08-30,42,Feminino,Trimestral,HIIT,65,461,08:18:00,Presente,Manhã
+1108,2024-08-13,41,Feminino,Anual,Cardio,114,594,22:15:00,Presente,Noite
+1109,2024-10-12,32,Outro,Trimestral,Treino de força,53,422,21:51:00,Presente,Noite
+1110,2024-02-16,62,Feminino,Anual,HIIT,53,438,09:37:00,Ausente,Manhã
+1111,2024-06-08,21,Feminino,Trimestral,HIIT,37,204,14:37:00,Presente,Tarde
+1112,2024-07-04,56,Masculino,Trimestral,Cardio,71,412,09:24:00,Ausente,Manhã
+1113,2024-02-10,51,Feminino,Anual,HIIT,32,319,16:39:00,Presente,Tarde
+1114,2024-04-28,20,Masculino,Trimestral,Cardio,40,237,19:41:00,Presente,Noite
+1115,2024-02-22,58,Feminino,Anual,HIIT,30,282,20:12:00,Presente,Noite
+1116,2024-06-05,64,Masculino,Mensal,HIIT,79,482,10:19:00,Presente,Manhã
+1117,2024-12-18,43,Feminino,Anual,Treino de força,43,392,14:49:00,Presente,Tarde
+1118,2024-04-18,58,Feminino,Anual,Cardio,39,242,05:29:00,Ausente,Manhã
+1119,2024-05-29,23,Outro,Anual,CrossFit,87,867,21:02:00,Presente,Noite
+1120,2024-08-12,43,Masculino,Mensal,Treino de força,72,624,06:29:00,Presente,Manhã
+1121,2024-08-06,25,Masculino,Anual,Yoga,83,681,16:18:00,Presente,Tarde
+1122,2024-07-11,37,Masculino,Mensal,HIIT,79,554,11:28:00,Presente,Manhã
+1123,2024-05-26,22,Feminino,Trimestral,Yoga,68,420,06:27:00,Presente,Manhã
+1124,2024-01-20,58,Feminino,Mensal,Cardio,119,644,14:13:00,Ausente,Tarde
+1125,2024-07-28,42,Feminino,Mensal,Treino de força,105,1023,05:58:00,Presente,Manhã
+1126,2024-08-14,20,Masculino,Trimestral,CrossFit,95,743,12:36:00,Presente,Tarde
+1127,2024-11-02,34,Feminino,Anual,CrossFit,65,575,17:35:00,Presente,Tarde
+1128,2024-06-17,46,Outro,Anual,CrossFit,44,394,12:37:00,Ausente,Tarde
+1129,2024-06-13,41,Masculino,Anual,Cardio,93,664,05:04:00,Presente,Manhã
+1130,2024-07-29,27,Outro,Mensal,Yoga,85,838,09:34:00,Ausente,Manhã
+1131,2024-10-29,30,Masculino,Trimestral,Yoga,76,456,21:38:00,Ausente,Noite
+1132,2024-01-03,19,Outro,Trimestral,Yoga,97,925,14:23:00,Ausente,Tarde
+1133,2024-06-26,64,Feminino,Trimestral,CrossFit,40,363,16:42:00,Presente,Tarde
+1134,2024-11-25,29,Feminino,Anual,Cardio,102,938,12:11:00,Presente,Tarde
+1135,2024-10-21,47,Outro,Trimestral,CrossFit,70,577,17:35:00,Ausente,Tarde
+1136,2024-09-18,22,Outro,Anual,Yoga,65,474,12:10:00,Ausente,Tarde
+1137,2024-12-23,40,Outro,Anual,Yoga,75,679,16:25:00,Presente,Tarde
+1138,2024-03-06,51,Masculino,Anual,Cardio,100,905,19:29:00,Presente,Noite
+1139,2024-05-13,60,Feminino,Anual,Cardio,26,158,09:28:00,Ausente,Manhã
+1140,2024-06-02,64,Feminino,Trimestral,Yoga,55,491,05:21:00,Ausente,Manhã
+1141,2024-08-13,36,Feminino,Trimestral,HIIT,64,586,06:32:00,Ausente,Manhã
+1142,2024-11-11,38,Masculino,Trimestral,Cardio,46,343,16:05:00,Ausente,Tarde
+1143,2024-04-13,27,Outro,Mensal,HIIT,96,513,20:12:00,Ausente,Noite
+1144,2024-11-26,48,Outro,Mensal,Yoga,70,474,12:47:00,Ausente,Tarde
+1145,2024-08-10,39,Masculino,Mensal,Cardio,38,323,17:42:00,Presente,Tarde
+1146,2024-06-06,57,Feminino,Trimestral,Treino de força,106,622,14:53:00,Presente,Tarde
+1147,2024-01-16,27,Masculino,Mensal,Treino de força,42,281,05:33:00,Presente,Manhã
+1148,2024-05-31,51,Outro,Mensal,Cardio,73,671,19:20:00,Ausente,Noite
+1149,2024-02-10,34,Feminino,Anual,Treino de força,56,533,16:30:00,Ausente,Tarde
+1150,2024-08-19,45,Masculino,Trimestral,HIIT,65,332,14:34:00,Ausente,Tarde
+1151,2024-10-24,49,Outro,Mensal,Treino de força,64,435,21:57:00,Ausente,Noite
+1152,2024-11-12,47,Masculino,Anual,Yoga,82,416,18:50:00,Presente,Noite
+1153,2024-01-11,64,Feminino,Mensal,Cardio,61,443,06:34:00,Presente,Manhã
+1154,2024-01-11,51,Masculino,Trimestral,Yoga,21,105,17:13:00,Ausente,Tarde
+1155,2024-09-25,25,Outro,Anual,Yoga,78,390,18:05:00,Presente,Noite
+1156,2024-11-22,36,Feminino,Anual,Treino de força,117,911,11:06:00,Presente,Manhã
+1157,2024-06-21,45,Masculino,Trimestral,CrossFit,53,408,13:48:00,Presente,Tarde
+1158,2024-05-10,25,Outro,Anual,Treino de força,52,508,05:55:00,Presente,Manhã
+1159,2024-12-02,62,Feminino,Mensal,Yoga,84,542,16:45:00,Presente,Tarde
+1160,2024-10-02,44,Outro,Trimestral,Cardio,60,554,09:37:00,Presente,Manhã
+1161,2024-09-20,54,Feminino,Trimestral,Cardio,20,118,22:39:00,Ausente,Noite
+1162,2024-11-22,28,Feminino,Trimestral,Yoga,55,278,08:52:00,Ausente,Manhã
+1163,2024-07-27,53,Masculino,Mensal,Treino de força,59,565,07:35:00,Presente,Manhã
+1164,2024-02-27,43,Feminino,Anual,Cardio,102,714,21:23:00,Ausente,Noite
+1165,2024-05-28,23,Feminino,Trimestral,HIIT,51,266,19:04:00,Ausente,Noite
+1166,2024-09-01,18,Outro,Trimestral,Treino de força,92,693,09:46:00,Ausente,Manhã
+1167,2024-12-31,23,Feminino,Mensal,Cardio,64,557,11:37:00,Presente,Manhã
+1168,2024-06-20,33,Feminino,Mensal,CrossFit,63,410,08:42:00,Ausente,Manhã
+1169,2024-07-16,37,Masculino,Anual,HIIT,83,746,16:37:00,Presente,Tarde
+1170,2024-10-17,18,Outro,Mensal,Cardio,32,188,11:10:00,Ausente,Manhã
+1171,2024-03-12,33,Feminino,Mensal,HIIT,53,306,22:19:00,Ausente,Noite
+1172,2024-09-07,33,Feminino,Anual,Yoga,20,144,14:38:00,Ausente,Tarde
+1173,2024-12-17,43,Masculino,Trimestral,CrossFit,89,844,17:33:00,Presente,Tarde
+1174,2024-05-12,54,Masculino,Trimestral,Treino de força,76,382,22:37:00,Presente,Noite
+1175,2024-12-11,33,Masculino,Trimestral,Cardio,73,578,05:57:00,Ausente,Manhã
+1176,2024-03-08,36,Masculino,Anual,Cardio,20,198,09:41:00,Presente,Manhã
+1177,2024-07-02,51,Feminino,Trimestral,Treino de força,87,702,14:02:00,Presente,Tarde
+1178,2024-03-25,27,Masculino,Mensal,Treino de força,79,719,08:51:00,Ausente,Manhã
+1179,2024-10-17,39,Masculino,Anual,Cardio,101,852,16:55:00,Presente,Tarde
+1180,2024-07-22,55,Masculino,Mensal,HIIT,21,189,09:00:00,Presente,Manhã
+1181,2024-01-15,55,Masculino,Mensal,HIIT,114,887,22:10:00,Ausente,Noite
+1182,2024-01-15,60,Masculino,Anual,Treino de força,94,626,05:21:00,Ausente,Manhã
+1183,2024-02-17,26,Feminino,Mensal,CrossFit,84,706,18:54:00,Presente,Noite
+1184,2024-05-16,36,Feminino,Anual,Yoga,110,918,21:18:00,Presente,Noite
+1185,2024-01-20,33,Outro,Anual,Cardio,54,361,16:46:00,Ausente,Tarde
+1186,2024-08-03,65,Masculino,Mensal,Yoga,87,592,16:11:00,Presente,Tarde
+1187,2024-10-09,34,Feminino,Trimestral,Treino de força,78,434,09:18:00,Ausente,Manhã
+1188,2024-10-02,63,Feminino,Trimestral,Cardio,39,383,19:05:00,Ausente,Noite
+1189,2024-11-26,30,Masculino,Mensal,HIIT,107,873,17:54:00,Presente,Tarde
+1190,2024-02-27,42,Masculino,Mensal,HIIT,33,213,22:39:00,Presente,Noite
+1191,2024-04-13,63,Masculino,Anual,Yoga,81,626,16:34:00,Ausente,Tarde
+1192,2024-09-10,63,Outro,Anual,Yoga,103,800,18:24:00,Ausente,Noite
+1193,2024-03-10,41,Outro,Trimestral,Yoga,68,574,13:59:00,Ausente,Tarde
+1194,2024-09-29,55,Outro,Mensal,Yoga,20,102,21:03:00,Ausente,Noite
+1195,2024-04-24,30,Outro,Anual,Treino de força,87,704,05:29:00,Presente,Manhã
+1196,2024-10-11,31,Outro,Trimestral,Treino de força,58,500,12:49:00,Presente,Tarde
+1197,2024-06-10,24,Outro,Trimestral,Treino de força,77,749,19:32:00,Ausente,Noite
+1198,2024-05-31,20,Outro,Trimestral,Treino de força,75,697,05:00:00,Ausente,Manhã
+1199,2024-05-10,48,Outro,Trimestral,HIIT,74,709,08:51:00,Ausente,Manhã
+1200,2024-04-14,48,Masculino,Anual,CrossFit,98,616,12:19:00,Ausente,Tarde
+1201,2024-11-03,41,Outro,Mensal,HIIT,99,501,16:50:00,Ausente,Tarde
+1202,2024-04-18,33,Masculino,Trimestral,CrossFit,27,164,15:52:00,Ausente,Tarde
+1203,2024-06-16,55,Masculino,Trimestral,HIIT,30,264,22:09:00,Ausente,Noite
+1204,2024-04-12,18,Masculino,Anual,Treino de força,50,488,12:44:00,Presente,Tarde
+1205,2024-05-05,42,Feminino,Trimestral,HIIT,42,294,20:13:00,Presente,Noite
+1206,2024-01-27,59,Masculino,Anual,Treino de força,63,477,08:24:00,Ausente,Manhã
+1207,2024-03-23,21,Masculino,Trimestral,HIIT,38,323,10:07:00,Ausente,Manhã
+1208,2024-12-29,34,Feminino,Trimestral,CrossFit,116,603,13:35:00,Presente,Tarde
+1209,2024-12-17,29,Outro,Trimestral,Treino de força,64,384,13:05:00,Presente,Tarde
+1210,2024-12-05,36,Feminino,Trimestral,CrossFit,77,751,22:18:00,Ausente,Noite
+1211,2024-03-31,49,Masculino,Anual,Yoga,97,868,17:41:00,Ausente,Tarde
+1212,2024-02-25,46,Outro,Mensal,Treino de força,69,498,11:13:00,Ausente,Manhã
+1213,2024-04-23,25,Outro,Anual,HIIT,97,833,16:34:00,Ausente,Tarde
+1214,2024-11-08,18,Feminino,Mensal,Yoga,87,562,14:54:00,Presente,Tarde
+1215,2024-02-10,28,Masculino,Anual,Yoga,85,561,17:30:00,Presente,Tarde
+1216,2024-04-25,26,Feminino,Trimestral,Treino de força,73,397,05:36:00,Presente,Manhã
+1217,2024-02-05,34,Masculino,Trimestral,Yoga,100,916,13:13:00,Ausente,Tarde
+1218,2024-04-06,34,Feminino,Trimestral,HIIT,28,142,16:01:00,Ausente,Tarde
+1219,2024-11-28,44,Outro,Trimestral,HIIT,36,305,16:27:00,Ausente,Tarde
+1220,2024-12-18,18,Feminino,Anual,CrossFit,25,176,08:16:00,Presente,Manhã
+1221,2024-01-30,61,Masculino,Mensal,Yoga,48,247,16:45:00,Ausente,Tarde
+1222,2024-06-30,50,Feminino,Anual,Yoga,34,183,17:05:00,Ausente,Tarde
+1223,2024-10-18,51,Masculino,Trimestral,Yoga,41,249,18:02:00,Ausente,Noite
+1224,2024-09-27,27,Masculino,Trimestral,Yoga,42,341,06:15:00,Presente,Manhã
+1225,2024-11-13,58,Feminino,Mensal,Yoga,118,1000,15:02:00,Presente,Tarde
+1226,2024-09-07,18,Outro,Trimestral,Cardio,108,886,10:25:00,Presente,Manhã
+1227,2024-07-04,33,Feminino,Anual,HIIT,47,380,08:56:00,Ausente,Manhã
+1228,2024-05-19,33,Feminino,Mensal,CrossFit,58,479,05:56:00,Presente,Manhã
+1229,2024-03-20,29,Feminino,Anual,Treino de força,91,579,19:47:00,Presente,Noite
+1230,2024-07-31,18,Feminino,Trimestral,CrossFit,66,434,11:46:00,Ausente,Manhã
+1231,2024-01-04,57,Outro,Mensal,Treino de força,88,710,12:40:00,Ausente,Tarde
+1232,2024-09-11,58,Feminino,Trimestral,HIIT,112,611,15:26:00,Presente,Tarde
+1233,2024-10-29,55,Masculino,Trimestral,Yoga,65,490,13:22:00,Ausente,Tarde
+1234,2024-12-02,60,Outro,Mensal,Yoga,88,771,22:35:00,Ausente,Noite
+1235,2024-06-16,44,Feminino,Anual,Cardio,48,350,21:52:00,Presente,Noite
+1236,2024-07-26,29,Outro,Trimestral,CrossFit,66,463,14:33:00,Presente,Tarde
+1237,2024-01-29,65,Outro,Mensal,Yoga,111,1104,09:29:00,Presente,Manhã
+1238,2024-08-26,59,Outro,Anual,Cardio,46,379,07:22:00,Presente,Manhã
+1239,2024-08-27,18,Masculino,Trimestral,Treino de força,74,736,08:10:00,Ausente,Manhã
+1240,2024-06-04,56,Outro,Mensal,Yoga,74,718,09:19:00,Presente,Manhã
+1241,2024-02-20,21,Masculino,Mensal,Cardio,63,525,10:04:00,Ausente,Manhã
+1242,2024-07-20,63,Feminino,Mensal,Cardio,55,428,09:06:00,Presente,Manhã
+1243,2024-05-18,47,Feminino,Trimestral,Cardio,114,996,21:18:00,Ausente,Noite
+1244,2024-10-27,57,Masculino,Mensal,CrossFit,114,962,21:43:00,Ausente,Noite
+1245,2024-02-04,62,Masculino,Anual,Treino de força,103,628,20:17:00,Presente,Noite
+1246,2024-05-26,45,Feminino,Anual,CrossFit,51,378,20:59:00,Ausente,Noite
+1247,2024-04-22,23,Outro,Mensal,Treino de força,115,739,21:10:00,Presente,Noite
+1248,2024-11-30,52,Feminino,Mensal,HIIT,94,564,07:58:00,Presente,Manhã
+1249,2024-11-04,62,Feminino,Anual,Cardio,66,391,05:43:00,Presente,Manhã
+1250,2024-01-25,40,Feminino,Trimestral,HIIT,117,1072,16:42:00,Ausente,Tarde
+1251,2024-07-30,46,Outro,Trimestral,CrossFit,53,377,05:00:00,Presente,Manhã
+1252,2024-11-03,44,Masculino,Anual,HIIT,87,788,18:50:00,Ausente,Noite
+1253,2024-01-05,22,Outro,Trimestral,Yoga,49,345,06:23:00,Presente,Manhã
+1254,2024-01-20,33,Outro,Trimestral,Yoga,71,494,07:49:00,Presente,Manhã
+1255,2024-08-31,24,Masculino,Mensal,Treino de força,85,688,16:44:00,Presente,Tarde
+1256,2024-05-29,24,Masculino,Mensal,Cardio,61,396,22:16:00,Ausente,Noite
+1257,2024-10-10,40,Masculino,Anual,HIIT,92,481,06:38:00,Ausente,Manhã
+1258,2024-10-10,60,Masculino,Trimestral,HIIT,97,845,14:04:00,Ausente,Tarde
+1259,2024-11-27,38,Masculino,Trimestral,CrossFit,88,498,19:58:00,Ausente,Noite
+1260,2024-10-06,54,Feminino,Anual,Yoga,39,333,16:59:00,Presente,Tarde
+1261,2024-06-15,40,Feminino,Trimestral,HIIT,48,379,13:02:00,Ausente,Tarde
+1262,2024-09-07,24,Outro,Anual,HIIT,30,226,10:36:00,Ausente,Manhã
+1263,2024-03-12,33,Feminino,Anual,Cardio,26,257,08:23:00,Ausente,Manhã
+1264,2024-08-06,60,Outro,Anual,Cardio,93,774,11:47:00,Ausente,Manhã
+1265,2024-03-10,22,Feminino,Anual,Treino de força,29,168,22:45:00,Presente,Noite
+1266,2024-06-17,55,Outro,Mensal,Treino de força,76,385,06:14:00,Ausente,Manhã
+1267,2024-05-17,44,Feminino,Trimestral,Cardio,70,575,14:11:00,Ausente,Tarde
+1268,2024-12-07,51,Feminino,Anual,Yoga,68,627,15:34:00,Ausente,Tarde
+1269,2024-02-01,62,Outro,Anual,Treino de força,58,463,15:49:00,Presente,Tarde
+1270,2024-05-24,23,Feminino,Mensal,Cardio,94,553,07:10:00,Presente,Manhã
+1271,2024-02-29,44,Feminino,Trimestral,Treino de força,119,663,08:29:00,Ausente,Manhã
+1272,2024-03-16,37,Masculino,Mensal,CrossFit,29,177,07:55:00,Presente,Manhã
+1273,2024-03-02,41,Masculino,Mensal,HIIT,26,241,12:45:00,Presente,Tarde
+1274,2024-03-24,58,Outro,Mensal,Treino de força,78,593,06:46:00,Ausente,Manhã
+1275,2024-06-16,51,Masculino,Mensal,HIIT,47,457,13:47:00,Presente,Tarde
+1276,2024-10-12,51,Outro,Anual,Cardio,32,211,19:17:00,Ausente,Noite
+1277,2024-10-18,48,Masculino,Anual,Cardio,104,721,10:26:00,Ausente,Manhã
+1278,2024-09-25,61,Feminino,Anual,Cardio,119,1035,07:59:00,Presente,Manhã
+1279,2024-10-20,21,Outro,Anual,Cardio,94,882,22:36:00,Presente,Noite
+1280,2024-11-12,37,Outro,Mensal,Treino de força,57,331,07:59:00,Presente,Manhã
+1281,2024-01-06,54,Masculino,Anual,CrossFit,24,130,12:20:00,Presente,Tarde
+1282,2024-03-15,43,Outro,Mensal,CrossFit,89,864,13:17:00,Ausente,Tarde
+1283,2024-05-07,47,Feminino,Anual,Yoga,70,360,09:04:00,Presente,Manhã
+1284,2024-06-01,33,Outro,Anual,Cardio,90,654,08:13:00,Presente,Manhã
+1285,2024-10-13,53,Outro,Anual,Treino de força,70,494,18:35:00,Presente,Noite
+1286,2024-09-23,57,Feminino,Anual,HIIT,90,484,18:14:00,Presente,Noite
+1287,2024-09-23,53,Masculino,Anual,Yoga,102,674,17:19:00,Ausente,Tarde
+1288,2024-12-08,27,Outro,Anual,CrossFit,32,251,05:28:00,Presente,Manhã
+1289,2024-07-05,38,Masculino,Mensal,Yoga,108,997,05:30:00,Presente,Manhã
+1290,2024-11-25,61,Feminino,Trimestral,Treino de força,38,281,06:03:00,Presente,Manhã
+1291,2024-08-03,32,Feminino,Anual,HIIT,20,133,08:04:00,Presente,Manhã
+1292,2024-02-23,60,Masculino,Trimestral,CrossFit,31,230,14:04:00,Ausente,Tarde
+1293,2024-11-29,29,Feminino,Anual,CrossFit,116,707,13:27:00,Ausente,Tarde
+1294,2024-02-19,32,Outro,Mensal,HIIT,43,425,14:05:00,Ausente,Tarde
+1295,2024-01-19,50,Feminino,Trimestral,Cardio,51,465,14:05:00,Ausente,Tarde
+1296,2024-06-11,33,Masculino,Mensal,Treino de força,119,1007,13:28:00,Presente,Tarde
+1297,2024-05-08,57,Masculino,Mensal,Treino de força,36,244,06:39:00,Presente,Manhã
+1298,2024-09-10,45,Feminino,Mensal,HIIT,53,340,20:37:00,Ausente,Noite
+1299,2024-04-10,36,Feminino,Mensal,Treino de força,39,267,05:14:00,Ausente,Manhã
+1300,2024-03-25,29,Outro,Mensal,HIIT,63,583,09:46:00,Ausente,Manhã
+1301,2024-04-27,49,Masculino,Anual,Yoga,81,606,05:33:00,Ausente,Manhã
+1302,2024-03-25,63,Feminino,Anual,HIIT,70,498,12:06:00,Presente,Tarde
+1303,2024-03-17,34,Outro,Trimestral,Cardio,119,984,10:58:00,Ausente,Manhã
+1304,2024-11-23,36,Feminino,Mensal,CrossFit,114,570,21:19:00,Ausente,Noite
+1305,2024-04-23,53,Outro,Anual,Yoga,73,543,05:40:00,Ausente,Manhã
+1306,2024-02-27,36,Feminino,Anual,HIIT,59,321,18:17:00,Presente,Noite
+1307,2024-08-29,19,Masculino,Mensal,HIIT,63,494,05:12:00,Presente,Manhã
+1308,2024-11-13,30,Masculino,Trimestral,Treino de força,32,221,07:31:00,Ausente,Manhã
+1309,2024-06-03,63,Outro,Mensal,CrossFit,45,279,22:45:00,Presente,Noite
+1310,2024-11-09,61,Outro,Anual,Cardio,83,450,15:22:00,Presente,Tarde
+1311,2024-06-28,34,Outro,Anual,Treino de força,108,967,12:36:00,Presente,Tarde
+1312,2024-07-03,58,Masculino,Anual,HIIT,109,556,16:49:00,Ausente,Tarde
+1313,2024-08-07,56,Outro,Trimestral,Yoga,65,489,19:08:00,Ausente,Noite
+1314,2024-12-28,26,Feminino,Trimestral,Treino de força,56,401,08:16:00,Ausente,Manhã
+1315,2024-03-28,54,Feminino,Trimestral,HIIT,66,559,13:09:00,Ausente,Tarde
+1316,2024-10-21,46,Masculino,Mensal,HIIT,114,997,21:04:00,Ausente,Noite
+1317,2024-04-18,61,Outro,Trimestral,Treino de força,116,730,20:17:00,Presente,Noite
+1318,2024-02-26,65,Feminino,Anual,HIIT,118,736,22:58:00,Presente,Noite
+1319,2024-05-05,24,Masculino,Trimestral,HIIT,95,674,08:00:00,Presente,Manhã
+1320,2024-07-01,60,Feminino,Anual,Cardio,25,167,16:27:00,Ausente,Tarde
+1321,2024-10-12,32,Feminino,Trimestral,HIIT,46,333,05:40:00,Presente,Manhã
+1322,2024-01-16,35,Outro,Mensal,Yoga,26,166,17:55:00,Presente,Tarde
+1323,2024-08-14,40,Masculino,Anual,Treino de força,111,589,08:38:00,Ausente,Manhã
+1324,2024-01-08,63,Feminino,Mensal,CrossFit,96,669,13:48:00,Ausente,Tarde
+1325,2024-04-07,41,Outro,Anual,Yoga,98,979,05:46:00,Presente,Manhã
+1326,2024-04-23,19,Feminino,Mensal,Cardio,33,329,17:34:00,Ausente,Tarde
+1327,2024-12-29,58,Outro,Trimestral,CrossFit,43,226,14:11:00,Ausente,Tarde
+1328,2024-06-11,56,Feminino,Mensal,CrossFit,74,414,14:26:00,Ausente,Tarde
+1329,2024-07-22,50,Masculino,Mensal,HIIT,48,410,20:15:00,Presente,Noite
+1330,2024-05-03,60,Feminino,Mensal,CrossFit,42,390,20:40:00,Presente,Noite
+1331,2024-02-13,61,Outro,Anual,Cardio,77,732,12:43:00,Presente,Tarde
+1332,2024-04-05,18,Feminino,Anual,Treino de força,47,264,18:32:00,Ausente,Noite
+1333,2024-08-13,60,Feminino,Mensal,CrossFit,49,313,12:40:00,Ausente,Tarde
+1334,2024-10-15,43,Masculino,Trimestral,Treino de força,20,127,14:28:00,Presente,Tarde
+1335,2024-02-25,51,Feminino,Trimestral,Yoga,77,515,19:52:00,Presente,Noite
+1336,2024-08-20,33,Feminino,Trimestral,CrossFit,115,1133,07:16:00,Presente,Manhã
+1337,2024-10-21,31,Outro,Trimestral,Treino de força,41,276,22:26:00,Ausente,Noite
+1338,2024-07-04,18,Masculino,Trimestral,HIIT,72,366,11:22:00,Ausente,Manhã
+1339,2024-09-30,29,Masculino,Trimestral,CrossFit,26,201,17:57:00,Ausente,Tarde
+1340,2024-06-21,32,Feminino,Trimestral,Treino de força,39,308,11:18:00,Ausente,Manhã
+1341,2024-10-20,32,Outro,Trimestral,CrossFit,94,910,12:08:00,Presente,Tarde
+1342,2024-09-07,34,Masculino,Mensal,Treino de força,88,811,20:46:00,Ausente,Noite
+1343,2024-12-25,35,Masculino,Anual,Cardio,115,582,05:22:00,Ausente,Manhã
+1344,2024-09-20,31,Masculino,Trimestral,CrossFit,49,485,14:04:00,Ausente,Tarde
+1345,2024-04-11,40,Feminino,Trimestral,HIIT,102,833,10:50:00,Ausente,Manhã
+1346,2024-01-31,32,Feminino,Anual,HIIT,37,317,19:31:00,Presente,Noite
+1347,2024-08-09,23,Outro,Anual,Yoga,93,837,05:59:00,Ausente,Manhã
+1348,2024-09-13,31,Feminino,Mensal,Treino de força,97,882,18:38:00,Ausente,Noite
+1349,2024-08-23,60,Feminino,Trimestral,CrossFit,90,887,06:05:00,Presente,Manhã
+1350,2024-07-09,65,Masculino,Trimestral,Yoga,62,418,16:24:00,Presente,Tarde
+1351,2024-01-24,49,Outro,Mensal,Cardio,103,606,12:01:00,Ausente,Tarde
+1352,2024-10-26,57,Outro,Anual,Yoga,91,892,08:21:00,Presente,Manhã
+1353,2024-01-26,37,Masculino,Anual,Yoga,82,437,18:00:00,Presente,Noite
+1354,2024-01-13,34,Outro,Anual,Yoga,71,490,14:33:00,Ausente,Tarde
+1355,2024-11-16,43,Outro,Mensal,Yoga,118,900,06:01:00,Ausente,Manhã
+1356,2024-03-15,33,Feminino,Anual,Treino de força,51,351,12:27:00,Ausente,Tarde
+1357,2024-07-31,41,Outro,Trimestral,Cardio,59,549,19:24:00,Presente,Noite
+1358,2024-05-31,40,Outro,Trimestral,Cardio,39,287,08:59:00,Presente,Manhã
+1359,2024-07-28,61,Outro,Anual,Yoga,44,359,16:21:00,Presente,Tarde
+1360,2024-02-29,18,Masculino,Mensal,CrossFit,80,406,10:33:00,Presente,Manhã
+1361,2024-11-16,35,Masculino,Mensal,HIIT,83,604,21:15:00,Presente,Noite
+1362,2024-12-14,52,Masculino,Trimestral,Cardio,68,670,07:55:00,Ausente,Manhã
+1363,2024-02-13,64,Feminino,Anual,Yoga,109,787,15:52:00,Presente,Tarde
+1364,2024-01-19,31,Outro,Mensal,Cardio,24,132,07:05:00,Presente,Manhã
+1365,2024-08-03,21,Masculino,Anual,HIIT,75,509,09:11:00,Ausente,Manhã
+1366,2024-06-27,45,Masculino,Anual,Yoga,79,705,15:09:00,Ausente,Tarde
+1367,2024-02-03,31,Masculino,Anual,CrossFit,48,453,06:49:00,Ausente,Manhã
+1368,2024-04-20,54,Masculino,Anual,CrossFit,88,870,12:51:00,Presente,Tarde
+1369,2024-10-30,47,Masculino,Mensal,Treino de força,84,808,22:46:00,Ausente,Noite
+1370,2024-04-27,47,Feminino,Mensal,Treino de força,110,651,11:53:00,Presente,Manhã
+1371,2024-05-06,54,Outro,Mensal,HIIT,91,455,20:39:00,Presente,Noite
+1372,2024-05-15,42,Masculino,Mensal,Treino de força,35,228,12:25:00,Presente,Tarde
+1373,2024-09-21,50,Feminino,Anual,Treino de força,51,350,09:53:00,Ausente,Manhã
+1374,2024-05-11,28,Outro,Anual,CrossFit,51,313,18:34:00,Presente,Noite
+1375,2024-02-24,42,Outro,Trimestral,HIIT,54,382,12:53:00,Ausente,Tarde
+1376,2024-09-20,45,Outro,Anual,HIIT,34,229,16:14:00,Presente,Tarde
+1377,2024-12-24,24,Feminino,Mensal,CrossFit,21,152,08:15:00,Ausente,Manhã
+1378,2024-12-13,40,Outro,Trimestral,HIIT,42,316,18:06:00,Presente,Noite
+1379,2024-05-21,64,Masculino,Trimestral,Cardio,46,387,15:25:00,Presente,Tarde
+1380,2024-05-12,65,Masculino,Trimestral,HIIT,63,375,11:17:00,Presente,Manhã
+1381,2024-03-10,39,Feminino,Mensal,Cardio,31,221,10:44:00,Presente,Manhã
+1382,2024-12-19,26,Feminino,Mensal,Yoga,105,734,09:25:00,Ausente,Manhã
+1383,2024-10-20,53,Masculino,Mensal,HIIT,32,199,08:16:00,Ausente,Manhã
+1384,2024-01-10,22,Outro,Anual,HIIT,79,507,07:52:00,Presente,Manhã
+1385,2024-06-26,25,Feminino,Mensal,HIIT,92,502,22:02:00,Ausente,Noite
+1386,2024-07-22,54,Masculino,Trimestral,Treino de força,81,493,07:21:00,Ausente,Manhã
+1387,2024-06-08,46,Masculino,Mensal,CrossFit,99,628,07:10:00,Ausente,Manhã
+1388,2024-06-22,64,Masculino,Anual,HIIT,73,710,06:09:00,Presente,Manhã
+1389,2024-10-15,47,Masculino,Mensal,CrossFit,26,254,14:22:00,Ausente,Tarde
+1390,2024-02-14,65,Outro,Anual,Cardio,58,296,20:06:00,Ausente,Noite
+1391,2024-10-04,27,Masculino,Trimestral,CrossFit,33,238,14:25:00,Presente,Tarde
+1392,2024-12-25,60,Masculino,Anual,Treino de força,74,484,08:05:00,Ausente,Manhã
+1393,2024-09-30,34,Feminino,Mensal,Treino de força,99,706,22:52:00,Ausente,Noite
+1394,2024-07-23,65,Masculino,Anual,HIIT,77,743,06:44:00,Ausente,Manhã
+1395,2024-12-06,40,Feminino,Mensal,CrossFit,89,542,21:48:00,Presente,Noite
+1396,2024-01-03,37,Outro,Trimestral,Treino de força,33,261,12:45:00,Ausente,Tarde
+1397,2024-06-17,44,Masculino,Anual,Cardio,24,186,18:29:00,Ausente,Noite
+1398,2024-12-26,32,Feminino,Trimestral,Treino de força,102,871,08:04:00,Presente,Manhã
+1399,2024-03-10,36,Outro,Mensal,Treino de força,99,824,15:12:00,Presente,Tarde
+1400,2024-12-11,18,Outro,Mensal,HIIT,66,638,18:34:00,Ausente,Noite
+1401,2024-10-21,33,Outro,Trimestral,HIIT,94,870,12:40:00,Presente,Tarde
+1402,2024-03-25,57,Masculino,Anual,Cardio,60,515,14:33:00,Ausente,Tarde
+1403,2024-06-30,42,Masculino,Trimestral,CrossFit,111,622,06:57:00,Ausente,Manhã
+1404,2024-01-30,34,Outro,Anual,CrossFit,112,670,11:26:00,Ausente,Manhã
+1405,2024-07-08,38,Feminino,Anual,Cardio,24,169,13:27:00,Presente,Tarde
+1406,2024-08-11,50,Masculino,Trimestral,Cardio,51,292,14:07:00,Ausente,Tarde
+1407,2024-09-04,49,Masculino,Mensal,Cardio,74,402,05:26:00,Ausente,Manhã
+1408,2024-11-03,54,Outro,Anual,HIIT,99,922,11:37:00,Presente,Manhã
+1409,2024-08-02,36,Masculino,Mensal,HIIT,83,451,17:15:00,Presente,Tarde
+1410,2024-08-09,65,Feminino,Anual,CrossFit,73,412,14:29:00,Presente,Tarde
+1411,2024-02-08,37,Masculino,Mensal,Treino de força,61,546,10:44:00,Presente,Manhã
+1412,2024-04-17,49,Outro,Mensal,Treino de força,111,623,19:02:00,Presente,Noite
+1413,2024-02-24,48,Feminino,Mensal,Treino de força,65,491,07:18:00,Ausente,Manhã
+1414,2024-01-09,48,Masculino,Mensal,Cardio,119,1111,22:36:00,Ausente,Noite
+1415,2024-08-26,23,Feminino,Mensal,CrossFit,60,374,16:42:00,Presente,Tarde
+1416,2024-11-18,44,Feminino,Anual,HIIT,65,633,21:25:00,Ausente,Noite
+1417,2024-08-26,41,Feminino,Mensal,Yoga,50,272,08:26:00,Ausente,Manhã
+1418,2024-03-16,56,Masculino,Trimestral,CrossFit,95,725,13:57:00,Ausente,Tarde
+1419,2024-05-24,46,Outro,Mensal,HIIT,91,804,05:19:00,Ausente,Manhã
+1420,2024-08-03,23,Outro,Mensal,Cardio,70,638,21:18:00,Presente,Noite
+1421,2024-12-04,39,Outro,Mensal,Treino de força,83,790,09:22:00,Presente,Manhã
+1422,2024-01-20,25,Feminino,Mensal,Yoga,110,933,08:29:00,Presente,Manhã
+1423,2024-06-29,54,Outro,Mensal,HIIT,52,405,21:22:00,Presente,Noite
+1424,2024-12-26,28,Feminino,Trimestral,Cardio,83,514,13:32:00,Ausente,Tarde
+1425,2024-02-12,52,Feminino,Mensal,Treino de força,71,427,09:45:00,Ausente,Manhã
+1426,2024-08-09,20,Outro,Anual,Yoga,85,646,06:24:00,Ausente,Manhã
+1427,2024-03-03,32,Outro,Trimestral,Yoga,41,244,08:38:00,Presente,Manhã
+1428,2024-11-23,20,Outro,Trimestral,Treino de força,107,1069,14:04:00,Ausente,Tarde
+1429,2024-10-30,39,Outro,Mensal,CrossFit,98,680,21:18:00,Ausente,Noite
+1430,2024-08-16,57,Outro,Anual,CrossFit,93,601,05:14:00,Presente,Manhã
+1431,2024-12-08,46,Masculino,Trimestral,CrossFit,98,492,21:20:00,Presente,Noite
+1432,2024-03-30,54,Masculino,Anual,Cardio,87,804,13:58:00,Presente,Tarde
+1433,2024-06-29,41,Feminino,Anual,HIIT,73,526,19:28:00,Presente,Noite
+1434,2024-05-31,51,Outro,Trimestral,Treino de força,84,536,16:41:00,Ausente,Tarde
+1435,2024-10-29,45,Outro,Mensal,Yoga,83,420,05:14:00,Presente,Manhã
+1436,2024-01-20,29,Outro,Mensal,Yoga,81,529,17:19:00,Presente,Tarde
+1437,2024-12-18,20,Feminino,Anual,CrossFit,71,538,12:25:00,Presente,Tarde
+1438,2024-11-01,58,Feminino,Anual,Yoga,25,182,15:52:00,Presente,Tarde
+1439,2024-03-21,19,Feminino,Trimestral,Yoga,86,654,15:13:00,Ausente,Tarde
+1440,2024-05-30,60,Outro,Mensal,CrossFit,110,632,12:47:00,Presente,Tarde
+1441,2024-09-22,62,Outro,Trimestral,CrossFit,94,661,09:54:00,Ausente,Manhã
+1442,2024-03-15,41,Feminino,Mensal,Cardio,38,350,15:20:00,Presente,Tarde
+1443,2024-01-29,56,Masculino,Mensal,HIIT,33,211,22:55:00,Ausente,Noite
+1444,2024-12-08,23,Feminino,Mensal,CrossFit,118,1127,18:28:00,Ausente,Noite
+1445,2024-07-21,46,Feminino,Trimestral,Cardio,54,515,05:40:00,Presente,Manhã
+1446,2024-10-05,60,Masculino,Anual,HIIT,76,412,21:27:00,Presente,Noite
+1447,2024-08-20,59,Feminino,Mensal,HIIT,47,258,14:10:00,Ausente,Tarde
+1448,2024-12-21,20,Outro,Mensal,Cardio,31,164,17:33:00,Ausente,Tarde
+1449,2024-07-10,22,Outro,Mensal,CrossFit,109,705,06:11:00,Ausente,Manhã
+1450,2024-08-05,34,Outro,Anual,Cardio,30,192,19:12:00,Ausente,Noite
+1451,2024-12-22,39,Outro,Mensal,Treino de força,33,296,19:41:00,Presente,Noite
+1452,2024-08-05,58,Outro,Mensal,Treino de força,23,219,20:27:00,Ausente,Noite
+1453,2024-03-26,61,Outro,Mensal,Cardio,58,438,18:59:00,Ausente,Noite
+1454,2024-08-17,28,Outro,Anual,Yoga,118,600,17:37:00,Ausente,Tarde
+1455,2024-11-30,36,Feminino,Anual,Treino de força,38,200,09:52:00,Presente,Manhã
+1456,2024-10-20,44,Feminino,Mensal,Cardio,68,547,19:43:00,Presente,Noite
+1457,2024-06-26,36,Masculino,Anual,CrossFit,29,179,21:20:00,Presente,Noite
+1458,2024-08-05,32,Masculino,Mensal,CrossFit,61,430,19:42:00,Ausente,Noite
+1459,2024-05-29,47,Feminino,Anual,Treino de força,65,617,09:52:00,Presente,Manhã
+1460,2024-12-11,64,Masculino,Mensal,Cardio,114,1135,15:47:00,Ausente,Tarde
+1461,2024-09-16,18,Outro,Anual,CrossFit,26,242,18:39:00,Presente,Noite
+1462,2024-01-25,52,Masculino,Trimestral,Yoga,117,1093,09:58:00,Ausente,Manhã
+1463,2024-04-21,38,Outro,Anual,CrossFit,97,569,07:54:00,Presente,Manhã
+1464,2024-08-19,49,Masculino,Trimestral,Cardio,39,281,19:41:00,Presente,Noite
+1465,2024-04-28,30,Masculino,Anual,Yoga,111,1091,20:28:00,Ausente,Noite
+1466,2024-06-26,52,Masculino,Trimestral,Treino de força,59,312,08:30:00,Ausente,Manhã
+1467,2024-02-16,22,Outro,Trimestral,CrossFit,74,731,16:42:00,Presente,Tarde
+1468,2024-08-07,36,Feminino,Trimestral,HIIT,110,895,11:22:00,Ausente,Manhã
+1469,2024-10-11,45,Feminino,Trimestral,Cardio,106,547,07:22:00,Presente,Manhã
+1470,2024-08-06,33,Outro,Mensal,Treino de força,102,663,10:45:00,Ausente,Manhã
+1471,2024-07-12,41,Masculino,Mensal,Yoga,113,709,18:12:00,Presente,Noite
+1472,2024-09-17,57,Outro,Mensal,Cardio,54,391,17:54:00,Presente,Tarde
+1473,2024-11-10,49,Feminino,Anual,Cardio,113,791,09:53:00,Ausente,Manhã
+1474,2024-03-18,61,Outro,Anual,Yoga,89,554,12:04:00,Ausente,Tarde
+1475,2024-06-10,65,Masculino,Trimestral,HIIT,109,1069,17:19:00,Presente,Tarde
+1476,2024-11-17,60,Masculino,Mensal,Treino de força,74,557,09:21:00,Ausente,Manhã
+1477,2024-12-20,35,Masculino,Anual,Yoga,53,336,06:05:00,Presente,Manhã
+1478,2024-07-10,49,Outro,Trimestral,Treino de força,100,986,18:32:00,Ausente,Noite
+1479,2024-06-24,42,Feminino,Anual,CrossFit,45,418,08:55:00,Ausente,Manhã
+1480,2024-11-15,42,Outro,Anual,Treino de força,111,563,05:39:00,Presente,Manhã
+1481,2024-03-18,44,Outro,Trimestral,Cardio,98,928,11:40:00,Presente,Manhã
+1482,2024-04-29,27,Masculino,Trimestral,Treino de força,118,675,20:16:00,Ausente,Noite
+1483,2024-11-06,62,Outro,Anual,Yoga,103,542,10:53:00,Presente,Manhã
+1484,2024-02-05,51,Feminino,Mensal,Treino de força,44,241,15:32:00,Ausente,Tarde
+1485,2024-06-08,39,Outro,Anual,Cardio,74,487,12:59:00,Ausente,Tarde
+1486,2024-01-16,58,Masculino,Anual,Treino de força,66,545,11:53:00,Presente,Manhã
+1487,2024-10-16,23,Masculino,Mensal,Cardio,85,564,18:43:00,Presente,Noite
+1488,2024-09-04,53,Feminino,Trimestral,Cardio,64,433,06:16:00,Ausente,Manhã
+1489,2024-08-03,47,Feminino,Anual,Yoga,59,436,13:30:00,Presente,Tarde
+1490,2024-05-29,30,Masculino,Trimestral,Cardio,58,506,18:44:00,Ausente,Noite
+1491,2024-08-02,46,Masculino,Trimestral,HIIT,116,959,21:16:00,Ausente,Noite
+1492,2024-03-18,53,Masculino,Trimestral,HIIT,20,120,15:51:00,Ausente,Tarde
+1493,2024-11-11,53,Feminino,Mensal,HIIT,98,859,06:57:00,Ausente,Manhã
+1494,2024-05-13,58,Masculino,Mensal,CrossFit,96,576,09:55:00,Presente,Manhã
+1495,2024-03-15,22,Masculino,Mensal,HIIT,37,219,11:51:00,Presente,Manhã
+1496,2024-02-27,52,Masculino,Anual,Treino de força,56,520,10:20:00,Ausente,Manhã
+1497,2024-09-21,65,Outro,Mensal,Treino de força,64,382,20:20:00,Presente,Noite
+1498,2024-01-12,37,Outro,Anual,HIIT,71,506,10:06:00,Presente,Manhã
+1499,2024-07-03,42,Masculino,Anual,Cardio,59,434,07:58:00,Presente,Manhã
+1500,2024-10-08,18,Feminino,Anual,Yoga,27,248,15:26:00,Presente,Tarde
+1501,2024-01-16,64,Outro,Trimestral,CrossFit,31,187,22:07:00,Ausente,Noite
+1502,2024-10-02,25,Masculino,Anual,HIIT,32,185,14:43:00,Presente,Tarde
+1503,2024-05-22,30,Masculino,Mensal,Cardio,53,523,06:52:00,Presente,Manhã
+1504,2024-03-16,28,Outro,Anual,Cardio,87,839,11:38:00,Presente,Manhã
+1505,2024-02-08,58,Feminino,Anual,Treino de força,43,339,16:14:00,Presente,Tarde
+1506,2024-06-21,63,Outro,Mensal,CrossFit,120,865,12:22:00,Presente,Tarde
+1507,2024-02-01,37,Outro,Mensal,Cardio,98,761,18:22:00,Ausente,Noite
+1508,2024-08-11,28,Outro,Trimestral,Yoga,45,241,12:04:00,Presente,Tarde
+1509,2024-09-28,52,Outro,Anual,Yoga,101,929,08:08:00,Presente,Manhã
+1510,2024-04-24,52,Outro,Anual,CrossFit,67,528,17:55:00,Ausente,Tarde
+1511,2024-02-17,39,Outro,Trimestral,Cardio,30,285,12:09:00,Presente,Tarde
+1512,2024-08-05,63,Outro,Trimestral,Cardio,95,628,15:21:00,Presente,Tarde
+1513,2024-12-09,37,Outro,Trimestral,Treino de força,39,270,05:55:00,Presente,Manhã
+1514,2024-08-04,49,Outro,Trimestral,HIIT,53,406,16:34:00,Presente,Tarde
+1515,2024-04-28,29,Feminino,Anual,CrossFit,93,521,12:03:00,Presente,Tarde
+1516,2024-07-17,61,Masculino,Mensal,Cardio,81,460,16:42:00,Ausente,Tarde
+1517,2024-01-10,26,Masculino,Anual,CrossFit,26,173,16:00:00,Presente,Tarde
+1518,2024-04-02,44,Feminino,Trimestral,CrossFit,71,620,08:37:00,Ausente,Manhã
+1519,2024-09-10,62,Outro,Trimestral,HIIT,109,576,22:35:00,Presente,Noite
+1520,2024-02-22,31,Feminino,Anual,Cardio,53,437,11:20:00,Ausente,Manhã
+1521,2024-05-29,50,Outro,Anual,Yoga,50,270,12:48:00,Presente,Tarde
+1522,2024-12-30,63,Masculino,Anual,CrossFit,89,878,12:37:00,Ausente,Tarde
+1523,2024-05-23,42,Feminino,Mensal,CrossFit,90,892,10:39:00,Ausente,Manhã
+1524,2024-06-16,55,Masculino,Mensal,Cardio,36,234,08:48:00,Presente,Manhã
+1525,2024-08-03,49,Outro,Anual,Treino de força,58,467,13:41:00,Presente,Tarde
+1526,2024-12-04,24,Feminino,Mensal,Treino de força,87,676,07:02:00,Presente,Manhã
+1527,2024-03-19,42,Feminino,Anual,Treino de força,47,302,14:44:00,Presente,Tarde
+1528,2024-11-29,63,Feminino,Anual,Cardio,30,285,12:57:00,Ausente,Tarde
+1529,2024-12-05,51,Outro,Mensal,Cardio,79,568,09:26:00,Ausente,Manhã
+1530,2024-11-06,42,Outro,Mensal,Treino de força,23,164,09:11:00,Ausente,Manhã
+1531,2024-02-11,24,Outro,Anual,HIIT,24,187,09:20:00,Presente,Manhã
+1532,2024-02-20,55,Outro,Anual,Treino de força,26,249,06:05:00,Presente,Manhã
+1533,2024-04-19,59,Outro,Mensal,CrossFit,34,291,07:59:00,Presente,Manhã
+1534,2024-12-23,20,Outro,Trimestral,HIIT,52,428,18:28:00,Ausente,Noite
+1535,2024-02-07,38,Masculino,Trimestral,HIIT,77,769,07:16:00,Ausente,Manhã
+1536,2024-08-05,62,Masculino,Mensal,CrossFit,36,189,06:15:00,Ausente,Manhã
+1537,2024-07-22,22,Outro,Mensal,CrossFit,70,535,19:54:00,Presente,Noite
+1538,2024-05-02,60,Outro,Trimestral,CrossFit,69,644,17:02:00,Ausente,Tarde
+1539,2024-04-30,21,Outro,Trimestral,Treino de força,81,550,19:09:00,Ausente,Noite
+1540,2024-11-24,47,Outro,Trimestral,Cardio,27,211,19:18:00,Presente,Noite
+1541,2024-01-19,44,Feminino,Trimestral,Treino de força,65,550,16:55:00,Ausente,Tarde
+1542,2024-04-08,65,Masculino,Mensal,HIIT,38,273,05:32:00,Presente,Manhã
+1543,2024-11-03,20,Feminino,Mensal,Treino de força,42,379,11:07:00,Ausente,Manhã
+1544,2024-12-03,37,Outro,Mensal,HIIT,68,599,22:25:00,Ausente,Noite
+1545,2024-12-02,19,Feminino,Mensal,Cardio,38,311,13:31:00,Ausente,Tarde
+1546,2024-04-21,49,Outro,Trimestral,Cardio,108,695,08:44:00,Presente,Manhã
+1547,2024-04-03,21,Outro,Anual,Treino de força,67,398,16:19:00,Presente,Tarde
+1548,2024-03-19,37,Masculino,Anual,Yoga,87,615,14:18:00,Presente,Tarde
+1549,2024-09-20,41,Outro,Anual,Yoga,120,931,08:20:00,Ausente,Manhã
+1550,2024-05-24,55,Masculino,Mensal,Yoga,81,424,19:57:00,Presente,Noite
+1551,2024-06-21,27,Outro,Anual,Cardio,23,193,16:38:00,Presente,Tarde
+1552,2024-09-10,59,Masculino,Trimestral,Cardio,107,625,10:17:00,Ausente,Manhã
+1553,2024-09-06,45,Feminino,Anual,Cardio,118,1070,21:12:00,Ausente,Noite
+1554,2024-07-22,20,Outro,Trimestral,Yoga,84,805,06:16:00,Presente,Manhã
+1555,2024-06-28,48,Feminino,Trimestral,Cardio,95,636,14:25:00,Ausente,Tarde
+1556,2024-03-04,20,Feminino,Anual,CrossFit,33,252,12:34:00,Presente,Tarde
+1557,2024-09-15,19,Outro,Anual,HIIT,57,568,13:22:00,Presente,Tarde
+1558,2024-09-28,56,Masculino,Anual,Treino de força,58,358,17:43:00,Ausente,Tarde
+1559,2024-01-26,50,Masculino,Trimestral,Treino de força,70,611,09:53:00,Ausente,Manhã
+1560,2024-01-05,50,Masculino,Trimestral,Treino de força,31,210,20:23:00,Presente,Noite
+1561,2024-01-26,30,Outro,Mensal,HIIT,89,707,09:53:00,Presente,Manhã
+1562,2024-07-19,57,Masculino,Trimestral,Treino de força,60,337,22:21:00,Ausente,Noite
+1563,2024-07-06,41,Masculino,Trimestral,CrossFit,62,602,11:57:00,Ausente,Manhã
+1564,2024-05-04,48,Feminino,Anual,Yoga,28,245,13:30:00,Presente,Tarde
+1565,2024-10-30,59,Outro,Mensal,Cardio,62,446,11:26:00,Presente,Manhã
+1566,2024-07-13,56,Masculino,Anual,Treino de força,102,788,12:34:00,Presente,Tarde
+1567,2024-09-14,18,Feminino,Mensal,HIIT,55,479,12:45:00,Presente,Tarde
+1568,2024-08-30,25,Outro,Trimestral,Treino de força,88,467,09:07:00,Presente,Manhã
+1569,2024-03-18,64,Outro,Mensal,Treino de força,30,176,08:17:00,Ausente,Manhã
+1570,2024-02-14,65,Outro,Anual,Cardio,49,305,18:02:00,Ausente,Noite
+1571,2024-02-11,62,Masculino,Mensal,Treino de força,43,276,08:50:00,Presente,Manhã
+1572,2024-01-13,20,Outro,Anual,CrossFit,75,678,09:00:00,Presente,Manhã
+1573,2024-07-02,19,Outro,Mensal,Cardio,54,402,15:17:00,Presente,Tarde
+1574,2024-10-02,57,Outro,Anual,HIIT,119,806,16:26:00,Ausente,Tarde
+1575,2024-09-06,42,Outro,Mensal,CrossFit,53,414,20:10:00,Ausente,Noite
+1576,2024-09-14,43,Masculino,Trimestral,Cardio,81,581,07:37:00,Ausente,Manhã
+1577,2024-09-10,37,Feminino,Mensal,Treino de força,101,565,22:27:00,Ausente,Noite
+1578,2024-01-04,39,Feminino,Mensal,CrossFit,101,730,10:21:00,Presente,Manhã
+1579,2024-09-11,18,Masculino,Mensal,CrossFit,83,567,07:17:00,Presente,Manhã
+1580,2024-02-11,65,Feminino,Trimestral,Cardio,91,896,14:17:00,Ausente,Tarde
+1581,2024-07-03,40,Feminino,Mensal,Yoga,40,307,14:02:00,Presente,Tarde
+1582,2024-10-29,61,Feminino,Mensal,CrossFit,28,140,12:37:00,Ausente,Tarde
+1583,2024-12-03,45,Masculino,Trimestral,HIIT,70,538,07:44:00,Presente,Manhã
+1584,2024-04-20,21,Outro,Anual,Treino de força,27,225,16:21:00,Ausente,Tarde
+1585,2024-07-05,61,Feminino,Anual,CrossFit,61,349,05:45:00,Presente,Manhã
+1586,2024-09-08,35,Feminino,Trimestral,Cardio,59,422,08:03:00,Presente,Manhã
+1587,2024-03-11,37,Feminino,Anual,HIIT,44,404,05:21:00,Presente,Manhã
+1588,2024-12-22,37,Masculino,Trimestral,HIIT,66,586,19:54:00,Presente,Noite
+1589,2024-06-23,37,Masculino,Trimestral,Cardio,96,791,11:12:00,Presente,Manhã
+1590,2024-06-15,47,Masculino,Trimestral,HIIT,97,934,17:37:00,Ausente,Tarde
+1591,2024-12-25,24,Masculino,Anual,CrossFit,104,548,15:38:00,Ausente,Tarde
+1592,2024-05-24,33,Outro,Anual,HIIT,38,284,08:20:00,Ausente,Manhã
+1593,2024-03-29,32,Masculino,Anual,Cardio,86,738,14:59:00,Ausente,Tarde
+1594,2024-02-24,33,Outro,Trimestral,HIIT,82,557,05:32:00,Ausente,Manhã
+1595,2024-05-15,23,Feminino,Anual,Cardio,109,660,20:25:00,Ausente,Noite
+1596,2024-09-12,47,Outro,Mensal,Treino de força,99,512,21:09:00,Presente,Noite
+1597,2024-12-20,23,Feminino,Trimestral,Cardio,37,245,11:05:00,Ausente,Manhã
+1598,2024-09-13,65,Outro,Anual,HIIT,115,771,20:58:00,Presente,Noite
+1599,2024-08-21,37,Outro,Mensal,Treino de força,59,387,11:08:00,Ausente,Manhã
+1600,2024-04-23,44,Outro,Anual,CrossFit,38,362,09:21:00,Ausente,Manhã
+1601,2024-12-16,45,Feminino,Mensal,Yoga,51,503,10:25:00,Ausente,Manhã
+1602,2024-05-06,60,Feminino,Trimestral,Cardio,23,209,05:53:00,Ausente,Manhã
+1603,2024-01-25,43,Masculino,Mensal,Treino de força,107,667,15:13:00,Presente,Tarde
+1604,2024-07-03,55,Feminino,Anual,CrossFit,24,233,05:21:00,Ausente,Manhã
+1605,2024-01-14,34,Outro,Trimestral,CrossFit,69,506,08:07:00,Ausente,Manhã
+1606,2024-01-16,28,Outro,Anual,Treino de força,58,350,10:55:00,Ausente,Manhã
+1607,2024-09-21,19,Feminino,Anual,Yoga,23,164,11:24:00,Presente,Manhã
+1608,2024-11-26,20,Masculino,Mensal,Yoga,56,326,15:06:00,Ausente,Tarde
+1609,2024-01-24,33,Outro,Anual,Yoga,97,920,16:09:00,Ausente,Tarde
+1610,2024-12-03,33,Feminino,Trimestral,CrossFit,108,887,19:52:00,Ausente,Noite
+1611,2024-08-26,57,Feminino,Mensal,Yoga,92,742,13:34:00,Presente,Tarde
+1612,2024-06-16,64,Masculino,Trimestral,Treino de força,99,702,21:22:00,Presente,Noite
+1613,2024-06-12,52,Outro,Trimestral,CrossFit,57,490,05:19:00,Presente,Manhã
+1614,2024-09-08,32,Masculino,Anual,Yoga,26,191,09:02:00,Ausente,Manhã
+1615,2024-03-21,37,Outro,Trimestral,CrossFit,45,287,09:13:00,Ausente,Manhã
+1616,2024-02-25,59,Masculino,Mensal,CrossFit,58,366,12:26:00,Ausente,Tarde
+1617,2024-08-26,18,Masculino,Trimestral,Treino de força,100,559,16:10:00,Presente,Tarde
+1618,2024-02-27,40,Outro,Mensal,Yoga,35,242,07:21:00,Ausente,Manhã
+1619,2024-09-15,29,Feminino,Trimestral,CrossFit,20,165,10:36:00,Ausente,Manhã
+1620,2024-05-01,58,Masculino,Mensal,Cardio,115,685,20:27:00,Presente,Noite
+1621,2024-04-26,21,Outro,Anual,Yoga,82,440,08:14:00,Presente,Manhã
+1622,2024-02-23,29,Feminino,Anual,Treino de força,45,261,20:29:00,Ausente,Noite
+1623,2024-02-01,53,Feminino,Trimestral,CrossFit,110,570,18:50:00,Ausente,Noite
+1624,2024-09-27,35,Outro,Anual,HIIT,87,504,22:55:00,Ausente,Noite
+1625,2024-05-24,36,Feminino,Anual,CrossFit,117,1039,12:54:00,Ausente,Tarde
+1626,2024-08-30,32,Outro,Trimestral,Cardio,68,451,15:28:00,Ausente,Tarde
+1627,2024-07-12,21,Feminino,Trimestral,CrossFit,120,921,09:39:00,Presente,Manhã
+1628,2024-04-01,29,Feminino,Anual,Cardio,94,604,12:15:00,Ausente,Tarde
+1629,2024-10-25,36,Feminino,Trimestral,CrossFit,32,222,18:05:00,Ausente,Noite
+1630,2024-06-16,37,Feminino,Mensal,Cardio,62,582,13:53:00,Presente,Tarde
+1631,2024-06-09,21,Feminino,Mensal,HIIT,105,614,08:26:00,Presente,Manhã
+1632,2024-07-30,21,Outro,Trimestral,Yoga,111,589,16:59:00,Ausente,Tarde
+1633,2024-06-07,38,Feminino,Trimestral,Treino de força,107,802,17:30:00,Ausente,Tarde
+1634,2024-03-09,33,Masculino,Mensal,CrossFit,64,435,06:03:00,Presente,Manhã
+1635,2024-12-31,56,Feminino,Anual,Cardio,47,382,19:29:00,Presente,Noite
+1636,2024-03-22,47,Masculino,Mensal,CrossFit,74,444,10:15:00,Ausente,Manhã
+1637,2024-02-24,64,Outro,Trimestral,Treino de força,68,633,08:52:00,Ausente,Manhã
+1638,2024-03-19,30,Masculino,Mensal,Treino de força,91,517,21:58:00,Presente,Noite
+1639,2024-09-09,47,Masculino,Trimestral,HIIT,94,519,12:30:00,Ausente,Tarde
+1640,2024-08-24,57,Feminino,Mensal,Yoga,33,256,20:35:00,Ausente,Noite
+1641,2024-11-10,61,Outro,Anual,Treino de força,86,711,18:13:00,Presente,Noite
+1642,2024-02-05,53,Feminino,Mensal,Treino de força,102,772,21:23:00,Presente,Noite
+1643,2024-11-08,35,Outro,Trimestral,HIIT,111,922,17:21:00,Ausente,Tarde
+1644,2024-04-10,29,Feminino,Anual,CrossFit,74,686,19:54:00,Presente,Noite
+1645,2024-04-14,60,Feminino,Mensal,Cardio,35,348,05:17:00,Ausente,Manhã
+1646,2024-11-20,53,Masculino,Mensal,Cardio,90,733,19:12:00,Presente,Noite
+1647,2024-02-24,62,Outro,Mensal,HIIT,55,317,11:01:00,Ausente,Manhã
+1648,2024-11-23,41,Masculino,Mensal,CrossFit,110,804,10:22:00,Ausente,Manhã
+1649,2024-12-11,27,Feminino,Anual,CrossFit,86,647,10:34:00,Ausente,Manhã
+1650,2024-11-23,38,Feminino,Trimestral,CrossFit,109,577,14:05:00,Presente,Tarde
+1651,2024-09-27,27,Feminino,Anual,CrossFit,31,277,22:44:00,Ausente,Noite
+1652,2024-09-23,58,Masculino,Trimestral,HIIT,120,612,07:47:00,Presente,Manhã
+1653,2024-01-28,27,Masculino,Trimestral,HIIT,84,460,10:25:00,Ausente,Manhã
+1654,2024-02-28,38,Outro,Anual,Cardio,32,265,15:19:00,Ausente,Tarde
+1655,2024-07-06,63,Feminino,Anual,Yoga,48,293,20:24:00,Presente,Noite
+1656,2024-10-14,61,Masculino,Mensal,CrossFit,102,634,09:51:00,Ausente,Manhã
+1657,2024-10-21,48,Outro,Mensal,Cardio,45,250,15:00:00,Ausente,Tarde
+1658,2024-12-02,52,Feminino,Anual,Cardio,73,635,19:39:00,Ausente,Noite
+1659,2024-01-30,18,Feminino,Mensal,Yoga,82,707,07:16:00,Presente,Manhã
+1660,2024-06-15,37,Feminino,Mensal,Yoga,41,223,17:03:00,Ausente,Tarde
+1661,2024-09-20,26,Outro,Mensal,Yoga,111,802,16:40:00,Presente,Tarde
+1662,2024-10-16,29,Outro,Anual,Treino de força,101,617,11:13:00,Presente,Manhã
+1663,2024-02-21,62,Outro,Anual,Treino de força,106,712,11:42:00,Ausente,Manhã
+1664,2024-04-30,60,Feminino,Mensal,Cardio,46,260,19:47:00,Presente,Noite
+1665,2024-04-09,60,Masculino,Anual,CrossFit,84,626,21:55:00,Ausente,Noite
+1666,2024-08-09,48,Feminino,Anual,Treino de força,103,693,20:52:00,Ausente,Noite
+1667,2024-01-29,39,Masculino,Anual,Yoga,48,402,21:40:00,Ausente,Noite
+1668,2024-10-29,40,Masculino,Anual,Cardio,68,652,15:19:00,Presente,Tarde
+1669,2024-03-17,30,Feminino,Trimestral,Treino de força,96,838,08:15:00,Ausente,Manhã
+1670,2024-11-22,32,Masculino,Anual,HIIT,72,593,18:49:00,Presente,Noite
+1671,2024-03-01,64,Masculino,Trimestral,Treino de força,91,616,07:57:00,Presente,Manhã
+1672,2024-09-06,35,Outro,Trimestral,CrossFit,63,487,05:44:00,Presente,Manhã
+1673,2024-03-01,24,Masculino,Trimestral,Treino de força,80,558,10:05:00,Presente,Manhã
+1674,2024-01-11,24,Feminino,Trimestral,Cardio,30,165,16:40:00,Presente,Tarde
+1675,2024-02-01,38,Outro,Trimestral,CrossFit,23,173,14:53:00,Presente,Tarde
+1676,2024-08-27,26,Masculino,Trimestral,Cardio,91,474,17:50:00,Ausente,Tarde
+1677,2024-11-16,55,Masculino,Mensal,Treino de força,105,537,06:53:00,Presente,Manhã
+1678,2024-12-11,35,Masculino,Trimestral,Cardio,46,338,17:20:00,Presente,Tarde
+1679,2024-11-22,22,Feminino,Trimestral,Treino de força,34,245,05:26:00,Ausente,Manhã
+1680,2024-01-28,56,Outro,Mensal,Treino de força,25,180,08:16:00,Presente,Manhã
+1681,2024-05-25,52,Outro,Mensal,Yoga,48,373,06:39:00,Presente,Manhã
+1682,2024-05-01,51,Masculino,Mensal,Treino de força,81,465,16:08:00,Ausente,Tarde
+1683,2024-06-27,47,Feminino,Mensal,Cardio,64,355,06:13:00,Ausente,Manhã
+1684,2024-05-16,20,Masculino,Anual,CrossFit,55,354,16:03:00,Ausente,Tarde
+1685,2024-12-11,36,Feminino,Mensal,CrossFit,21,181,21:06:00,Presente,Noite
+1686,2024-01-26,20,Feminino,Anual,CrossFit,80,788,09:23:00,Presente,Manhã
+1687,2024-07-18,24,Feminino,Trimestral,CrossFit,92,614,07:59:00,Ausente,Manhã
+1688,2024-08-06,40,Outro,Trimestral,Cardio,106,694,06:22:00,Ausente,Manhã
+1689,2024-07-30,63,Outro,Trimestral,Yoga,64,392,08:04:00,Presente,Manhã
+1690,2024-06-29,45,Masculino,Anual,Yoga,74,411,14:21:00,Ausente,Tarde
+1691,2024-08-07,53,Outro,Mensal,Yoga,67,643,09:42:00,Presente,Manhã
+1692,2024-01-30,32,Masculino,Anual,Cardio,20,142,14:48:00,Presente,Tarde
+1693,2024-05-11,61,Masculino,Anual,Yoga,79,636,22:39:00,Presente,Noite
+1694,2024-05-20,58,Masculino,Anual,Cardio,79,602,19:55:00,Ausente,Noite
+1695,2024-05-08,59,Feminino,Trimestral,Treino de força,111,834,08:44:00,Presente,Manhã
+1696,2024-03-10,52,Outro,Trimestral,HIIT,43,243,15:04:00,Ausente,Tarde
+1697,2024-11-12,24,Feminino,Anual,Cardio,69,520,16:55:00,Presente,Tarde
+1698,2024-11-24,31,Feminino,Trimestral,Treino de força,88,574,10:32:00,Ausente,Manhã
+1699,2024-06-23,29,Masculino,Trimestral,Treino de força,89,476,18:02:00,Ausente,Noite
+1700,2024-11-12,53,Outro,Anual,Yoga,58,466,16:11:00,Presente,Tarde
+1701,2024-01-05,33,Masculino,Anual,Treino de força,71,686,21:35:00,Presente,Noite
+1702,2024-10-06,23,Masculino,Trimestral,Treino de força,110,1057,08:24:00,Ausente,Manhã
+1703,2024-05-22,53,Masculino,Mensal,HIIT,79,400,05:52:00,Presente,Manhã
+1704,2024-10-09,33,Masculino,Trimestral,HIIT,72,475,07:39:00,Presente,Manhã
+1705,2024-02-05,21,Masculino,Mensal,CrossFit,87,820,18:58:00,Ausente,Noite
+1706,2024-11-30,38,Feminino,Mensal,CrossFit,64,339,11:05:00,Presente,Manhã
+1707,2024-12-17,49,Masculino,Anual,CrossFit,46,367,08:57:00,Presente,Manhã
+1708,2024-05-12,43,Masculino,Trimestral,Cardio,33,192,19:43:00,Ausente,Noite
+1709,2024-09-06,25,Masculino,Mensal,Yoga,62,376,19:52:00,Ausente,Noite
+1710,2024-01-11,56,Feminino,Trimestral,HIIT,76,526,08:38:00,Presente,Manhã
+1711,2024-07-17,55,Masculino,Anual,Yoga,84,700,15:35:00,Ausente,Tarde
+1712,2024-09-17,40,Feminino,Trimestral,CrossFit,33,303,09:59:00,Ausente,Manhã
+1713,2024-08-19,46,Outro,Anual,CrossFit,105,834,08:57:00,Ausente,Manhã
+1714,2024-09-23,22,Outro,Anual,HIIT,65,633,15:23:00,Ausente,Tarde
+1715,2024-08-21,60,Outro,Mensal,HIIT,87,484,15:05:00,Ausente,Tarde
+1716,2024-12-24,49,Feminino,Mensal,Treino de força,47,255,11:42:00,Presente,Manhã
+1717,2024-07-24,37,Masculino,Mensal,HIIT,28,239,21:50:00,Ausente,Noite
+1718,2024-06-04,43,Feminino,Mensal,HIIT,82,507,15:19:00,Ausente,Tarde
+1719,2024-08-30,47,Outro,Anual,CrossFit,108,762,09:22:00,Presente,Manhã
+1720,2024-01-11,45,Feminino,Mensal,Cardio,91,871,16:26:00,Presente,Tarde
+1721,2024-03-19,43,Outro,Anual,CrossFit,116,1016,21:31:00,Ausente,Noite
+1722,2024-06-08,63,Feminino,Anual,CrossFit,80,787,05:48:00,Ausente,Manhã
+1723,2024-10-28,46,Outro,Mensal,Treino de força,84,501,19:06:00,Presente,Noite
+1724,2024-10-15,60,Outro,Mensal,Treino de força,62,412,09:02:00,Ausente,Manhã
+1725,2024-12-25,21,Outro,Trimestral,HIIT,43,315,06:09:00,Ausente,Manhã
+1726,2024-11-16,47,Feminino,Anual,CrossFit,57,288,10:04:00,Presente,Manhã
+1727,2024-03-13,41,Outro,Mensal,HIIT,49,331,08:41:00,Ausente,Manhã
+1728,2024-09-30,18,Feminino,Mensal,HIIT,66,396,17:30:00,Presente,Tarde
+1729,2024-08-14,25,Outro,Anual,Yoga,82,769,13:30:00,Ausente,Tarde
+1730,2024-11-10,54,Outro,Anual,Yoga,116,1021,10:02:00,Presente,Manhã
+1731,2024-04-08,26,Outro,Mensal,Cardio,82,512,08:14:00,Presente,Manhã
+1732,2024-02-01,54,Masculino,Anual,Treino de força,100,995,14:07:00,Ausente,Tarde
+1733,2024-10-21,44,Feminino,Mensal,CrossFit,84,592,16:02:00,Presente,Tarde
+1734,2024-12-11,57,Feminino,Trimestral,Cardio,53,303,16:42:00,Presente,Tarde
+1735,2024-08-30,40,Outro,Trimestral,Cardio,86,701,19:34:00,Ausente,Noite
+1736,2024-02-28,58,Outro,Mensal,CrossFit,71,598,19:16:00,Ausente,Noite
+1737,2024-09-02,30,Masculino,Trimestral,CrossFit,70,532,21:57:00,Ausente,Noite
+1738,2024-12-15,50,Feminino,Trimestral,Treino de força,23,172,15:25:00,Presente,Tarde
+1739,2024-09-14,46,Feminino,Anual,Treino de força,94,790,22:40:00,Presente,Noite
+1740,2024-07-30,54,Feminino,Mensal,Treino de força,90,589,09:21:00,Ausente,Manhã
+1741,2024-01-13,21,Feminino,Trimestral,Yoga,27,142,16:18:00,Ausente,Tarde
+1742,2024-05-21,58,Outro,Anual,Treino de força,50,484,08:04:00,Ausente,Manhã
+1743,2024-10-04,42,Masculino,Mensal,HIIT,26,154,10:29:00,Presente,Manhã
+1744,2024-03-01,23,Masculino,Trimestral,Yoga,110,1077,10:50:00,Ausente,Manhã
+1745,2024-09-17,48,Outro,Mensal,CrossFit,86,789,21:53:00,Ausente,Noite
+1746,2024-01-25,38,Feminino,Anual,CrossFit,114,914,08:56:00,Ausente,Manhã
+1747,2024-06-29,28,Outro,Mensal,Cardio,62,474,21:57:00,Ausente,Noite
+1748,2024-08-17,64,Feminino,Trimestral,CrossFit,85,476,10:00:00,Ausente,Manhã
+1749,2024-01-23,19,Feminino,Anual,HIIT,73,433,22:29:00,Ausente,Noite
+1750,2024-02-04,19,Masculino,Mensal,Cardio,77,708,20:17:00,Ausente,Noite
+1751,2024-09-25,20,Outro,Trimestral,CrossFit,115,1115,16:16:00,Ausente,Tarde
+1752,2024-11-05,57,Outro,Trimestral,Cardio,98,826,06:46:00,Ausente,Manhã
+1753,2024-10-30,32,Feminino,Anual,CrossFit,101,668,21:12:00,Presente,Noite
+1754,2024-05-18,39,Masculino,Anual,HIIT,102,977,19:22:00,Presente,Noite
+1755,2024-10-18,60,Feminino,Mensal,HIIT,49,340,10:00:00,Presente,Manhã
+1756,2024-04-10,51,Outro,Mensal,Cardio,31,302,05:11:00,Presente,Manhã
+1757,2024-07-18,21,Masculino,Trimestral,Yoga,110,579,15:47:00,Presente,Tarde
+1758,2024-02-28,18,Feminino,Anual,Treino de força,66,341,09:08:00,Ausente,Manhã
+1759,2024-03-23,65,Outro,Trimestral,Cardio,51,295,21:14:00,Ausente,Noite
+1760,2024-05-22,39,Masculino,Trimestral,HIIT,56,450,09:53:00,Presente,Manhã
+1761,2024-10-23,37,Feminino,Mensal,CrossFit,118,695,19:06:00,Presente,Noite
+1762,2024-09-18,34,Feminino,Mensal,Treino de força,100,735,20:03:00,Ausente,Noite
+1763,2024-08-29,59,Outro,Trimestral,Treino de força,20,107,05:47:00,Ausente,Manhã
+1764,2024-01-20,32,Outro,Anual,Yoga,51,332,19:21:00,Presente,Noite
+1765,2024-12-09,41,Outro,Trimestral,Yoga,96,635,22:15:00,Ausente,Noite
+1766,2024-05-08,21,Feminino,Mensal,Treino de força,64,465,12:23:00,Presente,Tarde
+1767,2024-02-29,18,Masculino,Mensal,HIIT,110,718,18:14:00,Ausente,Noite
+1768,2024-07-11,47,Feminino,Anual,CrossFit,118,1152,14:44:00,Ausente,Tarde
+1769,2024-07-07,58,Outro,Trimestral,HIIT,26,239,19:12:00,Ausente,Noite
+1770,2024-03-07,22,Masculino,Trimestral,Treino de força,82,413,16:09:00,Presente,Tarde
+1771,2024-11-08,63,Masculino,Mensal,HIIT,32,189,13:05:00,Ausente,Tarde
+1772,2024-01-15,36,Feminino,Anual,Cardio,33,325,12:16:00,Presente,Tarde
+1773,2024-11-23,51,Feminino,Trimestral,HIIT,63,537,08:13:00,Ausente,Manhã
+1774,2024-01-02,20,Outro,Mensal,Treino de força,46,424,17:56:00,Ausente,Tarde
+1775,2024-12-30,33,Outro,Anual,Treino de força,21,160,05:39:00,Presente,Manhã
+1776,2024-11-25,28,Feminino,Trimestral,Yoga,75,484,20:16:00,Presente,Noite
+1777,2024-04-22,53,Feminino,Trimestral,HIIT,82,412,13:29:00,Ausente,Tarde
+1778,2024-07-12,43,Masculino,Trimestral,Cardio,104,673,22:56:00,Ausente,Noite
+1779,2024-11-01,52,Outro,Mensal,Treino de força,38,273,10:48:00,Ausente,Manhã
+1780,2024-02-09,49,Feminino,Mensal,HIIT,63,590,14:30:00,Presente,Tarde
+1781,2024-04-02,62,Outro,Trimestral,Cardio,55,467,15:21:00,Presente,Tarde
+1782,2024-10-01,34,Feminino,Mensal,Cardio,48,478,21:30:00,Presente,Noite
+1783,2024-03-22,19,Outro,Mensal,CrossFit,22,145,08:42:00,Ausente,Manhã
+1784,2024-08-05,18,Outro,Mensal,Cardio,72,365,15:59:00,Ausente,Tarde
+1785,2024-09-15,63,Outro,Mensal,Cardio,95,840,09:24:00,Ausente,Manhã
+1786,2024-05-02,62,Feminino,Anual,CrossFit,81,520,16:29:00,Ausente,Tarde
+1787,2024-09-03,64,Feminino,Mensal,Treino de força,80,420,19:33:00,Presente,Noite
+1788,2024-12-04,39,Feminino,Anual,HIIT,31,178,16:52:00,Presente,Tarde
+1789,2024-03-08,55,Outro,Anual,CrossFit,24,221,06:16:00,Presente,Manhã
+1790,2024-07-02,42,Masculino,Mensal,Yoga,31,160,22:16:00,Ausente,Noite
+1791,2024-05-11,43,Feminino,Anual,Treino de força,45,375,13:55:00,Presente,Tarde
+1792,2024-02-24,59,Feminino,Trimestral,Treino de força,103,966,06:57:00,Presente,Manhã
+1793,2024-04-23,51,Outro,Mensal,Yoga,44,326,18:16:00,Presente,Noite
+1794,2024-08-12,62,Feminino,Anual,HIIT,90,590,09:28:00,Ausente,Manhã
+1795,2024-08-02,63,Masculino,Anual,Yoga,72,638,11:31:00,Ausente,Manhã
+1796,2024-09-02,50,Masculino,Mensal,CrossFit,90,601,16:12:00,Presente,Tarde
+1797,2024-01-13,48,Feminino,Trimestral,HIIT,86,518,15:50:00,Presente,Tarde
+1798,2024-10-23,58,Masculino,Trimestral,CrossFit,71,692,09:10:00,Presente,Manhã
+1799,2024-02-27,35,Masculino,Mensal,HIIT,36,285,12:10:00,Ausente,Tarde
+1800,2024-04-18,35,Feminino,Anual,HIIT,109,849,22:41:00,Presente,Noite
+1801,2024-08-17,30,Masculino,Trimestral,Treino de força,77,589,19:16:00,Presente,Noite
+1802,2024-05-30,54,Masculino,Anual,CrossFit,110,748,14:02:00,Presente,Tarde
+1803,2024-12-28,55,Feminino,Trimestral,HIIT,36,294,18:34:00,Presente,Noite
+1804,2024-01-24,27,Masculino,Anual,Cardio,44,262,07:05:00,Ausente,Manhã
+1805,2024-11-11,24,Masculino,Anual,Cardio,93,709,07:34:00,Presente,Manhã
+1806,2024-10-08,50,Masculino,Mensal,Treino de força,99,904,13:48:00,Ausente,Tarde
+1807,2024-02-11,46,Feminino,Trimestral,CrossFit,82,655,18:33:00,Ausente,Noite
+1808,2024-06-22,37,Feminino,Mensal,Treino de força,56,396,21:45:00,Presente,Noite
+1809,2024-11-15,39,Feminino,Anual,CrossFit,99,980,17:08:00,Ausente,Tarde
+1810,2024-02-25,63,Outro,Anual,Cardio,26,224,21:02:00,Presente,Noite
+1811,2024-03-11,20,Outro,Trimestral,Treino de força,84,831,09:33:00,Ausente,Manhã
+1812,2024-12-18,42,Feminino,Trimestral,CrossFit,61,354,21:39:00,Ausente,Noite
+1813,2024-03-09,55,Masculino,Mensal,CrossFit,100,664,10:30:00,Presente,Manhã
+1814,2024-03-05,25,Masculino,Anual,HIIT,80,673,05:21:00,Ausente,Manhã
+1815,2024-05-03,46,Masculino,Anual,Cardio,26,220,09:04:00,Ausente,Manhã
+1816,2024-07-21,38,Outro,Mensal,CrossFit,86,705,08:30:00,Ausente,Manhã
+1817,2024-11-22,59,Masculino,Trimestral,Cardio,115,836,12:33:00,Presente,Tarde
+1818,2024-12-29,60,Feminino,Trimestral,HIIT,32,276,21:44:00,Ausente,Noite
+1819,2024-05-22,50,Masculino,Trimestral,HIIT,37,330,11:25:00,Ausente,Manhã
+1820,2024-12-27,19,Outro,Trimestral,Cardio,43,308,07:07:00,Ausente,Manhã
+1821,2024-03-31,21,Masculino,Anual,Cardio,87,497,08:05:00,Presente,Manhã
+1822,2024-06-13,35,Feminino,Anual,Treino de força,80,789,11:12:00,Presente,Manhã
+1823,2024-08-20,25,Masculino,Trimestral,Yoga,56,385,20:06:00,Presente,Noite
+1824,2024-11-26,43,Masculino,Trimestral,CrossFit,53,379,16:28:00,Presente,Tarde
+1825,2024-07-19,32,Outro,Mensal,Treino de força,70,552,06:02:00,Presente,Manhã
+1826,2024-01-08,18,Outro,Mensal,HIIT,42,291,18:16:00,Presente,Noite
+1827,2024-10-11,34,Masculino,Anual,Treino de força,39,359,06:15:00,Ausente,Manhã
+1828,2024-05-26,63,Feminino,Mensal,Yoga,118,661,05:17:00,Ausente,Manhã
+1829,2024-12-09,59,Feminino,Trimestral,Treino de força,25,144,08:10:00,Ausente,Manhã
+1830,2024-01-03,55,Masculino,Mensal,Yoga,37,280,17:13:00,Presente,Tarde
+1831,2024-09-27,60,Feminino,Mensal,HIIT,44,386,08:17:00,Presente,Manhã
+1832,2024-01-16,58,Feminino,Trimestral,Yoga,81,772,12:53:00,Presente,Tarde
+1833,2024-12-19,35,Outro,Trimestral,Treino de força,91,689,18:56:00,Ausente,Noite
+1834,2024-05-23,43,Feminino,Trimestral,Cardio,83,446,10:56:00,Ausente,Manhã
+1835,2024-08-06,24,Outro,Mensal,HIIT,103,709,08:42:00,Ausente,Manhã
+1836,2024-05-06,65,Outro,Mensal,CrossFit,31,181,12:46:00,Presente,Tarde
+1837,2024-04-10,40,Feminino,Anual,CrossFit,77,475,18:25:00,Ausente,Noite
+1838,2024-08-21,25,Outro,Mensal,HIIT,49,348,20:58:00,Presente,Noite
+1839,2024-04-28,33,Feminino,Anual,HIIT,41,303,12:28:00,Presente,Tarde
+1840,2024-02-07,31,Outro,Mensal,Treino de força,61,559,12:08:00,Ausente,Tarde
+1841,2024-02-20,25,Feminino,Mensal,Yoga,46,400,13:43:00,Ausente,Tarde
+1842,2024-05-03,23,Masculino,Trimestral,Cardio,81,809,16:31:00,Ausente,Tarde
+1843,2024-07-18,62,Feminino,Mensal,Cardio,24,131,07:50:00,Ausente,Manhã
+1844,2024-05-17,57,Feminino,Anual,Yoga,99,784,22:57:00,Presente,Noite
+1845,2024-05-14,62,Outro,Trimestral,CrossFit,41,212,16:07:00,Ausente,Tarde
+1846,2024-01-18,22,Masculino,Trimestral,Treino de força,43,367,16:08:00,Ausente,Tarde
+1847,2024-02-01,21,Feminino,Anual,HIIT,102,742,16:04:00,Ausente,Tarde
+1848,2024-08-07,46,Outro,Trimestral,CrossFit,83,648,19:26:00,Ausente,Noite
+1849,2024-04-25,48,Outro,Mensal,HIIT,33,276,21:43:00,Ausente,Noite
+1850,2024-10-17,19,Outro,Anual,Yoga,55,456,14:28:00,Presente,Tarde
+1851,2024-02-03,51,Masculino,Trimestral,Treino de força,51,478,10:49:00,Ausente,Manhã
+1852,2024-09-16,52,Masculino,Anual,Treino de força,96,490,10:09:00,Ausente,Manhã
+1853,2024-08-28,47,Outro,Mensal,HIIT,101,535,06:06:00,Presente,Manhã
+1854,2024-06-01,48,Feminino,Mensal,CrossFit,90,737,05:43:00,Ausente,Manhã
+1855,2024-06-16,28,Feminino,Mensal,Yoga,79,471,06:09:00,Ausente,Manhã
+1856,2024-11-22,19,Masculino,Anual,CrossFit,106,691,10:07:00,Presente,Manhã
+1857,2024-10-31,27,Feminino,Anual,Cardio,57,354,18:11:00,Presente,Noite
+1858,2024-07-31,22,Feminino,Mensal,CrossFit,24,231,19:31:00,Presente,Noite
+1859,2024-09-27,30,Outro,Mensal,CrossFit,91,599,19:46:00,Ausente,Noite
+1860,2024-04-08,59,Masculino,Anual,Treino de força,71,431,09:15:00,Ausente,Manhã
+1861,2024-09-26,29,Masculino,Mensal,Treino de força,110,551,18:23:00,Presente,Noite
+1862,2024-04-09,30,Feminino,Trimestral,HIIT,72,612,19:18:00,Ausente,Noite
+1863,2024-01-24,46,Outro,Anual,Yoga,53,323,21:17:00,Presente,Noite
+1864,2024-11-26,31,Masculino,Trimestral,Cardio,111,612,17:11:00,Presente,Tarde
+1865,2024-11-18,42,Outro,Trimestral,CrossFit,91,720,18:06:00,Presente,Noite
+1866,2024-07-16,27,Outro,Trimestral,Cardio,104,808,05:27:00,Ausente,Manhã
+1867,2024-01-25,60,Feminino,Mensal,Cardio,42,281,08:52:00,Presente,Manhã
+1868,2024-04-13,26,Masculino,Anual,HIIT,68,410,19:18:00,Ausente,Noite
+1869,2024-07-26,52,Outro,Trimestral,HIIT,45,405,14:41:00,Ausente,Tarde
+1870,2024-06-23,41,Outro,Anual,CrossFit,86,688,16:23:00,Ausente,Tarde
+1871,2024-12-01,18,Outro,Trimestral,CrossFit,76,484,12:43:00,Presente,Tarde
+1872,2024-06-08,25,Feminino,Trimestral,HIIT,93,705,10:02:00,Presente,Manhã
+1873,2024-02-17,56,Masculino,Trimestral,CrossFit,29,162,05:06:00,Presente,Manhã
+1874,2024-12-11,43,Feminino,Mensal,CrossFit,66,628,19:44:00,Presente,Noite
+1875,2024-09-28,29,Masculino,Mensal,Cardio,60,513,13:08:00,Ausente,Tarde
+1876,2024-02-18,18,Masculino,Anual,Yoga,64,607,12:25:00,Ausente,Tarde
+1877,2024-03-20,40,Feminino,Mensal,Treino de força,105,861,07:28:00,Presente,Manhã
+1878,2024-01-28,30,Masculino,Anual,Yoga,102,726,17:39:00,Presente,Tarde
+1879,2024-05-20,56,Outro,Trimestral,Yoga,38,320,06:54:00,Presente,Manhã
+1880,2024-04-04,62,Outro,Anual,CrossFit,97,594,21:01:00,Ausente,Noite
+1881,2024-09-17,18,Outro,Mensal,Treino de força,111,938,08:26:00,Ausente,Manhã
+1882,2024-12-13,61,Outro,Anual,CrossFit,30,209,16:09:00,Ausente,Tarde
+1883,2024-06-10,28,Outro,Anual,Yoga,40,226,10:07:00,Ausente,Manhã
+1884,2024-07-28,52,Outro,Mensal,Yoga,91,497,22:07:00,Ausente,Noite
+1885,2024-11-27,43,Masculino,Anual,CrossFit,118,743,22:46:00,Ausente,Noite
+1886,2024-10-26,46,Feminino,Anual,Cardio,32,275,08:40:00,Ausente,Manhã
+1887,2024-09-24,20,Masculino,Anual,Cardio,58,546,07:18:00,Ausente,Manhã
+1888,2024-02-02,25,Feminino,Mensal,HIIT,22,114,22:50:00,Ausente,Noite
+1889,2024-09-06,57,Outro,Trimestral,CrossFit,57,529,17:34:00,Presente,Tarde
+1890,2024-04-28,53,Masculino,Anual,HIIT,54,275,07:13:00,Ausente,Manhã
+1891,2024-01-21,32,Feminino,Mensal,Treino de força,26,189,07:06:00,Presente,Manhã
+1892,2024-09-06,57,Outro,Trimestral,CrossFit,96,652,18:44:00,Ausente,Noite
+1893,2024-07-19,42,Feminino,Anual,Treino de força,115,719,09:14:00,Ausente,Manhã
+1894,2024-03-27,24,Masculino,Anual,Yoga,48,478,09:09:00,Ausente,Manhã
+1895,2024-08-06,54,Feminino,Mensal,Treino de força,32,230,21:36:00,Presente,Noite
+1896,2024-03-19,48,Feminino,Mensal,Treino de força,74,589,18:57:00,Presente,Noite
+1897,2024-03-05,59,Masculino,Anual,HIIT,52,322,05:23:00,Presente,Manhã
+1898,2024-08-11,24,Feminino,Mensal,Cardio,46,365,15:33:00,Ausente,Tarde
+1899,2024-04-25,27,Feminino,Anual,Treino de força,64,367,08:36:00,Ausente,Manhã
+1900,2024-02-13,45,Masculino,Mensal,Treino de força,71,657,16:51:00,Presente,Tarde
+1901,2024-10-12,26,Feminino,Trimestral,CrossFit,97,823,14:41:00,Ausente,Tarde
+1902,2024-06-06,53,Feminino,Anual,Yoga,105,800,22:34:00,Ausente,Noite
+1903,2024-01-13,25,Outro,Anual,Cardio,90,486,20:32:00,Presente,Noite
+1904,2024-08-10,59,Masculino,Anual,Treino de força,102,543,08:00:00,Ausente,Manhã
+1905,2024-12-26,46,Outro,Anual,HIIT,35,297,12:37:00,Presente,Tarde
+1906,2024-07-01,40,Feminino,Trimestral,HIIT,57,568,22:08:00,Ausente,Noite
+1907,2024-06-27,21,Feminino,Anual,Cardio,87,665,11:58:00,Presente,Manhã
+1908,2024-04-28,33,Feminino,Mensal,Yoga,91,525,16:33:00,Ausente,Tarde
+1909,2024-08-31,20,Masculino,Mensal,CrossFit,97,729,19:24:00,Presente,Noite
+1910,2024-11-02,21,Masculino,Mensal,CrossFit,23,208,18:15:00,Ausente,Noite
+1911,2024-12-18,27,Masculino,Anual,HIIT,107,663,21:05:00,Ausente,Noite
+1912,2024-09-12,24,Masculino,Trimestral,Cardio,29,145,20:11:00,Presente,Noite
+1913,2024-12-16,47,Feminino,Trimestral,Yoga,98,813,07:19:00,Presente,Manhã
+1914,2024-08-23,32,Feminino,Trimestral,Yoga,70,533,16:22:00,Ausente,Tarde
+1915,2024-07-24,65,Masculino,Mensal,Cardio,111,621,13:19:00,Presente,Tarde
+1916,2024-11-29,56,Outro,Anual,Yoga,73,489,20:51:00,Ausente,Noite
+1917,2024-02-01,41,Outro,Trimestral,Treino de força,57,450,07:45:00,Presente,Manhã
+1918,2024-03-13,61,Masculino,Mensal,CrossFit,82,455,18:59:00,Ausente,Noite
+1919,2024-10-18,44,Masculino,Anual,HIIT,110,794,11:04:00,Presente,Manhã
+1920,2024-04-23,32,Masculino,Anual,HIIT,109,674,09:15:00,Ausente,Manhã
+1921,2024-02-21,27,Masculino,Mensal,Treino de força,65,450,14:39:00,Presente,Tarde
+1922,2024-01-22,39,Masculino,Trimestral,Treino de força,119,906,05:26:00,Ausente,Manhã
+1923,2024-11-29,42,Masculino,Mensal,CrossFit,101,660,19:15:00,Ausente,Noite
+1924,2024-10-02,63,Feminino,Anual,Yoga,54,337,05:56:00,Presente,Manhã
+1925,2024-09-09,48,Masculino,Anual,Cardio,73,449,09:17:00,Presente,Manhã
+1926,2024-12-11,46,Feminino,Anual,Treino de força,31,234,10:39:00,Ausente,Manhã
+1927,2024-07-30,33,Masculino,Mensal,HIIT,111,834,09:55:00,Ausente,Manhã
+1928,2024-01-29,60,Outro,Mensal,Treino de força,120,772,20:48:00,Ausente,Noite
+1929,2024-11-12,43,Outro,Trimestral,Cardio,112,745,15:38:00,Ausente,Tarde
+1930,2024-08-22,54,Outro,Trimestral,Yoga,22,196,09:26:00,Presente,Manhã
+1931,2024-04-16,53,Masculino,Mensal,Treino de força,47,468,08:56:00,Presente,Manhã
+1932,2024-11-17,44,Outro,Anual,Yoga,27,243,21:02:00,Ausente,Noite
+1933,2024-07-13,60,Outro,Mensal,Treino de força,118,1115,11:39:00,Ausente,Manhã
+1934,2024-09-25,56,Outro,Mensal,HIIT,75,453,17:21:00,Ausente,Tarde
+1935,2024-06-22,49,Outro,Trimestral,Yoga,104,803,15:53:00,Ausente,Tarde
+1936,2024-03-14,23,Feminino,Anual,Yoga,24,157,18:31:00,Ausente,Noite
+1937,2024-05-21,26,Masculino,Trimestral,Cardio,24,220,20:31:00,Presente,Noite
+1938,2024-06-12,60,Masculino,Anual,HIIT,94,800,08:12:00,Presente,Manhã
+1939,2024-05-10,32,Outro,Anual,Cardio,111,1007,15:54:00,Presente,Tarde
+1940,2024-04-10,18,Outro,Mensal,Treino de força,68,637,20:25:00,Ausente,Noite
+1941,2024-05-15,57,Feminino,Trimestral,Cardio,92,506,15:20:00,Ausente,Tarde
+1942,2024-02-08,39,Feminino,Mensal,HIIT,50,395,19:49:00,Ausente,Noite
+1943,2024-01-15,51,Masculino,Trimestral,CrossFit,36,340,11:37:00,Ausente,Manhã
+1944,2024-06-13,48,Feminino,Trimestral,HIIT,71,633,14:17:00,Ausente,Tarde
+1945,2024-11-29,31,Outro,Trimestral,Cardio,100,570,14:44:00,Presente,Tarde
+1946,2024-06-09,64,Masculino,Anual,Cardio,58,505,19:16:00,Presente,Noite
+1947,2024-07-28,30,Masculino,Trimestral,Cardio,67,606,16:00:00,Ausente,Tarde
+1948,2024-04-07,36,Outro,Mensal,Yoga,79,422,09:26:00,Presente,Manhã
+1949,2024-09-16,39,Feminino,Trimestral,CrossFit,32,288,12:22:00,Ausente,Tarde
+1950,2024-03-05,27,Feminino,Trimestral,HIIT,99,956,16:48:00,Ausente,Tarde
+1951,2024-10-30,25,Outro,Trimestral,Treino de força,106,925,05:25:00,Ausente,Manhã
+1952,2024-04-10,57,Outro,Anual,Treino de força,94,926,07:15:00,Presente,Manhã
+1953,2024-04-10,32,Masculino,Trimestral,CrossFit,100,531,11:39:00,Presente,Manhã
+1954,2024-09-26,63,Outro,Mensal,Treino de força,92,766,21:28:00,Ausente,Noite
+1955,2024-07-07,38,Feminino,Trimestral,Treino de força,35,229,15:01:00,Ausente,Tarde
+1956,2024-03-03,43,Feminino,Anual,CrossFit,54,296,08:25:00,Ausente,Manhã
+1957,2024-06-27,55,Masculino,Mensal,Treino de força,97,864,19:32:00,Ausente,Noite
+1958,2024-12-21,56,Outro,Trimestral,Yoga,92,572,16:22:00,Ausente,Tarde
+1959,2024-12-28,19,Outro,Anual,Yoga,97,604,06:14:00,Presente,Manhã
+1960,2024-05-25,25,Masculino,Mensal,Cardio,41,343,16:02:00,Ausente,Tarde
+1961,2024-10-02,57,Feminino,Mensal,Cardio,63,522,11:07:00,Presente,Manhã
+1962,2024-03-03,53,Feminino,Anual,Treino de força,107,1005,06:16:00,Ausente,Manhã
+1963,2024-07-13,38,Masculino,Anual,Cardio,99,818,13:06:00,Presente,Tarde
+1964,2024-03-28,54,Outro,Anual,Treino de força,109,858,20:34:00,Ausente,Noite
+1965,2024-02-03,63,Feminino,Anual,Yoga,94,802,10:39:00,Presente,Manhã
+1966,2024-09-16,42,Masculino,Trimestral,Treino de força,90,893,19:58:00,Ausente,Noite
+1967,2024-01-11,47,Feminino,Trimestral,HIIT,88,855,10:47:00,Presente,Manhã
+1968,2024-07-13,30,Outro,Anual,Yoga,68,663,16:32:00,Presente,Tarde
+1969,2024-02-12,24,Masculino,Anual,Treino de força,75,732,12:50:00,Ausente,Tarde
+1970,2024-03-17,33,Masculino,Mensal,Yoga,107,1033,15:34:00,Presente,Tarde
+1971,2024-10-11,27,Feminino,Anual,Treino de força,36,354,10:03:00,Ausente,Manhã
+1972,2024-06-22,39,Outro,Anual,Yoga,68,623,14:01:00,Ausente,Tarde
+1973,2024-08-17,45,Outro,Trimestral,Cardio,35,186,13:33:00,Ausente,Tarde
+1974,2024-08-19,61,Masculino,Anual,Yoga,69,508,19:30:00,Ausente,Noite
+1975,2024-04-18,60,Feminino,Mensal,CrossFit,85,829,07:35:00,Presente,Manhã
+1976,2024-12-10,24,Outro,Trimestral,HIIT,119,912,22:06:00,Ausente,Noite
+1977,2024-08-22,60,Masculino,Anual,Cardio,57,310,18:36:00,Ausente,Noite
+1978,2024-10-06,39,Outro,Anual,Yoga,107,1038,11:24:00,Presente,Manhã
+1979,2024-04-27,43,Masculino,Anual,Yoga,120,766,19:43:00,Presente,Noite
+1980,2024-10-11,27,Outro,Trimestral,CrossFit,104,683,06:48:00,Presente,Manhã
+1981,2024-09-29,62,Outro,Trimestral,Treino de força,31,202,11:11:00,Ausente,Manhã
+1982,2024-04-16,22,Masculino,Anual,Yoga,60,525,11:43:00,Presente,Manhã
+1983,2024-07-10,62,Outro,Trimestral,HIIT,100,581,17:47:00,Ausente,Tarde
+1984,2024-08-30,33,Feminino,Anual,Treino de força,45,233,17:51:00,Ausente,Tarde
+1985,2024-01-15,36,Feminino,Trimestral,HIIT,78,446,06:52:00,Presente,Manhã
+1986,2024-02-02,56,Outro,Anual,Treino de força,92,592,11:02:00,Presente,Manhã
+1987,2024-03-12,56,Masculino,Trimestral,Treino de força,62,530,13:45:00,Ausente,Tarde
+1988,2024-09-14,18,Outro,Mensal,Yoga,65,495,20:55:00,Presente,Noite
+1989,2024-08-14,53,Masculino,Trimestral,Yoga,84,445,08:06:00,Presente,Manhã
+1990,2024-06-09,52,Outro,Mensal,Treino de força,79,456,13:22:00,Presente,Tarde
+1991,2024-08-03,29,Masculino,Mensal,CrossFit,48,301,12:52:00,Presente,Tarde
+1992,2024-11-02,59,Feminino,Trimestral,HIIT,106,909,21:19:00,Presente,Noite
+1993,2024-10-24,44,Feminino,Trimestral,Cardio,109,850,07:09:00,Presente,Manhã
+1994,2024-06-07,18,Masculino,Anual,Cardio,22,209,10:48:00,Presente,Manhã
+1995,2024-03-02,40,Feminino,Trimestral,HIIT,89,740,14:40:00,Ausente,Tarde
+1996,2024-06-21,24,Feminino,Anual,Yoga,94,791,10:11:00,Ausente,Manhã
+1997,2024-10-14,45,Feminino,Mensal,Cardio,36,215,18:48:00,Ausente,Noite
+1998,2024-10-31,42,Feminino,Anual,CrossFit,83,765,06:40:00,Ausente,Manhã
+1999,2024-01-21,31,Masculino,Mensal,Yoga,86,571,09:32:00,Ausente,Manhã
+2000,2024-07-24,47,Outro,Mensal,Cardio,104,718,06:44:00,Ausente,Manhã
+2001,2024-04-09,28,Outro,Mensal,Cardio,34,249,08:49:00,Ausente,Manhã
+2002,2024-06-11,28,Feminino,Anual,CrossFit,115,1060,12:51:00,Presente,Tarde
+2003,2024-02-21,58,Feminino,Trimestral,CrossFit,120,1153,14:25:00,Presente,Tarde
+2004,2024-06-01,50,Masculino,Trimestral,CrossFit,50,411,16:21:00,Ausente,Tarde
+2005,2024-03-11,48,Feminino,Anual,CrossFit,69,400,07:01:00,Ausente,Manhã
+2006,2024-09-03,28,Outro,Trimestral,CrossFit,90,853,11:14:00,Presente,Manhã
+2007,2024-05-09,28,Masculino,Trimestral,HIIT,40,316,09:29:00,Ausente,Manhã
+2008,2024-04-28,43,Masculino,Anual,Yoga,37,233,13:53:00,Ausente,Tarde
+2009,2024-02-14,41,Feminino,Anual,Treino de força,97,525,05:08:00,Ausente,Manhã
+2010,2024-12-23,37,Feminino,Anual,Yoga,33,243,05:16:00,Presente,Manhã
+2011,2024-05-21,56,Masculino,Trimestral,Cardio,64,362,05:39:00,Presente,Manhã
+2012,2024-06-19,44,Masculino,Anual,Yoga,69,394,22:31:00,Presente,Noite
+2013,2024-07-15,39,Masculino,Mensal,Cardio,39,210,13:56:00,Ausente,Tarde
+2014,2024-11-25,56,Feminino,Trimestral,CrossFit,33,240,18:07:00,Ausente,Noite
+2015,2024-12-11,43,Masculino,Trimestral,HIIT,73,392,07:06:00,Presente,Manhã
+2016,2024-10-25,34,Masculino,Anual,CrossFit,42,384,19:02:00,Presente,Noite
+2017,2024-02-17,64,Masculino,Trimestral,HIIT,50,334,06:58:00,Ausente,Manhã
+2018,2024-08-27,24,Outro,Mensal,Yoga,40,212,13:08:00,Ausente,Tarde
+2019,2024-10-27,21,Masculino,Anual,Yoga,116,937,10:14:00,Ausente,Manhã
+2020,2024-05-21,60,Masculino,Mensal,CrossFit,105,569,18:32:00,Ausente,Noite
+2021,2024-11-11,64,Feminino,Anual,HIIT,119,815,14:24:00,Ausente,Tarde
+2022,2024-05-08,20,Masculino,Mensal,Cardio,91,889,05:36:00,Ausente,Manhã
+2023,2024-03-28,38,Outro,Mensal,CrossFit,33,322,10:52:00,Ausente,Manhã
+2024,2024-12-13,44,Masculino,Anual,Treino de força,93,691,08:21:00,Ausente,Manhã
+2025,2024-12-03,27,Outro,Trimestral,Yoga,64,351,18:51:00,Presente,Noite
+2026,2024-10-08,32,Outro,Trimestral,Cardio,66,546,15:59:00,Ausente,Tarde
+2027,2024-07-19,42,Feminino,Mensal,CrossFit,66,640,06:01:00,Presente,Manhã
+2028,2024-05-28,29,Outro,Anual,Cardio,117,861,21:35:00,Ausente,Noite
+2029,2024-11-12,48,Outro,Mensal,Yoga,87,552,11:35:00,Presente,Manhã
+2030,2024-02-15,54,Feminino,Trimestral,Cardio,39,207,07:32:00,Ausente,Manhã
+2031,2024-12-03,44,Masculino,Trimestral,CrossFit,40,380,16:25:00,Presente,Tarde
+2032,2024-11-08,40,Feminino,Mensal,CrossFit,69,454,22:03:00,Presente,Noite
+2033,2024-09-16,44,Masculino,Mensal,Treino de força,79,772,05:52:00,Presente,Manhã
+2034,2024-11-15,29,Outro,Mensal,HIIT,37,190,12:07:00,Ausente,Tarde
+2035,2024-10-04,57,Outro,Trimestral,Yoga,56,315,16:47:00,Presente,Tarde
+2036,2024-02-28,43,Outro,Mensal,Treino de força,64,571,11:03:00,Ausente,Manhã
+2037,2024-07-12,30,Outro,Mensal,HIIT,51,450,07:39:00,Presente,Manhã
+2038,2024-12-11,27,Masculino,Anual,HIIT,86,440,17:01:00,Ausente,Tarde
+2039,2024-04-27,34,Masculino,Anual,CrossFit,52,510,05:42:00,Presente,Manhã
+2040,2024-07-07,46,Outro,Anual,Cardio,98,929,20:32:00,Ausente,Noite
+2041,2024-04-17,59,Outro,Mensal,CrossFit,51,288,20:15:00,Ausente,Noite
+2042,2024-10-30,20,Masculino,Mensal,Cardio,37,263,07:34:00,Ausente,Manhã
+2043,2024-07-10,35,Feminino,Mensal,HIIT,74,676,10:11:00,Presente,Manhã
+2044,2024-03-23,24,Masculino,Trimestral,HIIT,57,365,22:46:00,Ausente,Noite
+2045,2024-04-30,32,Feminino,Anual,Yoga,57,518,08:02:00,Presente,Manhã
+2046,2024-12-10,31,Masculino,Mensal,Treino de força,85,800,09:39:00,Ausente,Manhã
+2047,2024-03-28,25,Feminino,Anual,Yoga,54,531,06:48:00,Ausente,Manhã
+2048,2024-12-18,22,Masculino,Anual,HIIT,65,571,17:03:00,Presente,Tarde
+2049,2024-01-09,24,Feminino,Mensal,Cardio,107,544,20:39:00,Presente,Noite
+2050,2024-12-01,39,Outro,Anual,Cardio,51,379,06:23:00,Presente,Manhã
+2051,2024-10-07,59,Feminino,Trimestral,Treino de força,36,239,21:34:00,Presente,Noite
+2052,2024-04-11,24,Outro,Mensal,Cardio,22,120,12:25:00,Ausente,Tarde
+2053,2024-11-23,50,Feminino,Mensal,Cardio,51,322,07:46:00,Presente,Manhã
+2054,2024-07-29,63,Feminino,Anual,CrossFit,91,681,06:21:00,Ausente,Manhã
+2055,2024-10-11,31,Masculino,Mensal,HIIT,104,573,19:42:00,Ausente,Noite
+2056,2024-08-26,25,Outro,Mensal,Yoga,76,759,05:17:00,Ausente,Manhã
+2057,2024-02-12,61,Outro,Anual,Treino de força,69,450,08:52:00,Ausente,Manhã
+2058,2024-11-09,41,Feminino,Mensal,Treino de força,25,172,10:23:00,Presente,Manhã
+2059,2024-07-07,27,Feminino,Mensal,Yoga,118,622,22:18:00,Ausente,Noite
+2060,2024-02-09,19,Outro,Mensal,Treino de força,52,392,12:14:00,Ausente,Tarde
+2061,2024-07-19,44,Masculino,Mensal,Yoga,43,389,09:20:00,Presente,Manhã
+2062,2024-06-19,21,Outro,Trimestral,CrossFit,87,761,07:44:00,Ausente,Manhã
+2063,2024-12-19,65,Masculino,Mensal,Cardio,101,733,08:13:00,Presente,Manhã
+2064,2024-01-14,59,Outro,Anual,Yoga,49,296,16:10:00,Ausente,Tarde
+2065,2024-09-01,55,Outro,Trimestral,Cardio,91,852,11:26:00,Presente,Manhã
+2066,2024-09-27,63,Feminino,Mensal,Cardio,70,476,12:59:00,Presente,Tarde
+2067,2024-06-02,64,Feminino,Mensal,Yoga,35,177,22:29:00,Ausente,Noite
+2068,2024-02-10,38,Outro,Trimestral,CrossFit,117,1140,07:52:00,Ausente,Manhã
+2069,2024-06-12,35,Feminino,Anual,Yoga,21,207,05:41:00,Ausente,Manhã
+2070,2024-06-26,31,Feminino,Anual,Cardio,43,409,19:06:00,Ausente,Noite
+2071,2024-08-22,19,Feminino,Trimestral,HIIT,61,599,13:43:00,Presente,Tarde
+2072,2024-12-10,49,Feminino,Anual,HIIT,106,940,17:18:00,Ausente,Tarde
+2073,2024-10-17,42,Outro,Trimestral,HIIT,97,612,22:28:00,Ausente,Noite
+2074,2024-04-15,33,Masculino,Mensal,Yoga,58,415,10:26:00,Presente,Manhã
+2075,2024-10-27,57,Outro,Mensal,CrossFit,49,467,11:24:00,Ausente,Manhã
+2076,2024-10-10,40,Masculino,Trimestral,Cardio,100,918,05:22:00,Presente,Manhã
+2077,2024-04-03,27,Feminino,Trimestral,CrossFit,25,191,13:32:00,Presente,Tarde
+2078,2024-06-23,60,Outro,Anual,Yoga,69,345,16:20:00,Ausente,Tarde
+2079,2024-03-24,64,Masculino,Mensal,Cardio,21,157,16:22:00,Presente,Tarde
+2080,2024-11-26,52,Feminino,Mensal,Yoga,59,324,21:17:00,Ausente,Noite
+2081,2024-09-24,57,Feminino,Anual,HIIT,34,333,14:23:00,Presente,Tarde
+2082,2024-02-02,65,Masculino,Anual,Treino de força,116,951,06:18:00,Presente,Manhã
+2083,2024-04-10,23,Feminino,Anual,Yoga,106,1007,17:23:00,Presente,Tarde
+2084,2024-11-09,47,Feminino,Trimestral,CrossFit,78,615,07:50:00,Presente,Manhã
+2085,2024-01-04,52,Masculino,Trimestral,Treino de força,90,866,14:33:00,Ausente,Tarde
+2086,2024-11-22,40,Feminino,Mensal,Cardio,65,644,09:04:00,Ausente,Manhã
+2087,2024-04-13,26,Feminino,Mensal,HIIT,27,193,06:16:00,Presente,Manhã
+2088,2024-09-13,34,Outro,Mensal,HIIT,34,281,16:10:00,Ausente,Tarde
+2089,2024-11-17,59,Outro,Mensal,HIIT,98,539,20:38:00,Presente,Noite
+2090,2024-05-09,61,Masculino,Mensal,Yoga,100,796,05:45:00,Ausente,Manhã
+2091,2024-08-03,48,Feminino,Mensal,Yoga,90,694,06:17:00,Ausente,Manhã
+2092,2024-02-07,46,Feminino,Trimestral,CrossFit,34,264,11:09:00,Presente,Manhã
+2093,2024-09-14,42,Feminino,Mensal,CrossFit,66,448,15:57:00,Ausente,Tarde
+2094,2024-06-30,39,Outro,Anual,HIIT,33,311,05:45:00,Presente,Manhã
+2095,2024-04-19,46,Outro,Trimestral,Cardio,96,753,16:05:00,Ausente,Tarde
+2096,2024-10-24,55,Outro,Anual,Treino de força,116,825,15:31:00,Ausente,Tarde
+2097,2024-04-27,27,Outro,Mensal,Yoga,30,235,07:00:00,Ausente,Manhã
+2098,2024-06-14,31,Feminino,Trimestral,Treino de força,56,280,17:58:00,Ausente,Tarde
+2099,2024-10-14,43,Feminino,Anual,Cardio,34,253,14:43:00,Ausente,Tarde
+2100,2024-10-07,18,Outro,Anual,Yoga,96,771,05:26:00,Ausente,Manhã
+2101,2024-09-01,58,Feminino,Anual,HIIT,47,243,08:52:00,Ausente,Manhã
+2102,2024-01-15,65,Feminino,Trimestral,Cardio,94,572,06:42:00,Ausente,Manhã
+2103,2024-08-26,37,Outro,Anual,HIIT,120,685,13:23:00,Ausente,Tarde
+2104,2024-02-10,19,Masculino,Trimestral,Treino de força,59,562,18:11:00,Presente,Noite
+2105,2024-05-02,38,Outro,Anual,CrossFit,66,508,14:50:00,Ausente,Tarde
+2106,2024-08-01,35,Outro,Mensal,HIIT,45,347,13:07:00,Presente,Tarde
+2107,2024-05-29,41,Feminino,Anual,HIIT,104,616,06:13:00,Ausente,Manhã
+2108,2024-06-16,56,Masculino,Anual,Treino de força,100,795,22:56:00,Presente,Noite
+2109,2024-10-10,46,Masculino,Trimestral,Yoga,82,527,13:10:00,Ausente,Tarde
+2110,2024-07-01,29,Outro,Mensal,Cardio,82,642,08:37:00,Ausente,Manhã
+2111,2024-10-25,57,Masculino,Trimestral,Yoga,91,754,16:48:00,Presente,Tarde
+2112,2024-09-03,54,Outro,Anual,Treino de força,54,300,17:33:00,Presente,Tarde
+2113,2024-05-14,41,Outro,Mensal,Treino de força,115,1001,09:52:00,Ausente,Manhã
+2114,2024-03-04,30,Outro,Anual,Treino de força,95,585,11:20:00,Ausente,Manhã
+2115,2024-12-21,24,Outro,Trimestral,Cardio,92,768,09:07:00,Presente,Manhã
+2116,2024-09-26,38,Feminino,Trimestral,Yoga,48,285,13:02:00,Presente,Tarde
+2117,2024-10-20,62,Feminino,Trimestral,Treino de força,89,676,20:19:00,Ausente,Noite
+2118,2024-01-29,47,Outro,Trimestral,Treino de força,107,698,19:46:00,Presente,Noite
+2119,2024-07-18,32,Outro,Mensal,Treino de força,41,249,17:34:00,Presente,Tarde
+2120,2024-09-04,60,Feminino,Anual,Treino de força,40,291,08:57:00,Ausente,Manhã
+2121,2024-08-04,54,Outro,Mensal,Yoga,74,586,15:46:00,Ausente,Tarde
+2122,2024-06-13,30,Masculino,Mensal,Cardio,87,572,05:09:00,Presente,Manhã
+2123,2024-10-10,19,Outro,Trimestral,Treino de força,69,444,09:40:00,Presente,Manhã
+2124,2024-09-27,34,Masculino,Trimestral,Cardio,28,142,22:48:00,Ausente,Noite
+2125,2024-07-28,49,Outro,Trimestral,CrossFit,52,410,12:25:00,Ausente,Tarde
+2126,2024-04-06,41,Masculino,Anual,HIIT,51,419,06:44:00,Ausente,Manhã
+2127,2024-01-20,56,Masculino,Mensal,HIIT,70,424,17:13:00,Presente,Tarde
+2128,2024-10-10,61,Masculino,Anual,HIIT,116,1025,13:13:00,Ausente,Tarde
+2129,2024-06-01,50,Feminino,Mensal,Treino de força,39,339,18:34:00,Ausente,Noite
+2130,2024-02-01,20,Masculino,Trimestral,Treino de força,44,362,06:24:00,Ausente,Manhã
+2131,2024-05-22,47,Masculino,Anual,Cardio,97,738,12:40:00,Ausente,Tarde
+2132,2024-08-10,58,Outro,Anual,HIIT,20,199,13:32:00,Ausente,Tarde
+2133,2024-05-22,62,Outro,Anual,Yoga,94,531,18:24:00,Presente,Noite
+2134,2024-04-18,34,Masculino,Anual,Treino de força,72,624,12:48:00,Presente,Tarde
+2135,2024-11-11,33,Feminino,Mensal,Treino de força,53,301,14:46:00,Presente,Tarde
+2136,2024-09-16,61,Feminino,Trimestral,HIIT,62,391,16:18:00,Ausente,Tarde
+2137,2024-08-24,46,Feminino,Anual,HIIT,34,237,19:24:00,Presente,Noite
+2138,2024-08-29,51,Masculino,Mensal,Treino de força,68,645,16:29:00,Ausente,Tarde
+2139,2024-05-05,54,Feminino,Mensal,HIIT,115,710,08:20:00,Presente,Manhã
+2140,2024-02-16,63,Outro,Anual,HIIT,32,303,15:21:00,Presente,Tarde
+2141,2024-11-24,22,Masculino,Trimestral,HIIT,23,194,05:54:00,Presente,Manhã
+2142,2024-07-22,62,Feminino,Mensal,Treino de força,117,1066,18:48:00,Presente,Noite
+2143,2024-03-09,53,Masculino,Trimestral,Cardio,80,610,15:30:00,Presente,Tarde
+2144,2024-11-11,29,Feminino,Trimestral,CrossFit,111,1073,22:12:00,Presente,Noite
+2145,2024-09-08,27,Masculino,Anual,Cardio,75,590,13:10:00,Ausente,Tarde
+2146,2024-10-19,29,Outro,Anual,HIIT,108,611,08:48:00,Presente,Manhã
+2147,2024-07-11,33,Outro,Anual,Cardio,61,586,18:12:00,Ausente,Noite
+2148,2024-05-13,30,Outro,Trimestral,Cardio,100,798,16:54:00,Presente,Tarde
+2149,2024-06-12,23,Masculino,Anual,Treino de força,28,169,11:19:00,Ausente,Manhã
+2150,2024-11-19,54,Feminino,Anual,Treino de força,90,603,05:06:00,Presente,Manhã
+2151,2024-11-06,48,Masculino,Anual,Cardio,39,374,07:18:00,Ausente,Manhã
+2152,2024-12-13,56,Outro,Anual,CrossFit,21,124,21:17:00,Ausente,Noite
+2153,2024-10-20,39,Masculino,Trimestral,CrossFit,40,351,13:46:00,Presente,Tarde
+2154,2024-12-09,44,Masculino,Trimestral,Cardio,26,193,05:07:00,Presente,Manhã
+2155,2024-04-22,54,Feminino,Trimestral,CrossFit,81,543,09:31:00,Presente,Manhã
+2156,2024-10-16,64,Feminino,Anual,Cardio,34,179,21:45:00,Ausente,Noite
+2157,2024-01-09,53,Feminino,Mensal,Cardio,108,1017,22:47:00,Presente,Noite
+2158,2024-06-21,48,Outro,Anual,Yoga,76,433,11:09:00,Presente,Manhã
+2159,2024-03-30,23,Feminino,Mensal,Yoga,21,122,13:10:00,Ausente,Tarde
+2160,2024-12-18,65,Outro,Trimestral,HIIT,57,310,13:51:00,Presente,Tarde
+2161,2024-04-02,21,Outro,Anual,CrossFit,26,142,05:00:00,Ausente,Manhã
+2162,2024-11-22,33,Outro,Anual,Yoga,67,582,06:10:00,Ausente,Manhã
+2163,2024-01-12,63,Outro,Mensal,Cardio,21,163,08:22:00,Ausente,Manhã
+2164,2024-06-09,41,Outro,Trimestral,CrossFit,49,376,05:10:00,Presente,Manhã
+2165,2024-02-27,23,Masculino,Trimestral,Cardio,97,805,22:42:00,Ausente,Noite
+2166,2024-12-06,36,Feminino,Mensal,Yoga,50,258,15:27:00,Presente,Tarde
+2167,2024-06-17,29,Masculino,Trimestral,Cardio,71,495,14:23:00,Ausente,Tarde
+2168,2024-01-17,40,Masculino,Mensal,HIIT,20,109,05:06:00,Ausente,Manhã
+2169,2024-12-01,34,Feminino,Anual,CrossFit,112,895,14:50:00,Ausente,Tarde
+2170,2024-08-19,50,Feminino,Anual,Cardio,112,565,19:07:00,Presente,Noite
+2171,2024-06-26,33,Outro,Trimestral,Yoga,73,502,19:31:00,Ausente,Noite
+2172,2024-09-17,55,Outro,Trimestral,CrossFit,53,454,18:07:00,Presente,Noite
+2173,2024-08-08,40,Feminino,Mensal,Cardio,116,996,21:06:00,Presente,Noite
+2174,2024-01-26,19,Masculino,Anual,Yoga,55,490,20:51:00,Ausente,Noite
+2175,2024-07-29,19,Masculino,Mensal,Treino de força,77,512,10:42:00,Ausente,Manhã
+2176,2024-12-16,25,Feminino,Trimestral,Cardio,33,171,08:15:00,Presente,Manhã
+2177,2024-11-24,34,Feminino,Mensal,CrossFit,97,762,21:14:00,Presente,Noite
+2178,2024-10-25,59,Feminino,Mensal,Treino de força,51,299,16:29:00,Presente,Tarde
+2179,2024-08-11,48,Feminino,Anual,Yoga,48,261,11:12:00,Presente,Manhã
+2180,2024-08-31,48,Feminino,Anual,Cardio,39,317,13:18:00,Presente,Tarde
+2181,2024-10-13,33,Masculino,Anual,Treino de força,45,416,09:46:00,Presente,Manhã
+2182,2024-01-02,45,Outro,Trimestral,Treino de força,108,726,10:07:00,Presente,Manhã
+2183,2024-04-23,27,Outro,Mensal,Treino de força,96,542,17:19:00,Presente,Tarde
+2184,2024-06-24,23,Masculino,Mensal,Treino de força,48,428,07:54:00,Presente,Manhã
+2185,2024-12-03,63,Outro,Mensal,Yoga,40,236,17:20:00,Ausente,Tarde
+2186,2024-10-12,22,Outro,Mensal,HIIT,108,1055,11:44:00,Ausente,Manhã
+2187,2024-07-07,32,Feminino,Anual,Treino de força,89,535,11:27:00,Presente,Manhã
+2188,2024-01-17,56,Feminino,Trimestral,Cardio,84,424,05:07:00,Ausente,Manhã
+2189,2024-08-13,49,Feminino,Trimestral,HIIT,53,490,15:36:00,Presente,Tarde
+2190,2024-02-27,24,Feminino,Mensal,Yoga,63,353,08:59:00,Ausente,Manhã
+2191,2024-06-24,59,Outro,Trimestral,CrossFit,24,152,09:42:00,Ausente,Manhã
+2192,2024-11-24,52,Feminino,Anual,CrossFit,96,587,10:26:00,Presente,Manhã
+2193,2024-12-05,55,Feminino,Anual,CrossFit,116,747,10:37:00,Ausente,Manhã
+2194,2024-02-02,28,Outro,Mensal,CrossFit,21,122,08:25:00,Ausente,Manhã
+2195,2024-05-06,46,Masculino,Mensal,Yoga,44,313,13:06:00,Presente,Tarde
+2196,2024-09-26,62,Outro,Trimestral,Treino de força,49,326,18:01:00,Presente,Noite
+2197,2024-12-11,52,Outro,Anual,Yoga,52,421,17:52:00,Ausente,Tarde
+2198,2024-04-11,29,Outro,Trimestral,Treino de força,81,667,21:25:00,Ausente,Noite
+2199,2024-02-15,32,Outro,Anual,Cardio,25,178,12:28:00,Ausente,Tarde
+2200,2024-12-01,40,Masculino,Trimestral,Treino de força,59,539,10:34:00,Ausente,Manhã
+2201,2024-10-11,44,Masculino,Mensal,Cardio,99,839,06:30:00,Ausente,Manhã
+2202,2024-04-08,52,Masculino,Mensal,Cardio,32,207,19:03:00,Presente,Noite
+2203,2024-05-24,42,Outro,Trimestral,Yoga,98,936,21:21:00,Ausente,Noite
+2204,2024-10-12,47,Feminino,Mensal,Cardio,90,517,14:48:00,Ausente,Tarde
+2205,2024-04-28,27,Feminino,Anual,Treino de força,41,398,12:30:00,Ausente,Tarde
+2206,2024-02-05,41,Outro,Mensal,HIIT,63,578,08:54:00,Ausente,Manhã
+2207,2024-08-05,51,Masculino,Mensal,Treino de força,25,142,22:52:00,Presente,Noite
+2208,2024-08-28,18,Feminino,Trimestral,HIIT,102,909,13:27:00,Presente,Tarde
+2209,2024-07-01,59,Feminino,Anual,CrossFit,31,194,21:26:00,Presente,Noite
+2210,2024-07-10,47,Masculino,Anual,HIIT,70,354,15:15:00,Presente,Tarde
+2211,2024-01-16,52,Masculino,Anual,Yoga,114,813,11:25:00,Ausente,Manhã
+2212,2024-01-10,62,Feminino,Trimestral,Yoga,93,713,17:51:00,Ausente,Tarde
+2213,2024-02-05,61,Outro,Anual,Treino de força,45,372,17:31:00,Ausente,Tarde
+2214,2024-05-20,61,Feminino,Trimestral,Yoga,74,461,14:45:00,Presente,Tarde
+2215,2024-01-03,64,Outro,Trimestral,Cardio,39,387,20:04:00,Presente,Noite
+2216,2024-11-13,58,Feminino,Trimestral,Yoga,80,556,12:09:00,Presente,Tarde
+2217,2024-07-31,42,Masculino,Mensal,Yoga,94,933,08:35:00,Presente,Manhã
+2218,2024-07-19,20,Masculino,Mensal,Yoga,32,285,19:05:00,Ausente,Noite
+2219,2024-02-22,41,Outro,Anual,Yoga,91,456,13:33:00,Ausente,Tarde
+2220,2024-07-06,39,Masculino,Mensal,CrossFit,112,800,09:34:00,Presente,Manhã
+2221,2024-08-12,37,Outro,Trimestral,CrossFit,105,929,20:09:00,Presente,Noite
+2222,2024-10-24,61,Feminino,Trimestral,Treino de força,83,579,13:09:00,Ausente,Tarde
+2223,2024-05-10,65,Feminino,Anual,Cardio,69,623,20:43:00,Presente,Noite
+2224,2024-11-08,43,Outro,Anual,Cardio,60,497,19:15:00,Presente,Noite
+2225,2024-12-27,21,Outro,Trimestral,Treino de força,74,408,05:20:00,Ausente,Manhã
+2226,2024-02-11,49,Feminino,Mensal,Treino de força,33,238,08:14:00,Presente,Manhã
+2227,2024-03-14,51,Masculino,Trimestral,HIIT,24,164,09:50:00,Ausente,Manhã
+2228,2024-05-20,52,Feminino,Mensal,Yoga,53,489,06:27:00,Presente,Manhã
+2229,2024-06-21,61,Feminino,Trimestral,Treino de força,25,249,08:28:00,Ausente,Manhã
+2230,2024-08-16,37,Outro,Anual,Treino de força,38,301,21:25:00,Presente,Noite
+2231,2024-06-15,34,Outro,Trimestral,CrossFit,104,771,14:44:00,Ausente,Tarde
+2232,2024-01-26,43,Feminino,Mensal,Treino de força,52,463,15:21:00,Ausente,Tarde
+2233,2024-01-07,60,Masculino,Trimestral,Yoga,119,733,05:53:00,Ausente,Manhã
+2234,2024-04-14,22,Outro,Anual,Treino de força,116,611,10:48:00,Presente,Manhã
+2235,2024-11-07,20,Feminino,Mensal,Yoga,54,470,20:25:00,Ausente,Noite
+2236,2024-02-25,46,Outro,Mensal,Yoga,76,661,15:13:00,Ausente,Tarde
+2237,2024-05-01,53,Feminino,Anual,CrossFit,87,656,11:36:00,Presente,Manhã
+2238,2024-12-19,44,Feminino,Trimestral,Cardio,92,806,20:55:00,Ausente,Noite
+2239,2024-01-29,37,Feminino,Anual,Yoga,115,649,12:19:00,Presente,Tarde
+2240,2024-03-01,42,Feminino,Mensal,CrossFit,28,247,18:37:00,Presente,Noite
+2241,2024-01-11,25,Masculino,Anual,HIIT,80,681,14:51:00,Ausente,Tarde
+2242,2024-02-07,58,Masculino,Mensal,HIIT,69,482,13:58:00,Ausente,Tarde
+2243,2024-05-29,43,Outro,Mensal,Cardio,88,776,07:10:00,Presente,Manhã
+2244,2024-08-03,56,Masculino,Mensal,Treino de força,84,423,08:41:00,Ausente,Manhã
+2245,2024-08-23,31,Masculino,Anual,Treino de força,23,213,06:54:00,Presente,Manhã
+2246,2024-12-13,27,Outro,Mensal,HIIT,41,382,12:33:00,Presente,Tarde
+2247,2024-03-06,45,Masculino,Anual,HIIT,88,550,17:29:00,Presente,Tarde
+2248,2024-12-07,36,Outro,Trimestral,Cardio,99,698,13:48:00,Presente,Tarde
+2249,2024-11-09,63,Outro,Anual,Treino de força,96,658,20:23:00,Ausente,Noite
+2250,2024-03-23,49,Outro,Mensal,HIIT,97,964,11:48:00,Ausente,Manhã
+2251,2024-01-24,44,Masculino,Anual,Cardio,53,354,09:47:00,Presente,Manhã
+2252,2024-08-06,55,Feminino,Anual,CrossFit,107,825,05:01:00,Ausente,Manhã
+2253,2024-01-23,56,Feminino,Mensal,Cardio,23,219,06:57:00,Presente,Manhã
+2254,2024-04-21,50,Outro,Trimestral,Treino de força,98,836,15:26:00,Presente,Tarde
+2255,2024-05-27,36,Feminino,Mensal,CrossFit,114,676,20:09:00,Presente,Noite
+2256,2024-09-11,49,Outro,Trimestral,Treino de força,25,203,14:26:00,Presente,Tarde
+2257,2024-06-28,47,Feminino,Trimestral,Cardio,97,906,16:17:00,Ausente,Tarde
+2258,2024-11-12,55,Feminino,Mensal,CrossFit,27,198,05:59:00,Presente,Manhã
+2259,2024-04-08,39,Outro,Mensal,Yoga,91,578,21:51:00,Presente,Noite
+2260,2024-06-16,37,Outro,Trimestral,CrossFit,60,534,11:49:00,Ausente,Manhã
+2261,2024-11-10,49,Masculino,Anual,Cardio,99,756,17:47:00,Presente,Tarde
+2262,2024-02-12,37,Outro,Mensal,Treino de força,76,458,13:14:00,Ausente,Tarde
+2263,2024-11-21,29,Masculino,Trimestral,Treino de força,69,683,06:43:00,Presente,Manhã
+2264,2024-11-21,18,Feminino,Anual,Yoga,103,597,11:00:00,Ausente,Manhã
+2265,2024-06-29,39,Masculino,Trimestral,Treino de força,79,424,10:04:00,Ausente,Manhã
+2266,2024-04-24,28,Outro,Anual,HIIT,40,233,17:34:00,Ausente,Tarde
+2267,2024-08-23,20,Masculino,Mensal,Yoga,100,641,16:14:00,Presente,Tarde
+2268,2024-11-07,23,Masculino,Mensal,Cardio,55,354,12:15:00,Presente,Tarde
+2269,2024-10-30,58,Outro,Trimestral,Treino de força,72,678,18:20:00,Ausente,Noite
+2270,2024-09-20,20,Masculino,Mensal,Treino de força,80,668,09:00:00,Ausente,Manhã
+2271,2024-10-01,41,Outro,Trimestral,CrossFit,68,451,12:02:00,Presente,Tarde
+2272,2024-12-30,58,Feminino,Mensal,Cardio,77,422,18:36:00,Ausente,Noite
+2273,2024-08-21,49,Outro,Mensal,Treino de força,82,612,10:38:00,Ausente,Manhã
+2274,2024-07-07,26,Outro,Anual,HIIT,58,519,10:45:00,Ausente,Manhã
+2275,2024-06-12,51,Feminino,Anual,CrossFit,102,1013,19:40:00,Ausente,Noite
+2276,2024-11-15,49,Feminino,Trimestral,CrossFit,88,876,18:26:00,Ausente,Noite
+2277,2024-09-04,43,Feminino,Anual,HIIT,42,240,16:59:00,Presente,Tarde
+2278,2024-08-12,43,Outro,Trimestral,Treino de força,108,751,14:09:00,Presente,Tarde
+2279,2024-09-22,46,Outro,Anual,Treino de força,89,519,06:27:00,Presente,Manhã
+2280,2024-02-17,24,Feminino,Mensal,Yoga,64,631,22:38:00,Presente,Noite
+2281,2024-03-29,39,Masculino,Trimestral,Cardio,108,710,10:55:00,Presente,Manhã
+2282,2024-12-11,21,Outro,Anual,HIIT,23,197,07:05:00,Presente,Manhã
+2283,2024-08-25,62,Feminino,Anual,Treino de força,29,228,22:15:00,Ausente,Noite
+2284,2024-07-02,46,Masculino,Trimestral,Cardio,61,433,21:09:00,Ausente,Noite
+2285,2024-10-29,52,Feminino,Mensal,HIIT,61,386,10:01:00,Presente,Manhã
+2286,2024-11-15,25,Feminino,Mensal,Treino de força,74,377,14:46:00,Ausente,Tarde
+2287,2024-05-08,63,Feminino,Anual,Cardio,108,913,18:45:00,Ausente,Noite
+2288,2024-06-17,45,Feminino,Mensal,Yoga,55,420,22:14:00,Presente,Noite
+2289,2024-03-02,37,Outro,Trimestral,Treino de força,40,395,15:45:00,Ausente,Tarde
+2290,2024-11-23,20,Masculino,Mensal,Yoga,56,454,05:44:00,Presente,Manhã
+2291,2024-05-17,56,Outro,Anual,Cardio,105,570,17:35:00,Presente,Tarde
+2292,2024-01-17,53,Feminino,Mensal,Cardio,89,578,20:18:00,Ausente,Noite
+2293,2024-07-21,37,Feminino,Trimestral,HIIT,64,513,08:56:00,Presente,Manhã
+2294,2024-10-30,65,Outro,Mensal,Treino de força,43,294,13:26:00,Ausente,Tarde
+2295,2024-01-15,37,Feminino,Trimestral,Cardio,120,739,06:31:00,Ausente,Manhã
+2296,2024-10-30,61,Feminino,Mensal,Yoga,79,539,19:33:00,Ausente,Noite
+2297,2024-04-17,27,Masculino,Trimestral,CrossFit,98,815,14:24:00,Presente,Tarde
+2298,2024-03-28,35,Masculino,Mensal,CrossFit,47,432,16:27:00,Ausente,Tarde
+2299,2024-08-04,59,Masculino,Anual,Treino de força,49,284,20:03:00,Presente,Noite
+2300,2024-05-30,64,Masculino,Anual,HIIT,68,640,20:06:00,Ausente,Noite
+2301,2024-11-17,42,Feminino,Anual,CrossFit,36,317,15:40:00,Ausente,Tarde
+2302,2024-06-11,44,Masculino,Anual,Treino de força,25,170,06:16:00,Presente,Manhã
+2303,2024-02-19,52,Masculino,Trimestral,Yoga,83,617,16:54:00,Presente,Tarde
+2304,2024-03-02,23,Masculino,Mensal,Treino de força,43,296,18:12:00,Ausente,Noite
+2305,2024-02-06,63,Feminino,Anual,HIIT,44,236,22:20:00,Ausente,Noite
+2306,2024-02-09,64,Outro,Trimestral,CrossFit,61,530,22:59:00,Ausente,Noite
+2307,2024-01-17,64,Outro,Anual,HIIT,40,271,11:16:00,Ausente,Manhã
+2308,2024-08-09,28,Feminino,Anual,HIIT,38,257,07:47:00,Ausente,Manhã
+2309,2024-06-05,30,Masculino,Mensal,Yoga,38,300,12:14:00,Presente,Tarde
+2310,2024-12-23,24,Feminino,Anual,Treino de força,60,429,16:40:00,Presente,Tarde
+2311,2024-01-09,57,Masculino,Mensal,HIIT,85,435,17:33:00,Ausente,Tarde
+2312,2024-03-30,37,Feminino,Trimestral,Treino de força,91,655,18:10:00,Presente,Noite
+2313,2024-12-31,40,Outro,Trimestral,Cardio,42,355,18:48:00,Ausente,Noite
+2314,2024-12-11,47,Feminino,Trimestral,HIIT,82,743,09:21:00,Presente,Manhã
+2315,2024-09-12,53,Outro,Trimestral,CrossFit,91,802,20:12:00,Ausente,Noite
+2316,2024-02-09,47,Feminino,Mensal,Cardio,31,159,12:01:00,Ausente,Tarde
+2317,2024-06-16,23,Masculino,Mensal,CrossFit,93,586,13:24:00,Ausente,Tarde
+2318,2024-04-19,43,Outro,Anual,HIIT,76,506,21:08:00,Ausente,Noite
+2319,2024-06-09,39,Feminino,Trimestral,Cardio,106,918,21:40:00,Ausente,Noite
+2320,2024-03-27,55,Feminino,Mensal,HIIT,67,436,14:25:00,Presente,Tarde
+2321,2024-01-26,33,Masculino,Trimestral,CrossFit,46,307,19:43:00,Ausente,Noite
+2322,2024-10-14,60,Outro,Anual,HIIT,56,374,12:36:00,Ausente,Tarde
+2323,2024-10-15,29,Masculino,Anual,HIIT,93,761,05:22:00,Presente,Manhã
+2324,2024-10-05,64,Masculino,Trimestral,Cardio,23,206,17:26:00,Ausente,Tarde
+2325,2024-01-03,49,Masculino,Trimestral,Yoga,27,187,22:31:00,Presente,Noite
+2326,2024-03-18,36,Feminino,Anual,CrossFit,35,214,19:49:00,Ausente,Noite
+2327,2024-07-07,43,Feminino,Trimestral,Cardio,42,332,11:46:00,Ausente,Manhã
+2328,2024-12-14,56,Outro,Anual,CrossFit,71,391,17:29:00,Presente,Tarde
+2329,2024-08-06,56,Feminino,Anual,Treino de força,52,395,17:33:00,Presente,Tarde
+2330,2024-12-29,28,Outro,Anual,Yoga,97,770,13:36:00,Ausente,Tarde
+2331,2024-01-01,54,Feminino,Anual,CrossFit,85,657,08:14:00,Ausente,Manhã
+2332,2024-05-24,32,Outro,Trimestral,HIIT,36,337,07:26:00,Ausente,Manhã
+2333,2024-03-04,43,Masculino,Anual,CrossFit,86,442,09:06:00,Presente,Manhã
+2334,2024-10-08,19,Masculino,Trimestral,Cardio,51,431,08:18:00,Ausente,Manhã
+2335,2024-07-07,53,Feminino,Anual,HIIT,112,930,16:34:00,Ausente,Tarde
+2336,2024-11-09,51,Feminino,Mensal,HIIT,51,493,22:23:00,Ausente,Noite
+2337,2024-07-19,30,Feminino,Mensal,Treino de força,107,1033,12:17:00,Presente,Tarde
+2338,2024-06-20,30,Outro,Mensal,Cardio,25,245,06:26:00,Presente,Manhã
+2339,2024-09-08,21,Outro,Anual,Treino de força,104,890,13:34:00,Presente,Tarde
+2340,2024-05-18,19,Masculino,Mensal,CrossFit,107,809,10:42:00,Ausente,Manhã
+2341,2024-12-27,42,Outro,Trimestral,HIIT,34,260,12:55:00,Ausente,Tarde
+2342,2024-03-09,53,Masculino,Trimestral,Cardio,76,670,17:24:00,Presente,Tarde
+2343,2024-02-18,37,Outro,Anual,HIIT,67,575,09:47:00,Presente,Manhã
+2344,2024-03-13,35,Masculino,Trimestral,HIIT,116,615,12:26:00,Presente,Tarde
+2345,2024-01-12,60,Outro,Trimestral,Cardio,57,326,22:26:00,Ausente,Noite
+2346,2024-05-26,38,Masculino,Anual,Treino de força,81,678,12:05:00,Ausente,Tarde
+2347,2024-08-09,32,Feminino,Mensal,Yoga,98,843,06:39:00,Ausente,Manhã
+2348,2024-08-20,38,Masculino,Trimestral,HIIT,36,311,21:38:00,Ausente,Noite
+2349,2024-06-23,37,Masculino,Mensal,Treino de força,115,987,10:41:00,Ausente,Manhã
+2350,2024-03-15,35,Feminino,Mensal,Yoga,58,572,15:52:00,Presente,Tarde
+2351,2024-07-02,57,Feminino,Anual,Cardio,114,797,14:20:00,Presente,Tarde
+2352,2024-04-02,24,Feminino,Mensal,Cardio,57,309,11:31:00,Presente,Manhã
+2353,2024-04-17,26,Outro,Trimestral,Yoga,78,469,16:40:00,Presente,Tarde
+2354,2024-05-16,31,Outro,Anual,Treino de força,35,207,13:02:00,Presente,Tarde
+2355,2024-04-19,57,Outro,Mensal,CrossFit,93,709,21:56:00,Presente,Noite
+2356,2024-09-13,38,Outro,Mensal,Yoga,70,559,19:04:00,Presente,Noite
+2357,2024-05-31,22,Feminino,Anual,Cardio,34,235,07:35:00,Ausente,Manhã
+2358,2024-06-28,38,Outro,Mensal,Treino de força,45,294,16:36:00,Presente,Tarde
+2359,2024-04-23,30,Outro,Anual,CrossFit,42,227,20:23:00,Presente,Noite
+2360,2024-06-01,55,Feminino,Anual,CrossFit,106,942,13:01:00,Ausente,Tarde
+2361,2024-01-08,59,Masculino,Trimestral,Treino de força,110,616,08:52:00,Ausente,Manhã
+2362,2024-12-16,24,Feminino,Trimestral,Cardio,44,245,07:04:00,Presente,Manhã
+2363,2024-08-04,65,Outro,Anual,Yoga,48,293,21:40:00,Ausente,Noite
+2364,2024-07-10,49,Outro,Trimestral,CrossFit,70,699,08:34:00,Presente,Manhã
+2365,2024-03-21,27,Outro,Mensal,Treino de força,68,391,09:19:00,Ausente,Manhã
+2366,2024-03-20,57,Outro,Anual,Treino de força,111,617,11:29:00,Presente,Manhã
+2367,2024-12-21,27,Outro,Anual,CrossFit,93,857,17:12:00,Ausente,Tarde
+2368,2024-05-05,35,Masculino,Anual,Cardio,57,395,15:19:00,Ausente,Tarde
+2369,2024-11-23,20,Masculino,Anual,HIIT,36,220,10:33:00,Presente,Manhã
+2370,2024-08-27,26,Feminino,Anual,Yoga,116,769,21:29:00,Presente,Noite
+2371,2024-05-25,55,Masculino,Trimestral,CrossFit,24,193,08:30:00,Presente,Manhã
+2372,2024-11-12,64,Masculino,Anual,CrossFit,40,226,06:02:00,Presente,Manhã
+2373,2024-11-01,52,Masculino,Trimestral,Yoga,59,534,11:36:00,Ausente,Manhã
+2374,2024-05-20,49,Masculino,Anual,CrossFit,72,402,20:40:00,Presente,Noite
+2375,2024-02-29,22,Feminino,Mensal,Treino de força,73,404,07:56:00,Presente,Manhã
+2376,2024-05-14,22,Feminino,Anual,Yoga,42,214,16:51:00,Presente,Tarde
+2377,2024-10-24,56,Feminino,Trimestral,CrossFit,49,377,10:31:00,Presente,Manhã
+2378,2024-01-02,43,Masculino,Trimestral,Cardio,70,368,16:56:00,Ausente,Tarde
+2379,2024-05-07,47,Outro,Trimestral,HIIT,92,784,20:48:00,Presente,Noite
+2380,2024-03-16,37,Feminino,Mensal,HIIT,95,807,19:49:00,Ausente,Noite
+2381,2024-08-01,33,Outro,Anual,Yoga,112,573,07:31:00,Ausente,Manhã
+2382,2024-08-28,62,Outro,Anual,CrossFit,86,743,13:46:00,Ausente,Tarde
+2383,2024-12-24,46,Outro,Trimestral,HIIT,59,573,06:27:00,Presente,Manhã
+2384,2024-08-31,20,Masculino,Anual,CrossFit,113,968,09:09:00,Presente,Manhã
+2385,2024-11-08,64,Feminino,Mensal,HIIT,42,224,13:10:00,Ausente,Tarde
+2386,2024-07-06,54,Masculino,Trimestral,HIIT,89,610,08:17:00,Ausente,Manhã
+2387,2024-02-03,21,Feminino,Trimestral,Cardio,51,364,07:57:00,Presente,Manhã
+2388,2024-09-19,49,Feminino,Trimestral,Treino de força,78,554,13:40:00,Presente,Tarde
+2389,2024-02-16,40,Masculino,Anual,Yoga,81,489,05:42:00,Ausente,Manhã
+2390,2024-09-24,43,Masculino,Mensal,Yoga,26,220,19:25:00,Presente,Noite
+2391,2024-12-08,58,Feminino,Anual,Cardio,43,266,22:15:00,Presente,Noite
+2392,2024-10-15,51,Feminino,Mensal,Cardio,88,566,17:48:00,Ausente,Tarde
+2393,2024-07-06,59,Feminino,Anual,CrossFit,94,801,18:02:00,Presente,Noite
+2394,2024-11-02,61,Outro,Anual,Treino de força,55,473,10:44:00,Ausente,Manhã
+2395,2024-08-03,63,Masculino,Mensal,Treino de força,88,728,20:29:00,Ausente,Noite
+2396,2024-05-23,28,Masculino,Trimestral,Treino de força,117,1131,08:51:00,Ausente,Manhã
+2397,2024-12-27,59,Masculino,Anual,Cardio,40,284,21:36:00,Ausente,Noite
+2398,2024-11-16,54,Feminino,Mensal,Yoga,20,160,07:44:00,Ausente,Manhã
+2399,2024-11-02,37,Feminino,Mensal,CrossFit,62,552,21:47:00,Presente,Noite
+2400,2024-09-01,63,Feminino,Trimestral,Cardio,53,501,12:21:00,Presente,Tarde
+2401,2024-06-15,35,Masculino,Trimestral,HIIT,65,566,05:00:00,Ausente,Manhã
+2402,2024-04-20,18,Outro,Trimestral,Yoga,49,402,10:10:00,Presente,Manhã
+2403,2024-03-02,63,Outro,Mensal,Yoga,51,451,14:01:00,Presente,Tarde
+2404,2024-01-02,19,Outro,Anual,CrossFit,23,227,09:09:00,Ausente,Manhã
+2405,2024-12-12,26,Feminino,Trimestral,Cardio,90,814,07:13:00,Ausente,Manhã
+2406,2024-01-15,41,Masculino,Anual,HIIT,82,761,08:09:00,Presente,Manhã
+2407,2024-09-01,40,Masculino,Mensal,CrossFit,76,542,20:54:00,Ausente,Noite
+2408,2024-01-27,64,Masculino,Trimestral,Treino de força,70,466,06:44:00,Presente,Manhã
+2409,2024-03-28,62,Masculino,Anual,CrossFit,94,868,07:48:00,Ausente,Manhã
+2410,2024-03-17,53,Masculino,Trimestral,Treino de força,41,322,06:33:00,Presente,Manhã
+2411,2024-01-09,54,Outro,Trimestral,Treino de força,81,721,20:34:00,Ausente,Noite
+2412,2024-07-17,31,Masculino,Anual,CrossFit,76,504,17:55:00,Presente,Tarde
+2413,2024-02-25,37,Feminino,Trimestral,Yoga,58,337,06:48:00,Presente,Manhã
+2414,2024-09-13,47,Outro,Anual,Yoga,85,659,15:48:00,Presente,Tarde
+2415,2024-06-01,47,Feminino,Trimestral,Cardio,62,568,11:08:00,Ausente,Manhã
+2416,2024-12-19,19,Feminino,Mensal,Yoga,91,670,12:45:00,Presente,Tarde
+2417,2024-04-26,33,Masculino,Anual,Cardio,51,368,21:12:00,Ausente,Noite
+2418,2024-04-23,50,Outro,Trimestral,HIIT,40,233,20:09:00,Presente,Noite
+2419,2024-04-06,34,Masculino,Trimestral,Cardio,62,533,21:05:00,Ausente,Noite
+2420,2024-12-28,38,Masculino,Trimestral,Yoga,91,843,08:01:00,Ausente,Manhã
+2421,2024-12-22,64,Feminino,Mensal,Cardio,40,237,11:17:00,Ausente,Manhã
+2422,2024-12-17,48,Outro,Anual,CrossFit,107,651,19:53:00,Ausente,Noite
+2423,2024-09-07,55,Outro,Mensal,Yoga,86,829,22:37:00,Presente,Noite
+2424,2024-07-28,23,Outro,Trimestral,Yoga,115,972,20:14:00,Presente,Noite
+2425,2024-05-07,42,Feminino,Trimestral,CrossFit,22,136,22:14:00,Ausente,Noite
+2426,2024-10-20,63,Masculino,Mensal,Yoga,21,106,22:11:00,Ausente,Noite
+2427,2024-06-27,61,Feminino,Anual,Treino de força,104,738,06:58:00,Ausente,Manhã
+2428,2024-11-14,27,Outro,Trimestral,Cardio,63,598,09:27:00,Presente,Manhã
+2429,2024-07-15,48,Masculino,Trimestral,Yoga,105,795,14:32:00,Ausente,Tarde
+2430,2024-02-24,60,Masculino,Trimestral,Cardio,54,319,22:47:00,Ausente,Noite
+2431,2024-09-03,45,Masculino,Anual,Yoga,87,605,16:04:00,Ausente,Tarde
+2432,2024-05-27,42,Masculino,Mensal,CrossFit,56,429,19:05:00,Ausente,Noite
+2433,2024-10-24,19,Outro,Anual,Cardio,29,208,06:59:00,Ausente,Manhã
+2434,2024-09-20,53,Feminino,Trimestral,Yoga,100,519,15:29:00,Presente,Tarde
+2435,2024-11-05,52,Masculino,Mensal,Cardio,23,133,20:30:00,Ausente,Noite
+2436,2024-11-13,48,Masculino,Mensal,CrossFit,24,155,11:33:00,Ausente,Manhã
+2437,2024-08-18,43,Masculino,Mensal,Treino de força,36,350,09:39:00,Presente,Manhã
+2438,2024-04-07,21,Feminino,Trimestral,Treino de força,118,1037,12:39:00,Ausente,Tarde
+2439,2024-04-07,38,Outro,Trimestral,Treino de força,115,919,11:46:00,Presente,Manhã
+2440,2024-11-24,63,Feminino,Mensal,Cardio,120,767,19:47:00,Presente,Noite
+2441,2024-03-01,35,Masculino,Anual,Cardio,115,720,21:58:00,Ausente,Noite
+2442,2024-02-12,50,Feminino,Anual,Yoga,68,461,05:17:00,Presente,Manhã
+2443,2024-01-05,50,Masculino,Trimestral,Yoga,97,820,16:12:00,Presente,Tarde
+2444,2024-12-08,21,Feminino,Anual,CrossFit,87,864,16:40:00,Presente,Tarde
+2445,2024-09-25,41,Outro,Trimestral,Treino de força,28,161,14:34:00,Ausente,Tarde
+2446,2024-10-13,53,Feminino,Trimestral,HIIT,67,585,20:05:00,Presente,Noite
+2447,2024-12-29,26,Outro,Trimestral,HIIT,103,575,05:35:00,Presente,Manhã
+2448,2024-07-04,25,Feminino,Trimestral,CrossFit,104,1023,16:14:00,Presente,Tarde
+2449,2024-02-18,24,Masculino,Trimestral,Treino de força,26,134,06:26:00,Ausente,Manhã
+2450,2024-04-14,64,Masculino,Anual,HIIT,90,519,06:44:00,Presente,Manhã
+2451,2024-08-23,33,Masculino,Trimestral,Yoga,24,189,18:12:00,Ausente,Noite
+2452,2024-08-03,45,Masculino,Trimestral,HIIT,73,374,19:56:00,Presente,Noite
+2453,2024-03-08,60,Feminino,Mensal,HIIT,103,990,06:44:00,Ausente,Manhã
+2454,2024-05-21,22,Feminino,Anual,Yoga,56,516,07:19:00,Presente,Manhã
+2455,2024-07-14,33,Masculino,Anual,Treino de força,43,378,09:52:00,Ausente,Manhã
+2456,2024-07-15,62,Masculino,Trimestral,CrossFit,71,448,12:24:00,Ausente,Tarde
+2457,2024-06-28,57,Masculino,Mensal,Yoga,102,518,06:46:00,Presente,Manhã
+2458,2024-08-25,61,Feminino,Anual,Treino de força,20,130,06:00:00,Presente,Manhã
+2459,2024-06-23,23,Masculino,Anual,Yoga,70,690,22:21:00,Ausente,Noite
+2460,2024-10-29,19,Masculino,Trimestral,Treino de força,120,1137,11:59:00,Ausente,Manhã
+2461,2024-12-01,40,Feminino,Trimestral,HIIT,27,191,14:50:00,Ausente,Tarde
+2462,2024-08-22,19,Outro,Mensal,Cardio,111,827,07:16:00,Ausente,Manhã
+2463,2024-04-20,18,Feminino,Mensal,HIIT,69,351,08:58:00,Presente,Manhã
+2464,2024-01-15,34,Feminino,Mensal,HIIT,26,248,16:22:00,Presente,Tarde
+2465,2024-02-19,63,Masculino,Anual,Treino de força,98,517,18:33:00,Ausente,Noite
+2466,2024-06-27,50,Outro,Anual,Treino de força,79,630,10:47:00,Ausente,Manhã
+2467,2024-11-12,47,Masculino,Mensal,Cardio,54,346,20:44:00,Presente,Noite
+2468,2024-06-08,29,Feminino,Anual,CrossFit,114,882,18:28:00,Ausente,Noite
+2469,2024-06-09,63,Masculino,Anual,Yoga,78,628,11:43:00,Presente,Manhã
+2470,2024-06-15,49,Masculino,Trimestral,HIIT,78,566,17:23:00,Ausente,Tarde
+2471,2024-11-02,19,Outro,Anual,CrossFit,59,353,21:27:00,Ausente,Noite
+2472,2024-02-03,49,Feminino,Mensal,Yoga,46,292,15:44:00,Presente,Tarde
+2473,2024-06-03,65,Outro,Mensal,Cardio,114,619,13:21:00,Presente,Tarde
+2474,2024-01-08,62,Feminino,Anual,Treino de força,83,521,13:38:00,Presente,Tarde
+2475,2024-08-24,40,Masculino,Mensal,Cardio,59,577,14:13:00,Presente,Tarde
+2476,2024-08-13,52,Feminino,Trimestral,HIIT,56,325,21:09:00,Presente,Noite
+2477,2024-12-02,54,Feminino,Anual,Yoga,75,670,14:27:00,Presente,Tarde
+2478,2024-08-04,60,Feminino,Mensal,CrossFit,94,729,11:57:00,Presente,Manhã
+2479,2024-11-27,62,Masculino,Mensal,HIIT,99,744,05:16:00,Ausente,Manhã
+2480,2024-07-10,32,Outro,Anual,HIIT,70,551,16:12:00,Presente,Tarde
+2481,2024-12-25,28,Outro,Anual,Yoga,40,382,09:49:00,Ausente,Manhã
+2482,2024-01-21,20,Masculino,Anual,Yoga,31,271,08:05:00,Ausente,Manhã
+2483,2024-11-15,43,Feminino,Anual,Treino de força,114,1094,21:29:00,Presente,Noite
+2484,2024-02-29,39,Feminino,Mensal,Cardio,116,844,16:50:00,Ausente,Tarde
+2485,2024-10-27,63,Masculino,Anual,HIIT,55,369,16:09:00,Presente,Tarde
+2486,2024-10-13,48,Feminino,Anual,Treino de força,77,665,16:18:00,Presente,Tarde
+2487,2024-03-20,51,Feminino,Mensal,CrossFit,66,541,07:24:00,Ausente,Manhã
+2488,2024-03-07,39,Outro,Anual,Cardio,116,1065,16:03:00,Ausente,Tarde
+2489,2024-01-07,59,Feminino,Mensal,HIIT,71,574,14:21:00,Presente,Tarde
+2490,2024-06-14,30,Outro,Anual,CrossFit,81,469,05:21:00,Presente,Manhã
+2491,2024-03-14,65,Feminino,Trimestral,HIIT,70,603,12:46:00,Presente,Tarde
+2492,2024-02-07,39,Outro,Mensal,Cardio,109,1062,22:06:00,Presente,Noite
+2493,2024-08-23,59,Masculino,Trimestral,Cardio,105,960,19:07:00,Ausente,Noite
+2494,2024-02-22,64,Masculino,Trimestral,Yoga,108,918,09:23:00,Ausente,Manhã
+2495,2024-03-31,34,Feminino,Anual,Yoga,38,237,13:55:00,Ausente,Tarde
+2496,2024-09-17,35,Outro,Mensal,Cardio,42,214,07:22:00,Presente,Manhã
+2497,2024-07-05,49,Masculino,Trimestral,Cardio,113,907,06:44:00,Presente,Manhã
+2498,2024-08-24,37,Masculino,Trimestral,Cardio,111,578,06:26:00,Ausente,Manhã
+2499,2024-04-22,56,Masculino,Trimestral,HIIT,55,507,09:17:00,Ausente,Manhã
+2500,2024-11-10,25,Feminino,Anual,Cardio,78,714,06:46:00,Ausente,Manhã
+2501,2024-08-06,45,Feminino,Mensal,HIIT,59,407,12:21:00,Ausente,Tarde
+2502,2024-05-18,56,Outro,Trimestral,CrossFit,120,1140,15:53:00,Presente,Tarde
+2503,2024-12-12,40,Feminino,Mensal,Cardio,107,668,12:08:00,Presente,Tarde
+2504,2024-01-09,45,Outro,Trimestral,Yoga,74,641,12:03:00,Presente,Tarde
+2505,2024-08-19,64,Feminino,Mensal,HIIT,54,412,05:03:00,Ausente,Manhã
+2506,2024-12-16,29,Feminino,Mensal,Cardio,99,783,22:30:00,Ausente,Noite
+2507,2024-09-23,43,Feminino,Trimestral,Treino de força,61,379,19:15:00,Presente,Noite
+2508,2024-04-06,65,Feminino,Anual,CrossFit,84,680,05:09:00,Presente,Manhã
+2509,2024-09-30,34,Masculino,Trimestral,Yoga,64,605,06:08:00,Ausente,Manhã
+2510,2024-08-24,51,Masculino,Trimestral,HIIT,53,295,07:29:00,Presente,Manhã
+2511,2024-09-12,55,Outro,Mensal,Treino de força,111,582,16:17:00,Ausente,Tarde
+2512,2024-09-08,52,Feminino,Mensal,Treino de força,29,237,15:51:00,Ausente,Tarde
+2513,2024-06-13,34,Outro,Trimestral,Yoga,91,619,07:45:00,Presente,Manhã
+2514,2024-05-16,42,Feminino,Mensal,Yoga,106,534,12:49:00,Ausente,Tarde
+2515,2024-05-07,62,Outro,Anual,CrossFit,113,950,09:01:00,Ausente,Manhã
+2516,2024-11-02,54,Feminino,Anual,Yoga,113,853,19:01:00,Ausente,Noite
+2517,2024-07-15,58,Outro,Trimestral,CrossFit,116,964,20:18:00,Presente,Noite
+2518,2024-10-18,60,Masculino,Anual,HIIT,68,442,07:27:00,Presente,Manhã
+2519,2024-08-10,51,Feminino,Mensal,Cardio,82,795,17:54:00,Ausente,Tarde
+2520,2024-04-24,33,Feminino,Anual,HIIT,93,630,17:26:00,Presente,Tarde
+2521,2024-03-16,55,Masculino,Anual,Yoga,38,206,14:19:00,Ausente,Tarde
+2522,2024-05-22,50,Feminino,Trimestral,Treino de força,65,422,09:53:00,Ausente,Manhã
+2523,2024-12-28,28,Outro,Mensal,CrossFit,29,231,05:19:00,Presente,Manhã
+2524,2024-05-30,39,Masculino,Mensal,Cardio,101,705,17:12:00,Presente,Tarde
+2525,2024-12-01,41,Feminino,Anual,Yoga,47,406,12:04:00,Presente,Tarde
+2526,2024-04-05,55,Outro,Anual,Treino de força,77,433,15:39:00,Presente,Tarde
+2527,2024-06-04,43,Feminino,Mensal,Yoga,111,670,18:50:00,Ausente,Noite
+2528,2024-06-06,32,Outro,Anual,HIIT,58,374,08:15:00,Ausente,Manhã
+2529,2024-01-28,41,Outro,Anual,Treino de força,91,686,10:04:00,Presente,Manhã
+2530,2024-07-25,25,Masculino,Mensal,Treino de força,110,763,09:24:00,Presente,Manhã
+2531,2024-09-22,43,Feminino,Mensal,CrossFit,42,265,09:35:00,Presente,Manhã
+2532,2024-01-24,27,Outro,Anual,Cardio,49,446,16:51:00,Ausente,Tarde
+2533,2024-10-02,37,Feminino,Trimestral,Cardio,90,716,07:01:00,Ausente,Manhã
+2534,2024-04-21,41,Masculino,Anual,Yoga,100,660,07:35:00,Presente,Manhã
+2535,2024-10-06,62,Feminino,Trimestral,Cardio,51,446,07:45:00,Presente,Manhã
+2536,2024-06-24,38,Outro,Trimestral,Yoga,38,274,09:04:00,Presente,Manhã
+2537,2024-02-25,42,Outro,Mensal,Treino de força,66,655,20:54:00,Presente,Noite
+2538,2024-05-04,23,Feminino,Mensal,Yoga,107,891,11:49:00,Ausente,Manhã
+2539,2024-02-27,45,Outro,Mensal,HIIT,85,720,05:57:00,Presente,Manhã
+2540,2024-01-08,57,Outro,Trimestral,Cardio,103,890,14:46:00,Presente,Tarde
+2541,2024-02-06,33,Feminino,Anual,Treino de força,50,472,07:32:00,Presente,Manhã
+2542,2024-10-23,45,Masculino,Anual,Treino de força,120,1037,15:57:00,Presente,Tarde
+2543,2024-07-31,46,Masculino,Mensal,Cardio,32,269,11:12:00,Ausente,Manhã
+2544,2024-03-09,28,Masculino,Anual,Cardio,35,251,09:08:00,Presente,Manhã
+2545,2024-10-09,39,Masculino,Trimestral,HIIT,76,387,20:57:00,Ausente,Noite
+2546,2024-12-11,53,Feminino,Trimestral,CrossFit,63,584,07:38:00,Ausente,Manhã
+2547,2024-10-10,57,Outro,Mensal,CrossFit,60,414,22:18:00,Presente,Noite
+2548,2024-03-17,50,Masculino,Anual,CrossFit,105,999,22:49:00,Ausente,Noite
+2549,2024-09-15,64,Feminino,Anual,HIIT,24,211,05:58:00,Presente,Manhã
+2550,2024-12-22,42,Feminino,Mensal,Cardio,86,694,18:06:00,Ausente,Noite
+2551,2024-11-01,36,Outro,Mensal,Cardio,22,151,09:49:00,Ausente,Manhã
+2552,2024-06-28,46,Outro,Trimestral,CrossFit,62,433,06:56:00,Ausente,Manhã
+2553,2024-04-08,36,Outro,Mensal,Treino de força,60,495,06:27:00,Presente,Manhã
+2554,2024-05-26,23,Feminino,Mensal,CrossFit,27,180,11:56:00,Ausente,Manhã
+2555,2024-09-09,21,Masculino,Anual,Treino de força,28,152,05:41:00,Ausente,Manhã
+2556,2024-03-15,30,Masculino,Mensal,Treino de força,78,582,19:50:00,Ausente,Noite
+2557,2024-04-04,43,Outro,Anual,HIIT,80,654,22:56:00,Ausente,Noite
+2558,2024-08-12,32,Outro,Anual,HIIT,75,502,05:07:00,Ausente,Manhã
+2559,2024-11-20,48,Feminino,Trimestral,CrossFit,98,544,08:33:00,Ausente,Manhã
+2560,2024-09-19,58,Outro,Trimestral,Treino de força,79,455,19:51:00,Ausente,Noite
+2561,2024-06-08,52,Outro,Trimestral,Treino de força,81,685,17:07:00,Ausente,Tarde
+2562,2024-06-22,57,Masculino,Mensal,HIIT,81,805,05:03:00,Ausente,Manhã
+2563,2024-06-08,51,Feminino,Anual,HIIT,84,720,08:36:00,Ausente,Manhã
+2564,2024-09-04,36,Masculino,Mensal,CrossFit,74,402,21:29:00,Ausente,Noite
+2565,2024-02-12,33,Masculino,Anual,Treino de força,91,787,19:41:00,Ausente,Noite
+2566,2024-09-02,46,Outro,Anual,HIIT,22,193,12:50:00,Presente,Tarde
+2567,2024-02-13,20,Masculino,Mensal,Treino de força,47,442,12:43:00,Ausente,Tarde
+2568,2024-12-06,29,Outro,Mensal,Treino de força,50,316,16:54:00,Ausente,Tarde
+2569,2024-07-20,64,Outro,Trimestral,HIIT,112,607,16:03:00,Ausente,Tarde
+2570,2024-11-17,56,Feminino,Anual,CrossFit,62,377,14:21:00,Presente,Tarde
+2571,2024-07-07,50,Feminino,Anual,Cardio,62,387,12:11:00,Ausente,Tarde
+2572,2024-09-08,58,Masculino,Trimestral,HIIT,89,615,15:19:00,Ausente,Tarde
+2573,2024-01-28,45,Outro,Trimestral,HIIT,29,152,12:31:00,Ausente,Tarde
+2574,2024-04-06,28,Outro,Anual,HIIT,66,501,06:00:00,Ausente,Manhã
+2575,2024-11-20,46,Outro,Anual,CrossFit,100,816,21:47:00,Presente,Noite
+2576,2024-11-21,41,Feminino,Trimestral,Cardio,42,331,21:56:00,Presente,Noite
+2577,2024-09-16,34,Masculino,Mensal,CrossFit,99,933,07:42:00,Presente,Manhã
+2578,2024-06-30,18,Masculino,Anual,CrossFit,77,417,13:19:00,Presente,Tarde
+2579,2024-01-26,23,Feminino,Mensal,Yoga,52,327,13:01:00,Ausente,Tarde
+2580,2024-05-09,38,Masculino,Mensal,Treino de força,115,920,11:04:00,Ausente,Manhã
+2581,2024-05-11,33,Outro,Mensal,CrossFit,104,626,10:09:00,Ausente,Manhã
+2582,2024-09-10,22,Feminino,Anual,CrossFit,118,1037,20:32:00,Presente,Noite
+2583,2024-10-27,50,Masculino,Mensal,CrossFit,49,408,08:06:00,Presente,Manhã
+2584,2024-04-01,50,Outro,Anual,HIIT,115,720,17:42:00,Presente,Tarde
+2585,2024-01-13,24,Outro,Mensal,Treino de força,51,344,11:47:00,Ausente,Manhã
+2586,2024-10-25,27,Masculino,Mensal,HIIT,26,183,12:37:00,Presente,Tarde
+2587,2024-10-04,59,Masculino,Anual,Cardio,106,801,05:35:00,Ausente,Manhã
+2588,2024-08-02,57,Masculino,Anual,Cardio,115,696,09:08:00,Ausente,Manhã
+2589,2024-09-25,57,Feminino,Mensal,Cardio,90,778,22:59:00,Ausente,Noite
+2590,2024-12-23,22,Feminino,Mensal,CrossFit,57,340,09:33:00,Ausente,Manhã
+2591,2024-02-14,62,Masculino,Trimestral,CrossFit,77,496,05:50:00,Presente,Manhã
+2592,2024-09-29,54,Feminino,Anual,Cardio,31,211,10:50:00,Presente,Manhã
+2593,2024-09-10,64,Outro,Anual,Treino de força,84,469,10:05:00,Ausente,Manhã
+2594,2024-12-18,65,Masculino,Anual,CrossFit,114,949,13:55:00,Presente,Tarde
+2595,2024-12-08,47,Masculino,Mensal,Treino de força,26,249,13:15:00,Presente,Tarde
+2596,2024-07-20,64,Feminino,Trimestral,Yoga,63,443,19:07:00,Ausente,Noite
+2597,2024-05-13,22,Outro,Trimestral,CrossFit,32,282,08:39:00,Presente,Manhã
+2598,2024-04-27,44,Masculino,Trimestral,CrossFit,94,875,22:49:00,Presente,Noite
+2599,2024-12-20,62,Masculino,Anual,HIIT,58,303,10:38:00,Presente,Manhã
+2600,2024-04-01,62,Feminino,Anual,Treino de força,65,610,05:42:00,Presente,Manhã

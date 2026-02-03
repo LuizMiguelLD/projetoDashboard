@@ -1,1 +1,10 @@
-# projetoDashboard
+<h1>📊 Projeto Dashboard</h1>
+<h3>🔎 Sobre</h3>
+<p>Esse projeto foi uma criação minha se baseando nos conceitos que a <strong>imersão Alura</strong> tinha me ensinado. Essa foi uma imersão para trabalhar com dados em <code>Python</code>, sendo a ideia principal criar um dasboard do zero.</p>
+<p>Projeto de referência:</p>
+<p>https://www.grupodicas.com/roma-guia-de-viagem/</p>
+<h3>🎯 Objetivo</h3>
+<p>O objetivo do projeto foi aplicar os conceitos que tinha aprendido na imersão Alura.</p>
+<h3>💻 Acesso</h3>
+<p>Você pode acessar o projeto pelo link abaixo:</p>
+<p>https://luizmiguelld.github.io/projetoViagem//</p>

@@ -11,4 +11,4 @@
 </ul>
 <h3>💻 Acesso</h3>
 <p>Você pode acessar o projeto pelo link abaixo:</p>
-<p>https://luizmiguelld.github.io/projetoViagem//</p>
+<p>https://projetodashboard2026.streamlit.app/</p>
